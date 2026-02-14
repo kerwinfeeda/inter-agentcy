@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Shield, ArrowRight, Scan, Handshake, Link2 } from "lucide-react";
+import { Shield, ArrowRight, Scan, Handshake, Link2, GraduationCap, Briefcase, Globe, CheckCircle2 } from "lucide-react";
 
 const roles = [
   { id: "agent", label: "Licensed Agent", desc: "Execute deals, manage player contracts", icon: Shield, features: ["Full CRM & deal pipeline", "FIFA compliance tools", "Club network access"] },
@@ -43,8 +43,23 @@ export default function RegisterPage() {
         {/* Step 1: Choose Role */}
         {step === 1 && (
           <div>
-            <h1 className="text-2xl font-bold text-center mb-2">Choose your role</h1>
-            <p className="text-foreground-muted text-center mb-8 text-sm">Select how you&apos;ll use the platform</p>
+            <h1 className="text-2xl font-bold text-center mb-2">Join the future of football representation</h1>
+            <p className="text-foreground-muted text-center mb-8 text-sm">No experience required — we&apos;ll give you the tools, training, and network to succeed</p>
+            {/* What you'll get */}
+            <div className="grid grid-cols-2 gap-3 mb-8">
+              {[
+                { icon: GraduationCap, label: "Free Training" },
+                { icon: Briefcase, label: "Professional Tools" },
+                { icon: Globe, label: "Global Network" },
+                { icon: CheckCircle2, label: "FIFA Compliance" },
+              ].map((b) => (
+                <div key={b.label} className="card rounded-xl p-3 flex items-center gap-2.5">
+                  <b.icon className="w-4 h-4 text-accent flex-shrink-0" />
+                  <span className="text-xs text-foreground-muted">{b.label}</span>
+                </div>
+              ))}
+            </div>
+
             <div className="space-y-3">
               {roles.map((role) => (
                 <button

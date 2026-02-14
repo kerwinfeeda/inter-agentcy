@@ -1,7 +1,7 @@
 import Link from "next/link";
 import {
   Shield, ArrowRight, Briefcase, Network, FileCheck, TrendingUp,
-  Search, Users, Link2
+  Search, Users, Link2, BookOpen, Clock, GraduationCap, CheckCircle2
 } from "lucide-react";
 import StatsCounter from "@/components/StatsCounter";
 import TestimonialCarousel from "@/components/TestimonialCarousel";
@@ -71,12 +71,13 @@ export default function Home() {
               FIFA Compliant Ecosystem
             </div>
             <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
-              The Complete{" "}
-              <span className="gradient-text">Football Ecosystem</span>
+              The Modern Platform for{" "}
+              <span className="gradient-text">Football Professionals</span>
             </h1>
             <p className="text-lg md:text-xl text-foreground-muted leading-relaxed mb-10 max-w-2xl">
-              Whether you&apos;re a licensed agent, scout, representative, or introducer — Inter Agentcy
-              gives you the tools, network, and compliance to operate at the highest level.
+              Transform your football passion into a career. Whether you&apos;re a licensed agent, scout,
+              representative, or just getting started — Inter Agentcy gives you the training, tools, network,
+              and compliance to succeed.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link
@@ -97,8 +98,45 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Social Proof */}
+      <section className="py-12 bg-white/[0.02]">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p className="text-foreground-muted text-lg">
+            Join <span className="text-white font-semibold">500+</span> football professionals worldwide
+          </p>
+        </div>
+      </section>
+
       {/* Stats */}
       <StatsCounter />
+
+      {/* Anyone Can Join */}
+      <section className="py-24 bg-white/[0.02]">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Anyone Can <span className="gradient-text">Join</span>
+            </h2>
+            <p className="text-foreground-muted max-w-2xl mx-auto">
+              You don&apos;t need a licence or experience to get started. Our entry-level roles — Scout, Representative,
+              and Introducer — are open to anyone with a passion for football. We provide the training, you bring the drive.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+            {[
+              { title: "No Experience Needed", desc: "Start as a Scout or Introducer with zero industry background." },
+              { title: "Free Training", desc: "Access the Inter Academy and learn from industry professionals." },
+              { title: "Earn From Day One", desc: "Referral fees, finder&apos;s fees, and commission splits for every role." },
+            ].map((item) => (
+              <div key={item.title} className="card rounded-2xl p-6 card-hover text-center">
+                <CheckCircle2 className="w-8 h-8 text-success mx-auto mb-3" />
+                <h3 className="font-semibold mb-2">{item.title}</h3>
+                <p className="text-foreground-muted text-sm">{item.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
 
       {/* Choose Your Role */}
       <section className="py-24">
@@ -176,6 +214,80 @@ export default function Home() {
             <Link href="/ecosystem" className="inline-flex items-center gap-2 text-accent hover:underline text-sm font-medium">
               See the full ecosystem diagram <ArrowRight className="w-4 h-4" />
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Academy Preview */}
+      <section className="py-24 bg-white/[0.02]">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full card text-sm text-foreground-muted mb-4">
+              <GraduationCap className="w-4 h-4 text-accent" />
+              Inter Academy
+            </div>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              Learn From the <span className="gradient-text">Best</span>
+            </h2>
+            <p className="text-foreground-muted max-w-2xl mx-auto">
+              Structured courses built by industry professionals to get you career-ready.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {[
+              { title: "FIFA Agent Exam Preparation", hours: 40, level: "Advanced" },
+              { title: "Scouting Methodology & Report Writing", hours: 25, level: "Beginner" },
+              { title: "Transfer Negotiation Masterclass", hours: 15, level: "Intermediate" },
+              { title: "Brand Building for Football Professionals", hours: 10, level: "Beginner" },
+            ].map((c) => (
+              <div key={c.title} className="card rounded-2xl p-6 card-hover">
+                <div className="flex items-center gap-2 mb-3">
+                  <BookOpen className="w-4 h-4 text-accent" />
+                  <span className="text-xs text-foreground-dim flex items-center gap-1">
+                    <Clock className="w-3 h-3" /> {c.hours}hrs
+                  </span>
+                </div>
+                <h3 className="font-semibold text-sm mb-1">{c.title}</h3>
+                <span className={`text-xs px-2 py-0.5 rounded-full font-medium ${c.level === "Beginner" ? "text-success bg-success/10" : c.level === "Intermediate" ? "text-accent-light bg-accent/10" : "text-amber-400 bg-amber-400/10"}`}>
+                  {c.level}
+                </span>
+              </div>
+            ))}
+          </div>
+          <div className="text-center mt-10">
+            <Link href="/academy" className="inline-flex items-center gap-2 text-accent hover:underline text-sm font-medium">
+              View all courses <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* How Inter Agentcy Works (Fora-style) */}
+      <section className="py-24">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">
+              How Inter Agentcy <span className="gradient-text">Works</span>
+            </h2>
+            <p className="text-foreground-muted max-w-xl mx-auto">
+              From application to your first deal — here&apos;s the journey.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+            {[
+              { num: "01", title: "Apply & Get Accepted", desc: "Choose your role, tell us about your background, and join the community." },
+              { num: "02", title: "Complete Your Training", desc: "Follow your personalised learning track in the Inter Academy." },
+              { num: "03", title: "Build Your Network", desc: "Connect with clubs, agents, and players through warm introductions." },
+              { num: "04", title: "Start Closing Deals", desc: "Use our tools to negotiate, execute, and earn on every deal." },
+            ].map((s) => (
+              <div key={s.num} className="relative card rounded-2xl p-8 group card-hover">
+                <span className="text-5xl font-black text-accent/10 absolute top-4 right-6 group-hover:text-accent/20 transition-colors">
+                  {s.num}
+                </span>
+                <h3 className="text-xl font-bold mb-2">{s.title}</h3>
+                <p className="text-foreground-muted text-sm leading-relaxed">{s.desc}</p>
+              </div>
+            ))}
           </div>
         </div>
       </section>
