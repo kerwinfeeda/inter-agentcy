@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer utilities {
+  .gradient-text {
+    background: linear-gradient(135deg, #4A5568 0%, #7B8794 30%, #C0C7CE 60%, #9AAAB8 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .gradient-steel {
+    background: linear-gradient(135deg, #4A5568 0%, #7B8794 40%, #C0C7CE 70%, #9AAAB8 100%);
+  }
+  .gradient-steel-btn {
+    background: linear-gradient(135deg, #5A6B7A 0%, #7B8794 50%, #9AAAB8 100%);
+  }
+  .gradient-steel-btn:hover {
+    background: linear-gradient(135deg, #6B7C8B 0%, #8B98A4 50%, #AABBC8 100%);
+  }
+  .gradient-steel-border {
+    border-image: linear-gradient(135deg, #4A5568, #9AAAB8) 1;
+  }
+  .card {
+    background: #131419;
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 12px;
+  }
+  .card-hover {
+    @apply hover:bg-background-elevated hover:border-border-light transition-all duration-300;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0b0b0b;
+}
+::-webkit-scrollbar-thumb {
+  background: #1a1a1e;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #7B8794;
+}
