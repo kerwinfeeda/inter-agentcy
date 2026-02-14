@@ -1,4 +1,6 @@
-import { Shield, FileText, Scale, AlertTriangle, CheckCircle, BookOpen } from "lucide-react";
+"use client";
+
+import { Shield, FileText, Scale, AlertTriangle, CheckCircle, BookOpen, ArrowRight } from "lucide-react";
 import CommissionCalculator from "@/components/CommissionCalculator";
 import Link from "next/link";
 
@@ -131,10 +133,10 @@ export default function CompliancePage() {
         {/* CTA */}
         <div className="text-center">
           <Link
-            href="/join"
+            href="/register"
             className="inline-flex items-center gap-2 px-8 py-4 gradient-steel-btn text-white font-semibold rounded-xl transition-all"
           >
-            Get Compliant Today
+            Get Compliant Today <ArrowRight className="w-4 h-4" />
           </Link>
         </div>
       </div>
