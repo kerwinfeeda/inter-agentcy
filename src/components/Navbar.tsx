@@ -14,6 +14,7 @@ const navItems: NavItem[] = [
   {
     label: "Platform",
     children: [
+      { href: "/inter-os", label: "Inter OS", desc: "The complete operating system" },
       { href: "/ecosystem", label: "Ecosystem", desc: "How the platform connects everyone" },
       { href: "/features", label: "Features", desc: "Tools and capabilities" },
       { href: "/deal-room", label: "Deal Room", desc: "Transfer command center" },
