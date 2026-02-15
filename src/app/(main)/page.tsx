@@ -7,9 +7,8 @@ import {
 import StatsCounter from "@/components/StatsCounter";
 import FeatureCard from "@/components/FeatureCard";
 import MacBookFrame from "@/components/devices/MacBookFrame";
-import PhoneFrame from "@/components/devices/PhoneFrame";
 import DashboardMockup from "@/components/showcase/DashboardMockup";
-import MobileMockup from "@/components/showcase/MobileMockup";
+import MobileShowcase from "@/components/showcase/MobileShowcase";
 
 export default function Home() {
   return (
@@ -198,48 +197,7 @@ export default function Home() {
       </section>
 
       {/* See It In Action — Mobile */}
-      <section className="py-24 bg-white/[0.02]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-            <div className="flex justify-center">
-              <div className="relative">
-                <div className="absolute inset-0 flex items-center justify-center pointer-events-none -z-10">
-                  <div className="w-[300px] h-[400px] bg-[#9AAAB8]/5 rounded-full blur-3xl" />
-                </div>
-                <PhoneFrame>
-                  <MobileMockup />
-                </PhoneFrame>
-              </div>
-            </div>
-            <div>
-              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#7B8794]/10 text-[#9AAAB8] text-sm font-medium mb-4">
-                📱 Mobile-First
-              </div>
-              <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                The Directory<br />
-                <span className="gradient-text">In Your Pocket.</span>
-              </h2>
-              <p className="text-foreground-muted mb-6 leading-relaxed">
-                Browse 2,400+ verified football agents from anywhere. Search by name, filter by country,
-                navigate A-Z — the full agent directory, optimised for mobile.
-              </p>
-              <div className="space-y-3">
-                {[
-                  "Search and filter agents on the go",
-                  "A-Z alphabetical navigation",
-                  "Verified credentials at a glance",
-                  "Tap to view full agent profiles",
-                ].map((item) => (
-                  <div key={item} className="flex items-start gap-3">
-                    <CheckCircle2 className="w-5 h-5 text-[#9AAAB8] mt-0.5 shrink-0" />
-                    <p className="text-sm text-foreground">{item}</p>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <MobileShowcase />
 
       {/* The Convergence — How It All Connects */}
       <section id="how-it-connects" className="py-24 bg-white/[0.02] scroll-mt-20">
