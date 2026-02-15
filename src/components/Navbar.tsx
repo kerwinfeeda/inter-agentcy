@@ -21,7 +21,15 @@ const navItems: NavItem[] = [
       { href: "/network", label: "Network", desc: "200+ clubs worldwide" },
     ],
   },
-  { href: "/directory", label: "Directory" },
+  {
+    label: "Directory",
+    children: [
+      { href: "/directory/agents", label: "Agents", desc: "2,400+ verified football agents" },
+      { href: "/directory/agencies", label: "Agencies", desc: "Licensed agencies and teams" },
+      { href: "/directory/players", label: "Players", desc: "139 players with profiles and stats" },
+      { href: "/directory", label: "Browse All", desc: "Full directory overview" },
+    ],
+  },
   { href: "/academy", label: "Academy" },
   { href: "/docs", label: "Docs" },
   { href: "/agents", label: "Pricing" },
