@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, Suspense } from "react";
+import { useSearchParams } from "next/navigation";
 import { ArrowRight, ArrowLeft, CheckCircle, Shield, Users, Globe, Search, Link2 } from "lucide-react";
 
 const steps = ["Your Role", "Personal Info", "Role Details", "Confirm"];
@@ -21,7 +22,8 @@ const roleCards: { key: Role; icon: typeof Shield; label: string; desc: string; 
   { key: "introducer", icon: Link2, label: "Introducer", desc: "Connect parties, earn referral commissions.", color: "border-accent-light", tag: "Unlicensed OK" },
 ];
 
-export default function JoinPage() {
+function JoinPageInner() {
+  const searchParams = useSearchParams();
   const [step, setStep] = useState(0);
   const [submitted, setSubmitted] = useState(false);
   const [form, setForm] = useState({
@@ -33,6 +35,15 @@ export default function JoinPage() {
     networkSize: "", industryConnections: "",
     regions: [] as string[], goals: "",
   });
+
+  // Pre-select role from URL param
+  useEffect(() => {
+    const role = searchParams.get("role");
+    if (role && ["agent", "scout", "rep", "introducer"].includes(role)) {
+      setForm((prev) => ({ ...prev, role: role as Role }));
+      setStep(1);
+    }
+  }, [searchParams]);
 
   const update = (key: string, value: string | string[]) => setForm({ ...form, [key]: value });
   const toggleRegion = (r: string) => {
@@ -269,5 +280,13 @@ export default function JoinPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function JoinPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen" />}>
+      <JoinPageInner />
+    </Suspense>
   );
 }

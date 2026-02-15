@@ -42,7 +42,7 @@ export default function Home() {
                 href="/join"
                 className="px-8 py-4 gradient-steel-btn text-white font-semibold rounded-xl transition-all flex items-center justify-center gap-2"
               >
-                Join the Ecosystem
+                Join the Network
                 <ArrowRight className="w-5 h-5" />
               </Link>
               <Link
@@ -124,10 +124,10 @@ export default function Home() {
 
               <div className="flex flex-col sm:flex-row gap-3">
                 <Link
-                  href="/join"
+                  href="/join?role=agent"
                   className="px-6 py-3 gradient-steel-btn text-white font-semibold rounded-xl transition-all text-center text-sm"
                 >
-                  Register as an Agent
+                  Join as an Agent
                 </Link>
                 <Link
                   href="/directory/agents"
@@ -177,7 +177,7 @@ export default function Home() {
 
               <div className="flex flex-col sm:flex-row gap-3">
                 <Link
-                  href="/join"
+                  href="/join?role=scout"
                   className="px-6 py-3 bg-[#7B8794] hover:bg-[#5A6B7A] text-white font-semibold rounded-xl transition-all text-center text-sm"
                 >
                   Join as Scout, Rep or Introducer
@@ -797,14 +797,14 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
-                  href="/join"
+                  href="/join?role=agent"
                   className="inline-flex items-center gap-2 px-8 py-4 gradient-steel-btn text-white font-semibold rounded-xl transition-all"
                 >
                   Join as an Agent
                   <Shield className="w-5 h-5" />
                 </Link>
                 <Link
-                  href="/join"
+                  href="/join?role=scout"
                   className="inline-flex items-center gap-2 px-8 py-4 card card-hover text-white font-semibold rounded-xl transition-all"
                 >
                   Join as Scout, Rep or Introducer
