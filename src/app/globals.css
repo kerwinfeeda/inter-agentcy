@@ -100,7 +100,7 @@
 }
 
 .verified-gold { color: #D4A843; }
-.verified-blue { color: #4A9EDB; }
+.verified-blue { color: #9AAAB8; }
 .verified-badge { animation: verifiedPulse 2s ease-in-out infinite; }
 @keyframes verifiedPulse {
   0%, 100% { opacity: 1; }

@@ -8,7 +8,7 @@ interface VerifiedBadgeProps {
 
 const config = {
   gold: { color: "#D4A843", label: "Verified Agency", className: "verified-gold" },
-  blue: { color: "#4A9EDB", label: "Verified Agent", className: "verified-blue" },
+  blue: { color: "#9AAAB8", label: "Verified Agent", className: "verified-blue" },
 };
 
 const sizes = { sm: "w-4 h-4", md: "w-5 h-5", lg: "w-6 h-6" };

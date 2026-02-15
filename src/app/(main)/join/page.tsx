@@ -18,7 +18,7 @@ const regions = [
 const roleCards: { key: Role; icon: typeof Shield; label: string; desc: string; color: string; tag: string }[] = [
   { key: "agent", icon: Shield, label: "Licensed Agent", desc: "Execute transfers, negotiate contracts, handle FIFA-regulated transactions.", color: "border-accent", tag: "Licensed" },
   { key: "scout", icon: Search, label: "Scout", desc: "Discover talent, create reports, earn finder's fees.", color: "border-success", tag: "Licensed or Unlicensed" },
-  { key: "rep", icon: Users, label: "Representative", desc: "Manage player careers, build brands, work with agents.", color: "border-purple-400", tag: "Unlicensed OK" },
+  { key: "rep", icon: Users, label: "Representative", desc: "Manage player careers, build brands, work with agents.", color: "border-[#7B8794]", tag: "Unlicensed OK" },
   { key: "introducer", icon: Link2, label: "Introducer", desc: "Connect parties, earn referral commissions.", color: "border-accent-light", tag: "Unlicensed OK" },
 ];
 
@@ -208,7 +208,7 @@ function JoinPageInner() {
                   <div><label className="block text-sm text-foreground-muted mb-1.5">Primary Focus</label>
                     <div className="grid grid-cols-2 gap-3">
                       {[["career", "Career Management"], ["brand", "Brand Building"], ["social", "Social Media"], ["all", "Full Service"]].map(([val, label]) => (
-                        <button key={val} onClick={() => update("repFocus", val)} className={`p-3 rounded-xl text-sm transition-all ${form.repFocus === val ? "bg-purple-400/20 border-2 border-purple-400" : "card card-hover"}`}>{label}</button>
+                        <button key={val} onClick={() => update("repFocus", val)} className={`p-3 rounded-xl text-sm transition-all ${form.repFocus === val ? "bg-[#7B8794]/20 border-2 border-[#7B8794]" : "card card-hover"}`}>{label}</button>
                       ))}
                     </div>
                   </div>

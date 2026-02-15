@@ -16,9 +16,8 @@ const footerLinks = {
   ],
   Resources: [
     { href: "/compliance", label: "FIFA Regulations" },
-    { href: "#", label: "Blog" },
-    { href: "#", label: "Documentation" },
-    { href: "#", label: "Support" },
+    { href: "/docs", label: "Documentation" },
+    { href: "/contact", label: "Support" },
   ],
 };
 
@@ -44,7 +43,7 @@ export default function Footer() {
               <a href="#" className="text-foreground-muted hover:text-accent transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="#" className="text-foreground-muted hover:text-accent transition-colors">
+              <a href="mailto:hello@interagentcy.com" className="text-foreground-muted hover:text-accent transition-colors">
                 <Mail className="w-5 h-5" />
               </a>
             </div>
@@ -69,12 +68,12 @@ export default function Footer() {
         </div>
         <div className="mt-12 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-foreground-dim">
-            © 2024 Inter Agentcy. All rights reserved.
+            © 2025 Inter Agentcy. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-foreground-dim">
-            <a href="#" className="hover:text-white transition-colors">Privacy</a>
-            <a href="#" className="hover:text-white transition-colors">Terms</a>
-            <a href="#" className="hover:text-white transition-colors">Cookies</a>
+            <Link href="/privacy" className="hover:text-white transition-colors">Privacy</Link>
+            <Link href="/terms" className="hover:text-white transition-colors">Terms</Link>
+            <Link href="/cookies" className="hover:text-white transition-colors">Cookies</Link>
           </div>
         </div>
       </div>

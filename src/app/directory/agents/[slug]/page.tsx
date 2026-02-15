@@ -63,7 +63,7 @@ export default function AgentProfilePage({ params }: { params: { slug: string } 
         <div className="card p-8 mb-8">
           {/* Header */}
           <div className="flex items-start gap-4 mb-6">
-            <div className="w-16 h-16 rounded-full bg-[#1a1b23] flex items-center justify-center text-2xl font-bold text-[#4A9EDB] shrink-0">
+            <div className="w-16 h-16 rounded-full bg-[#1a1b23] flex items-center justify-center text-2xl font-bold text-[#9AAAB8] shrink-0">
               {agent.name.charAt(0)}
             </div>
             <div className="min-w-0">
@@ -80,13 +80,13 @@ export default function AgentProfilePage({ params }: { params: { slug: string } 
           {/* Badges */}
           <div className="flex flex-wrap gap-3 mb-6">
             {isFA && (
-              <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-medium bg-[#4A9EDB]/10 text-[#4A9EDB] border border-[#4A9EDB]/20">
+              <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-medium bg-[#9AAAB8]/10 text-[#9AAAB8] border border-[#9AAAB8]/20">
                 <Shield className="w-4 h-4" />
                 FA Registered Agent
               </span>
             )}
             {agent.authorisedMinors ? (
-              <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+              <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-sm font-medium bg-[#9AAAB8]/10 text-[#9AAAB8] border border-[#9AAAB8]/20">
                 <Baby className="w-4 h-4" />
                 Authorised to Represent Minors
                 {agent.authorisedMinorsUntil && (
@@ -159,7 +159,7 @@ export default function AgentProfilePage({ params }: { params: { slug: string } 
               <Link
                 href={`https://www.footballagencies.com${agent.href}`}
                 target="_blank"
-                className="inline-flex items-center gap-1 text-xs text-[#4A9EDB] hover:underline mt-1"
+                className="inline-flex items-center gap-1 text-xs text-[#9AAAB8] hover:underline mt-1"
               >
                 View on footballagencies.com <ExternalLink className="w-3 h-3" />
               </Link>
@@ -175,7 +175,7 @@ export default function AgentProfilePage({ params }: { params: { slug: string } 
               {similar.map((s) => (
                 <Link key={s.slug} href={`/directory/agents/${s.slug}`}>
                   <div className="card card-hover p-4 flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-full bg-[#1a1b23] flex items-center justify-center text-sm font-bold text-[#4A9EDB] shrink-0">
+                    <div className="w-10 h-10 rounded-full bg-[#1a1b23] flex items-center justify-center text-sm font-bold text-[#9AAAB8] shrink-0">
                       {s.name.charAt(0)}
                     </div>
                     <div className="min-w-0">

@@ -5,7 +5,7 @@ const flowSteps = [
   {
     icon: Search,
     title: "Scouts",
-    color: "from-success to-emerald-500",
+    color: "from-success to-[#9AAAB8]",
     borderColor: "border-success/30",
     description: "Discover talent across the globe. Create scouting reports, upload video, track player development.",
     action: "Find talent →",
@@ -13,8 +13,8 @@ const flowSteps = [
   {
     icon: Users,
     title: "Representatives",
-    color: "from-purple-400 to-violet-500",
-    borderColor: "border-purple-400/30",
+    color: "from-[#7B8794] to-violet-500",
+    borderColor: "border-[#7B8794]/30",
     description: "Manage player careers, build personal brands, develop social media presence, plan career trajectories.",
     action: "Manage careers →",
   },
@@ -29,7 +29,7 @@ const flowSteps = [
   {
     icon: Building2,
     title: "Clubs",
-    color: "from-accent to-amber-400",
+    color: "from-accent to-[#C0C7CE]",
     borderColor: "border-accent/30",
     description: "Access verified talent pipelines, work with compliant agents, streamline recruitment and transfers.",
     action: "Sign players",
@@ -105,7 +105,7 @@ export default function EcosystemPage() {
 
             {/* Introducer overlay */}
             <div className="mt-8 card rounded-2xl p-6 border border-accent/20 max-w-md mx-auto text-center">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-accent to-amber-400 flex items-center justify-center mx-auto mb-3">
+              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-accent to-[#C0C7CE] flex items-center justify-center mx-auto mb-3">
                 <Link2 className="w-5 h-5 text-white" />
               </div>
               <h3 className="text-lg font-bold mb-2">Introducers</h3>
@@ -154,7 +154,7 @@ export default function EcosystemPage() {
             <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-center">
               {[
                 { label: "Scouts Find", icon: Search, color: "text-success" },
-                { label: "Reps Manage", icon: Users, color: "text-purple-400" },
+                { label: "Reps Manage", icon: Users, color: "text-[#7B8794]" },
                 { label: "Agents Deal", icon: Shield, color: "text-accent" },
                 { label: "Everyone Earns", icon: DollarSign, color: "text-accent-light" },
               ].map((item, i) => (

@@ -60,13 +60,13 @@ export default function AgentCard({
             </span>
           )}
           {isFA && (
-            <span className="flex items-center gap-1 text-[#4A9EDB]">
+            <span className="flex items-center gap-1 text-[#9AAAB8]">
               <Shield className="w-3.5 h-3.5" />
               FA Registered
             </span>
           )}
           {authorisedMinors && (
-            <span className="flex items-center gap-1 text-emerald-400">
+            <span className="flex items-center gap-1 text-[#9AAAB8]">
               <Baby className="w-3.5 h-3.5" />
               Minors
             </span>

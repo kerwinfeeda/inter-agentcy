@@ -100,7 +100,7 @@ export default function AgentsPage() {
               onClick={() => setFilter(fb.key)}
               className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
                 filter === fb.key
-                  ? "bg-[#4A9EDB]/20 text-[#4A9EDB] border border-[#4A9EDB]/30"
+                  ? "bg-[#9AAAB8]/20 text-[#9AAAB8] border border-[#9AAAB8]/30"
                   : "bg-[#131419] text-foreground-muted border border-transparent hover:border-[#7B8794]/30"
               }`}
             >
@@ -132,9 +132,9 @@ export default function AgentsPage() {
                   disabled={!hasAgents}
                   className={`w-9 h-9 rounded-lg text-sm font-semibold transition-all ${
                     isActive
-                      ? "bg-[#4A9EDB] text-white"
+                      ? "bg-[#9AAAB8] text-white"
                       : hasAgents
-                        ? "text-foreground hover:bg-[#4A9EDB]/20 hover:text-[#4A9EDB]"
+                        ? "text-foreground hover:bg-[#9AAAB8]/20 hover:text-[#9AAAB8]"
                         : "text-foreground-dim/30 cursor-default"
                   }`}
                 >
@@ -153,7 +153,7 @@ export default function AgentsPage() {
             className="mb-10 scroll-mt-36"
           >
             <div className="flex items-center gap-3 mb-4">
-              <span className="text-2xl font-bold text-[#4A9EDB]">{letter}</span>
+              <span className="text-2xl font-bold text-[#9AAAB8]">{letter}</span>
               <div className="flex-1 h-px bg-border" />
               <span className="text-xs text-foreground-muted">{grouped[letter].length} agent{grouped[letter].length !== 1 ? "s" : ""}</span>
             </div>

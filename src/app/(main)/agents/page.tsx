@@ -8,9 +8,9 @@ type RoleKey = "agents" | "scouts" | "reps" | "introducers";
 
 const roleInfo: Record<RoleKey, { icon: typeof Shield; label: string; color: string; description: string }> = {
   agents: { icon: Shield, label: "Licensed Agents", color: "from-accent to-accent-light", description: "Execute transfers, negotiate contracts, and manage players with full FIFA compliance." },
-  scouts: { icon: Search, label: "Scouts", color: "from-success to-emerald-500", description: "Discover talent, create reports, and earn finder's fees by connecting players with agents." },
-  reps: { icon: Users, label: "Representatives", color: "from-purple-400 to-violet-500", description: "Manage player careers, build brands, and collaborate with licensed agents for deal execution." },
-  introducers: { icon: Link2, label: "Introducers", color: "from-accent to-amber-400", description: "Connect players, agents, and clubs. Earn referral commissions on every introduction." },
+  scouts: { icon: Search, label: "Scouts", color: "from-success to-[#9AAAB8]", description: "Discover talent, create reports, and earn finder's fees by connecting players with agents." },
+  reps: { icon: Users, label: "Representatives", color: "from-[#7B8794] to-[#9AAAB8]", description: "Manage player careers, build brands, and collaborate with licensed agents for deal execution." },
+  introducers: { icon: Link2, label: "Introducers", color: "from-accent to-[#C0C7CE]", description: "Connect players, agents, and clubs. Earn referral commissions on every introduction." },
 };
 
 interface Tier {
