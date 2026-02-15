@@ -17,7 +17,7 @@ const navItems: NavItem[] = [
       { href: "/inter-os", label: "Inter OS", desc: "The complete operating system" },
       { href: "/ecosystem", label: "Ecosystem", desc: "How the platform connects everyone" },
       { href: "/features", label: "Features", desc: "Tools and capabilities" },
-      { href: "/deal-room", label: "Deal Room", desc: "Transfer command center" },
+      { href: "/deal-room", label: "Deal Room", desc: "Transfer marketplace & deal execution" },
       { href: "/network", label: "Network", desc: "200+ clubs worldwide" },
     ],
   },
