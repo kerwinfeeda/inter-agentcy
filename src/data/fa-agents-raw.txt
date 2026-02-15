@@ -1,0 +1,476 @@
+FARA2436 Nidal Abadi No
+FARA1530 Daren Abagun No
+FARA1983 Ramy Abbas Issa No
+FARA2338 Abdillahi Abdalla No
+FARA2433 Mohamed Abdelshafy No
+FARA0132 Ola Abdul Yes 07/03/2026
+FARA1851 Asso Abdullahi No
+FARA2183 Umar Abdullahi No
+FARA1761 Tural Abdullazada No
+FARA2368 Hamza Abdulle No
+FARA1318 jeremie abihssira No
+FARA2527 Noah Abrams No
+FARA1535 AHMED RUFAI ABUBAKAR No
+FARA2699 Mohamed Achahbar No
+FARA0474 Anthony Kajo Acheampong Yes 25/03/2027
+FARA0093 Richard Acosta Yes 04/09/2027
+FARA1359 BRIAN ADAIR Yes 22/08/2028
+FARA1623 Salley Adam Yes 02/09/2028
+FARA1157 Roy Adams Yes 23/12/2028
+FARA2341 Fahd Adamson Mansoor No
+FARA1088 Gbolahan Adarabioyo Yes 11/04/2028
+FARA2229 Kwame Adarkwa Yes 05/03/2028
+FARA0745 Georgia Adderley Yes 09/02/2027
+FARA2522 Matthew Addison No
+FARA2312 Emmanuel Addo No
+FARA1728 Adewole Adebayo No
+FARA1457 Nelson Adebayo Yes 19/09/2027
+FARA1996 Tobi Adebomi No
+FARA1409 OlaOlu Adedayo Yes 16/01/2028
+FARA2257 Ayodeji Adedo Yes 11/02/2029
+FARA1485 kolawole Adedoyin Yes 23/10/2027
+FARA2259 Abdulfatai Adegbola Yes 21/01/2029
+FARA1527 Ken Adegunwa Yes 28/08/2027
+FARA1446 Ralph Adekoya Yes 16/08/2027
+FARA2160 Tade Adekunle No
+FARA2180 Lateef Laeto Adelekan No
+FARA1550 Paul Ademuwagun Yes 11/04/2028
+FARA2842 Paul Adesoye No
+FARA1044 Daniel Adeyemo Yes 21/11/2027
+FARA2470 Ronald Adjei No
+FARA2744 Neaga Adrian-Constantin No
+FARA0662 Richard Adu Yes 05/06/2026
+FARA1134 Mark Agg-Jones No
+FARA0146 Humphrey Aghoghovbia Jr Yes 11/03/2028
+FARA1109 Steffy Agnoly No
+FARA1635 Papa Agyemang No
+FARA2097 Akua Agyemfra No
+FARA1447 Justin Agyepong Yes 24/11/2028
+FARA2359 Soilhoudine Ahamed No
+FARA2093 brendan Aherne Yes 22/10/2028
+FARA0952 Jamie Aherne No
+FARA2010 JOE-CRAIG ALOIS DODJIVI AHLINVI No
+FARA0242 Hootan Ahmadi Yes 30/09/2028
+FARA1069 Kyarash Ahmadzadeh No
+FARA0960 Adnan Ahmed Yes 31/05/2027
+FARA2162 Adam Ahmed No
+FARA2186 Ahmed Ahmed Mahmoud No
+FARA2026 Jungchul Ahn No
+FARA2192 Jungho Ahn No
+FARA0594 Ilyass Ait hamou No
+FARA0658 Michael Ajayi Yes 30/06/2026
+FARA2027 Gregoire Akcelrod No
+FARA0604 Freddie Akehurst Yes 19/05/2026
+FARA0618 Charlie Akinwunmi Yes 24/10/2028
+FARA1772 Korede Akinwunmi No
+FARA0500 Oluwatosin Akinyemi No
+FARA2659 Olubusola Akinyeni No
+FARA2123 samuel akoena Yes 25/03/2028
+FARA0493 Baser Akoodie Yes 25/03/2027
+FARA0716 Tobi David Alabi No
+FARA2258 Abdulkarim Alabi No
+FARA2751 Adeyanju Alabi No
+FARA2164 Manar Alafandi No
+FARA1808 Fahad Alahmad No
+FARA1334 Abidu Rahman Alapurayil No
+FARA2225 Miguel Alberich Arias No
+FARA1513 Guido Albers No
+FARA2463 inaki aldao No
+FARA1146 Pedro ALDAVE No
+FARA0945 Tyler Alexander-Arnold Yes 01/07/2027
+FARA1609 Miguel Alfaro Garcia No
+FARA1212 Fabio Algeri No
+FARA0648 Kamran Ali Khan No
+FARA0916 Barki Aljidaani No
+FARA0437 Onur Alkaya Yes 24/07/2027
+FARA2193 Adnan Alkic No
+FARA2207 Le Toudjida Allara No
+FARA2566 Alexander Allen Yes 31/10/2028
+FARA0034 Louis Alleyne-Symeou Yes 12/11/2027
+FARA2340 Mohamed Khalied Allie No
+FARA1433 Tapsoba Allijisse No
+FARA0669 Oleksii Alokhin No
+FARA2627 Hasan Alotaibi No
+FARA1155 Batur ALTIPARMAK No
+FARA1670 Juan Ignacio Alvarez Arias Yes 18/02/2028
+FARA0652 Jose Domingo Alvarez Tamarit Yes 15/04/2027
+FARA1902 Fabio Alves No
+FARA1073 Nuno Amadeu No
+FARA0470 Jeff Amankwah Yes 19/03/2027
+FARA2219 Samuel Teye-Larbi Amanor No
+FARA0703 Diogo Ambrioso No
+FARA2608 Kevin Amegnaglo No
+FARA2595 Federico Amicarelli No
+FARA1769 SOUFYANE AMIRECHE Yes 05/03/2028
+FARA2375 hamza ammari No
+FARA2434 Kingsley AMOAH Yes 16/07/2028
+FARA0695 Michael Kwabena Amoah No
+FARA0919 Adeola Amokomowoo No
+FARA2784 AKWASI POKU AMPOFO AGYAPONG No
+FARA0514 Samuel Amponsah No
+FARA2624 Francesco Ancarani No
+FARA0466 Calum Anderson No
+FARA0089 Elliott Anderson Yes 21/07/2026
+FARA0073 Leon Anderson Yes 15/05/2027
+FARA1254 Charlie Alexander Anderson Yes 20/06/2027
+FARA0702 Petter Andersson No
+FARA2801 Andreas Andone-Grommes No
+FARA1269 Bosun Andoyi Yes 29/09/2028
+FARA2306 Vivien ANDRE No
+FARA0978 Jens Andrei No
+FARA0627 Skylet Andrew No
+FARA0596 Nicholas Andrews Yes 17/04/2027
+FARA0794 Atta Emefie Aneke No
+FARA0319 Leon Angel Yes 28/03/2028
+FARA1033 Juan Pablo Angel Arango No
+FARA1873 Michalis Angelides Yes 05/03/2028
+FARA1181 Olugbenga Anjorin No
+FARA0621 Stefano Antonelli No
+FARA1989 Jarkko Tapio Anttila No
+FARA2390 Gregory Apelmaen No
+FARA0245 Tony Appiah Yes 30/09/2028
+FARA2298 Freebody Appiah No
+FARA0354 Michael Appiason Yes 21/05/2027
+FARA2580 Valentino Aragona No
+FARA2675 Enivete Antonio Araujo No
+FARA2721 Nuno Araujo No
+FARA0194 Alberto Araujo Corvera No
+FARA0340 Omid Arbabamin Yes 07/01/2028
+FARA0497 Mark Andrew Arber Yes 23/01/2028
+FARA1241 Nicolo Arcuri Junior No
+FARA1868 MURAT ARDICLIK No
+FARA2487 JUAN DAVID ARENAS No
+FARA0387 Vitor Arezes No
+FARA2745 Luca Ariatti No
+FARA1280 Eric Ariens No
+FARA1948 Temitope Arise Yes 30/12/2027
+FARA1887 Scott Armstrong Yes 03/02/2028
+FARA2351 Volkan Arslanbuga No
+FARA1004 Nenad Asanovic No
+FARA0630 Stephen Ashfield Yes 13/08/2027
+FARA1720 Hasham-ahmed Ashraf No
+FARA2679 Muhammed Omer Aslan No
+FARA2748 Michael Etuwe Asokwu Yes 10/02/2029
+FARA0767 Mark Aspinall Yes 11/03/2027
+FARA0229 Kenneth Asquez No
+FARA0657 N'GUESSAN ASSA ETIENNE No
+FARA2693 MATHEUS ASSAF PEREIRA No
+FARA2789 Karim Assafo No
+FARA1663 EBROTTIE ARMAND ASSALE No
+FARA2704 DAVID ASTORGA No
+FARA0233 Sefa Atay Yes 21/02/2027
+FARA1534 Christopher Atkins No
+FARA0631 David Atkinson Yes 23/10/2028
+FARA0776 Edem Attipoe No
+FARA1786 Espen Auberg No
+FARA1164 Mohammed Audu No
+FARA1842 Andrej Augustin No
+FARA1693 Alen Augustincic No
+FARA1217 Andrew Augustus No
+FARA2661 Thibault Avenel No
+FARA1629 Lucian-George Avram Yes 13/09/2027
+FARA1397 Tadrous Awad No
+FARA2510 Ersel Aybasti Yes 23/09/2028
+FARA1640 Floyd Ayite No
+FARA2220 HUGO MIGUEL AZEVEDO POVOA ALVES No
+FARA0824 Belakbir Azzelarab No
+FARA1113 Charles Ba No
+FARA1812 IBRAHIM BAAYEH Yes 30/12/2027
+FARA2275 Yunus Ersel Babagil No
+FARA0258 Christopher Babbage Yes 23/01/2027
+FARA2353 Nizard BACAR No
+FARA0804 Danny Bachmann No
+FARA1454 Ajwad Badat Yes 16/07/2027
+FARA0715 Vsevolod Badko Yes 09/06/2026
+FARA2236 Elhadj Boubacar BAH No
+FARA2369 Darya Bahrami No
+FARA1655 Adewale Bajomo No
+FARA2354 Ognjen Bajovic No
+FARA1184 Allan Bak No
+FARA0308 Dean Baker Yes 12/11/2027
+FARA2807 Guus Bakker No
+FARA0957 Mitch Bakkovens No
+FARA1598 Idrissa Balde No
+FARA0239 David Baldwin No
+FARA1216 Matthew Gerard Ball Yes 17/03/2028
+FARA0766 Andy Ball No
+FARA1051 Den Balla No
+FARA2320 AHMED BALLOUCHY No
+FARA0473 Jack Balsam No
+FARA2126 Rui Filipe Baltar Guimaraes Yes 11/03/2028
+FARA0797 ABDOUL-KADER'S BAMBA No
+FARA2072 Olamide Bamidele Yes 24/01/2028
+FARA1936 Jiwon Bang Yes 20/01/2028
+FARA2696 HOSUK BANG No
+FARA0375 Dedia Bangali No
+FARA2718 Gilbert Junior Bangu No
+FARA1896 Hamid Bangurah Yes 16/04/2028
+FARA2609 Thomas Bannatyne-Billson Yes 29/08/2028
+FARA1736 Andy Bara No
+FARA0032 Santiago Baraibar Ribero No
+FARA0394 Joseba Barandiaran Goenaga No
+FARA0822 Ali Barat Yes 23/02/2026
+FARA1988 Giorgio Barbieri No
+FARA2422 Vasili Barbis Yes 13/08/2028
+FARA2176 Ezequiel Barbosa No
+FARA2385 Pedro Alberto Barbosa Pereira No
+FARA1249 Galder Barcena Gallo No
+FARA2483 SERGIO JAVIER BARILA MARTINEZ No
+FARA0276 Joshua Barnett Yes 24/07/2026
+FARA1343 Edward Barnett Yes 26/06/2027
+FARA1390 Louis Barnfield Yes 28/10/2027
+FARA2408 Guido Baroli No
+FARA1086 Pablo Barquero No
+FARA2428 William Barrass No
+FARA0142 Graham Barrett Yes 18/06/2028
+FARA2557 Kemoho Barro No
+FARA0481 Scott Barron Yes 26/06/2027
+FARA0782 Maykon Barros Yes 22/10/2027
+FARA0548 Maik Barthel No
+FARA1057 Abiodun Baruwa Yes 06/11/2028
+FARA0397 Kevin Bas No
+FARA2103 Elvis Basanovic No
+FARA0127 Kaisor Basar Yes 12/08/2028
+FARA0798 Luca Bascherini No
+FARA0362 Patrik Bastianelli No
+FARA2253 Lucas Gonzalo Basualdo Reydo No
+FARA2425 Robert Bate Yes 13/08/2028
+FARA2453 Kitt Baugh-Love No
+FARA2548 Nils Baumgarten No
+FARA0081 Barteld Baving No
+FARA1265 James Baxter Yes 26/06/2027
+FARA0992 Arnaud Bayat No
+FARA1366 Arash Bayat No
+FARA1061 Sam Bayford No
+FARA2174 Kadri Bayhaner No
+FARA0178 Simon Bayliff Yes 03/04/2027
+FARA0489 Matthew Beadle Yes 06/11/2028
+FARA0223 Eric Beauchamp Yes 13/12/2027
+FARA0227 Steven Robert Beck Yes 28/07/2026
+FARA0503 Mikkel Venge Beck No
+FARA1281 Jonathan Beckett Yes 16/04/2028
+FARA0310 Nojan Bedroud Yes 18/11/2028
+FARA1124 Estevao Luis Bei No
+FARA2709 Yassine BEL KHADIR No
+FARA2209 Franck Belhassen No
+FARA0860 Louis Bell Yes 23/01/2027
+FARA0768 Alex Bell No
+FARA0696 Ellis Bellamy Yes 24/01/2027
+FARA0740 Jean - marc Bellefont No
+FARA2620 Sebastien BELLENCONTRE No
+FARA1937 Mohamed Belli No
+FARA0031 Mark Bellingham No
+FARA0023 Alessandro Beltrami No
+FARA2203 Idan Ben Abou No
+FARA1724 Karima Ben Aissa No
+FARA2485 Fahd Ben Azzouz No
+FARA1211 Fahid Ben Khalfallah No
+FARA2703 Yosri Ben Mbarek No
+FARA2829 Ibrahim Ben Merieme No
+FARA2108 Hanafi Ben Younes No
+FARA2641 Mehdi Benboudaoud No
+FARA0887 Aniss Benchabane No
+FARA2708 Hamza Bendafi No
+FARA0953 Ivan Marko Benes No
+FARA0267 Kamel Bengougam No
+FARA2770 Sofyane Benkheil No
+FARA0641 mark bennett No
+FARA0377 Dale Owen Bennett Yes 11/03/2027
+FARA2208 Loic BENSAID No
+FARA1980 Rachouane Benslimani No
+FARA1185 Stephen Bent Yes 11/07/2027
+FARA0936 David Berber Yes 10/10/2028
+FARA2111 Bolat Berdibekov No
+FARA2540 Kristian Bereit No
+FARA1123 Giovanni Beretta No
+FARA2499 Alexander Bergweiler No
+FARA2303 Henok Berhane No
+FARA0760 Arber Berisha No
+FARA1379 Paul Henry Berman Yes 28/08/2026
+FARA1207 HERNAN SANTIAGO BERMAN No
+FARA0933 Natanael Berntsson No
+FARA1321 Douglas Bertelli da Silva No
+FARA0449 Sergio Berti No
+FARA0859 jimmy betancourt No
+FARA2138 Modou Lamin Beyai No
+FARA0094 Jack Bezant Yes 28/02/2027
+FARA1148 Bjorn Bezemer No
+FARA1160 Ricardo Bhola Yes 03/04/2027
+FARA0736 TRA Bi Lizie Herve No
+FARA2119 Riccardo Bia No
+FARA1497 Benoit Biancheri No
+FARA1673 Hesham Bilal-Hafiz No
+FARA0472 Charlie Bilbie Yes 09/02/2027
+FARA2724 Mazlum Ali Bilecan No
+FARA2809 Muhammad Khairul Asyraf Bin Khamis No
+FARA0037 Billy Bingham Yes 09/06/2026
+FARA2473 Ismail Birant No
+FARA2281 Mark Bird Yes 27/05/2028
+FARA1499 Roberto Bisconti No
+FARA2723 Milan Bisevac Yes 09/01/2029
+FARA2818 Saverio Bivona No
+FARA1065 James Black Yes 04/04/2028
+FARA2446 Paul Black Yes 11/08/2028
+FARA0690 Alexander Black No
+FARA2468 Martin Blackshields Yes 09/09/2028
+FARA0045 Joes Blakborn No
+FARA2498 Thomas Blanchet No
+FARA0039 Daniel William Blanchett No
+FARA1580 Tom Blanchflower No
+FARA1432 Steven Scott Blatherwick Yes 16/07/2027
+FARA1357 Roy Bleau Yes 16/08/2027
+FARA1356 Riki Bleau No
+FARA0176 Leoni Blokhuis Yes 24/07/2027
+FARA2035 Gerald Boakye No
+FARA1752 Phillipe Boaz No
+FARA0287 Herve Bochud Yes 05/02/2028
+FARA2634 Arron Bockholt No
+FARA2758 Franci Bode No
+FARA0141 Alejandro Boesch Del Arco No
+FARA1931 Marian Bogatu No
+FARA2764 Christian Bogstad Lovstad No
+FARA2391 Thomas Bohm No
+FARA1097 Veronica Boiero Yes 03/06/2028
+FARA1122 ANDRE BOING No
+FARA1495 Bakary Bojang No
+FARA0440 Joe Bolger Yes 05/01/2027
+FARA0021 Paul Bollendorff No
+FARA2665 Damian Bolotnicoff No
+FARA2076 Michael Bolvig No
+FARA1465 Olaf Bonales Ferrera No
+FARA2656 Aaron Bonds Yes 22/10/2028
+FARA1846 Emmanuel Bondzie No
+FARA0112 William Bonell Yes 21/02/2027
+FARA1001 Olaf Bonny No
+FARA1962 Ryan Bony Yes 24/06/2028
+FARA0699 Jonathan Booker No
+FARA2806 Nicola Bordogna No
+FARA0878 Andrea Boscolo Yes 25/03/2027
+FARA0356 Darren Bossons Yes 31/10/2028
+FARA0255 Eugenio Botas GonzalezVillamil No
+FARA1520 Albert Botines Rates No
+FARA2317 Matteo Marco Botta No
+FARA1684 TRA LAURENT FULBERT BOTTY No
+FARA2837 Naoual BOUBCHAR No
+FARA1862 Redouane Bouchenabi No
+FARA1831 Mohamed Bouderah No
+FARA2169 Edouard Bouffannais No
+FARA1178 Ali Boughardayan No
+FARA1442 Adam Boukaiba No
+FARA1751 Madjid Boumaeur No
+FARA1453 Mohammed Bousmaha No
+FARA2308 hicham boussakouki No
+FARA2081 Lakhdar Boussakra No
+FARA2489 Monir Boutaib Yes 16/01/2027
+FARA2495 Omar Boutaib Yes 06/11/2028
+FARA0137 Tayeb Walid Bouzid No
+FARA1903 Karim Bouzidi Yes 27/02/2026
+FARA1824 Rostand Bowat No
+FARA0535 Liam Bowes Yes 30/12/2027
+FARA1257 Roscoe Bowman Yes 24/11/2028
+FARA0640 Dan Bowyer Yes 11/10/2027
+FARA2045 Edmund Brack Yes 08/07/2028
+FARA2531 PITEY JEAN FRANCOIS BRAGAYE No
+FARA1414 Sean Brailsford Yes 26/06/2027
+FARA0148 Megan Brakes Yes 12/08/2028
+FARA1234 Giovanni Branchini No
+FARA2014 Harry Brand Yes 17/02/2028
+FARA2001 Chris Brandon Yes 03/06/2028
+FARA0167 Guy Peter Bromley Branston Yes 26/08/2028
+FARA2779 Louis Brasil No
+FARA1650 Steven Bray No
+FARA1355 Sascha Breese No
+FARA1434 Adrian Brennan No
+FARA0188 Ryan Brierley Yes 24/02/2028
+FARA0056 Marcel Brillmann No
+FARA0118 Julien C. Briquez Yes 16/06/2026
+FARA0448 Diane Briscoe No
+FARA2555 Markus Brohl Yes 05/11/2028
+FARA1305 Marlon Bromfield Yes 18/06/2027
+FARA1850 David Bromley No
+FARA0531 Troy Anthony Fraser Brown Yes 17/01/2027
+FARA0317 Adam Brown Yes 24/01/2027
+FARA1907 Liam Brown Yes 23/01/2028
+FARA0939 Ashley Brown Yes 12/05/2028
+FARA2337 Raheem Brown Yes 09/12/2028
+FARA2663 Kai Browne No
+FARA1876 Lewis Brownhill Yes 30/12/2027
+FARA2774 Nikkie Bruinenberg No
+FARA1466 JAVIER BRUSES MANRESA No
+FARA1420 Muemyi Michel Buana No
+FARA0309 William Edward Buckley Yes 07/02/2027
+FARA0567 Guido Budziak No
+FARA1119 Christopher Bullock No
+FARA0257 David Buncall Yes 07/05/2028
+FARA1833 Andrei Bunescu Yes 16/01/2028
+FARA1614 Archad Burahee No
+FARA2575 Jonathan Burgess No
+FARA2587 Thorsten Burkhardt No
+FARA0769 Andrea Burla Yes 21/05/2027
+FARA1066 Edward Burleson No
+FARA2414 Andrew Burton Yes 22/08/2028
+FARA1450 Paolo Busardo No
+FARA2736 Sam Bush No
+FARA0385 Marco Busiello Yes 30/01/2029
+FARA2232 George Busumbru No
+FARA0261 Kudakwashe Butawo No
+FARA0911 Liam Butcher No
+FARA0764 Daniel Byass Yes 01/09/2028
+FARA0226 Tamas Byrne Yes 11/10/2027
+FARA0673 Margaret Byrne No
+FARA2085 Christian Bysted Christensen No
+FARA1559 Raphael Cabaraux No
+FARA2488 Simon Cabrelles No
+FARA2006 Hanz Cadet No
+FARA2318 Elie Cahen No
+FARA2635 Rade Caldovic No
+FARA1244 Juan Cale No
+FARA0350 Roberto Calenda No
+FARA0281 Ceylan Caliskan No
+FARA0642 Leon Callender Yes 01/12/2028
+FARA0494 Tyrone Callender-Edwards Yes 17/04/2027
+FARA1218 Riccardo Calleri No
+FARA1615 Jean Calve No
+FARA0033 John Calvert-Toulmin No
+FARA0196 Adrian Calvino Suarez No
+FARA0419 Joao Camacho No
+FARA0063 Martin Nicolas Camano Martin No
+FARA0757 Smaila Camara No
+FARA0107 Juan Carlos Cambeiro No
+FARA0200 Franco Camozzi No
+FARA0896 David Anthony Campbell Yes 20/06/2026
+FARA0685 Marcus Campbell Yes 05/03/2028
+FARA1754 Marek Campbell Yes 28/03/2028
+FARA2272 Jeffrey Campbell No
+FARA0447 Nathan Campbell-Welch Yes 13/02/2027
+FARA0872 Igor Campedelli Yes 17/02/2026
+FARA1610 Arturo Canales Camps No
+FARA0383 Liam Canning No
+FARA1120 Kevin Canovas No
+FARA2086 Dario Caputo Yes 29/01/2028
+FARA0072 Valdir Cardoso No
+FARA2125 Edgardo Ruben Carles Cal No
+FARA1934 Gerard Carlile No
+FARA0077 Anders Carlsson No
+FARA1748 Poul Carmes No
+FARA1236 Lucas Carminitana No
+FARA2316 Sebastien Carole No
+FARA1077 Augusto Carpeggiani No
+FARA1260 Danny Carr Yes 07/07/2026
+FARA2132 Anthony Carr No
+FARA2838 Marcelo Gabin Carrion No
+FARA0724 Liam Carroll Yes 21/02/2027
+FARA0987 James Carter No
+FARA1878 Dominic Carter No
+FARA1929 Carlos Carvalho No
+FARA0453 Sebastien Casenaz No
+FARA0732 Javier Caserza Ortega No
+FARA2831 Stefano Castagna No
+FARA2710 Oriol Castaner Yes 07/01/2029
+FARA1921 Angel Castell Andiarena No
+FARA2429 SANTIAGO CASTRO SARTI No
+FARA1266 Umberto Catarraso No
+FARA1664 Vincenzo Cavaliere No
+FARA2658 Mauro Cavalli Yes 24/10/2028
+FARA1840 Federico Cavalli No
+FARA0756 Ashur Caynes No
