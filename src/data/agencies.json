@@ -1,0 +1,3114 @@
+[
+  {
+    "name": "Wasserman",
+    "tagline": "Global Football Powerhouse",
+    "slug": "wasserman",
+    "country": "US/Global",
+    "value": "€2.2bn",
+    "href": "/football-agency/wasserman/"
+  },
+  {
+    "name": "CAA Stellar",
+    "tagline": "Record-Breaking Dealmakers",
+    "slug": "caa-stellar",
+    "country": "UK",
+    "value": "€2bn",
+    "href": "/football-agency/caa-stellar/"
+  },
+  {
+    "name": "Gestifute by Jorge Mendes",
+    "tagline": "Super Agent Powerhouse",
+    "slug": "gestifute-by-jorge-mendes",
+    "country": "Portugal",
+    "value": "€1.6bn",
+    "href": "/football-agency/gestifute-by-jorge-mendes/"
+  },
+  {
+    "name": "CAA Base",
+    "tagline": "Global Talent Brokers",
+    "slug": "caa-base",
+    "country": "United Kingdom",
+    "value": "€1.3bn",
+    "href": "/football-agency/caa-base/"
+  },
+  {
+    "name": "Unique Sports Group (USG)",
+    "tagline": "Premier Talent Pipeline",
+    "slug": "unique-sports-group-usg",
+    "country": "UK",
+    "value": "€1.2bn",
+    "href": "/football-agency/unique-sports-group-usg/"
+  },
+  {
+    "name": "ROOF – Representatives Of Outstanding Footballers",
+    "tagline": "Elite Player Hub",
+    "slug": "roof-representatives-of-outstanding-footballers",
+    "country": "Germany",
+    "value": "€1.07bn",
+    "href": "/football-agency/roof-representatives-of-outstanding-footballers/"
+  },
+  {
+    "name": "Epic Sports Agency (by Ali Barat)",
+    "tagline": "Elite Football Dealmakers",
+    "slug": "epic-sports-agency-by-ali-barat",
+    "country": "UAE",
+    "value": "€425mm",
+    "href": "/football-agency/epic-sports-agency-by-ali-barat/"
+  },
+  {
+    "name": "Bertolucci Sports",
+    "tagline": "Brazilian Talent Pipeline",
+    "slug": "bertolucci-sports",
+    "country": "Brazil",
+    "value": "€850mm",
+    "href": "/football-agency/bertolucci-sports/"
+  },
+  {
+    "name": "AS1 (As One Sports)",
+    "tagline": "Iberian Deal Powerhouse",
+    "slug": "as1-as-one-sports",
+    "country": "UK",
+    "value": "€780mm",
+    "href": "/football-agency/as1-as-one-sports/"
+  },
+  {
+    "name": "HCM Sports Management",
+    "tagline": "Nordic and Arabic Talent Gateway",
+    "slug": "hcm-sports-management",
+    "country": "UAE",
+    "value": "€692mm",
+    "href": "/football-agency/hcm-sports-management/"
+  },
+  {
+    "name": "Roc Nation Sports",
+    "tagline": "Culture-Driven Powerhouse",
+    "slug": "roc-nation-sports",
+    "country": "US/UK",
+    "value": "€685mm",
+    "href": "/football-agency/roc-nation-sports/"
+  },
+  {
+    "name": "You First — Sports & Entertainment",
+    "tagline": "Multi-Sport Brandbuilders",
+    "slug": "you-first-sports-and-entertainment",
+    "country": "Spain",
+    "value": "€500mm",
+    "href": "/football-agency/you-first-sports-and-entertainment/"
+  },
+  {
+    "name": "SEG – Sports Entertainment Group (Football)",
+    "tagline": "Global Football Dutch Agency",
+    "slug": "seg-sports-entertainment-group-football",
+    "country": "Netherlands",
+    "value": "€520mm",
+    "href": "/football-agency/seg-sports-entertainment-group-football/"
+  },
+  {
+    "name": "Elite Project Group (EPG)",
+    "tagline": "Boutique Football Agency",
+    "slug": "elite-project-group-epg",
+    "country": "UK",
+    "value": "€465mm",
+    "href": "/football-agency/elite-project-group-epg/"
+  },
+  {
+    "name": "Sports360",
+    "tagline": "German Football Agency",
+    "slug": "sports360",
+    "country": "Germany",
+    "value": "€415mm",
+    "href": "/football-agency/sports360/"
+  },
+  {
+    "name": "Deal With My Agent (DWMA)",
+    "tagline": "French Talent Agency",
+    "slug": "deal-with-my-agent-dwma",
+    "country": "France",
+    "value": "€450mm",
+    "href": "/football-agency/deal-with-my-agent-dwma/"
+  },
+  {
+    "name": "GR Sports Agency",
+    "tagline": "Italian Powerhouse",
+    "slug": "gr-sports-agency",
+    "country": "Italy",
+    "value": "€410mm",
+    "href": "/football-agency/gr-sports-agency/"
+  },
+  {
+    "name": "LIAN Sports & Partners",
+    "tagline": "Balkan Powerhouse",
+    "slug": "lian-sports-and-partners",
+    "country": "Ireland/Serbia",
+    "value": "€430mm",
+    "href": "/football-agency/lian-sports-and-partners/"
+  },
+  {
+    "name": "Sport Cover",
+    "tagline": "Paris Elite Agency",
+    "slug": "sport-cover",
+    "country": "France",
+    "value": "€400mm",
+    "href": "/football-agency/sport-cover/"
+  },
+  {
+    "name": "ProStar Football Agency",
+    "tagline": "Ukraine Talent Hub",
+    "slug": "prostar-football-agency",
+    "country": "UK/Ukraine",
+    "value": "€350mm",
+    "href": "/football-agency/prostar-football-agency/"
+  },
+  {
+    "name": "Pini Zahavi – Gol International",
+    "tagline": "Global super-agent",
+    "slug": "pini-zahavi-gol-international",
+    "country": "Israel",
+    "value": "€340mm",
+    "href": "/football-agency/pini-zahavi-gol-international/"
+  },
+  {
+    "name": "Rafaela Pimenta",
+    "tagline": "Monaco-based super-agent",
+    "slug": "rafaela-pimenta",
+    "country": "Monaco",
+    "value": "€330mm",
+    "href": "/football-agency/rafaela-pimenta/"
+  },
+  {
+    "name": "Excellence Sport Nation (ESN)",
+    "tagline": "French Boutique",
+    "slug": "excellence-sport-nation-esn",
+    "country": "France",
+    "value": "€325mm",
+    "href": "/football-agency/excellence-sport-nation-esn/"
+  },
+  {
+    "name": "11WINS GmbH",
+    "tagline": "German Boutique Agency",
+    "slug": "11wins-gmbh",
+    "country": "Germany",
+    "value": "€320mm",
+    "href": "/football-agency/11wins-gmbh/"
+  },
+  {
+    "name": "Team RAIOLA",
+    "tagline": "Legacy Powerhouse",
+    "slug": "team-raiola",
+    "country": "Monaco",
+    "value": "€315mm",
+    "href": "/football-agency/team-raiola/"
+  },
+  {
+    "name": "Universal Twenty Two (UTT)",
+    "tagline": "Global Player Agency Boutique",
+    "slug": "universal-twenty-two-utt",
+    "country": "Argentina/Global",
+    "value": "€315mm",
+    "href": "/football-agency/universal-twenty-two-utt/"
+  },
+  {
+    "name": "Link Sports Football",
+    "tagline": "Brazil Powerhouse",
+    "slug": "link-sports-football",
+    "country": "Brazil",
+    "value": "€365mm",
+    "href": "/football-agency/link-sports-football/"
+  },
+  {
+    "name": "Forza Sports Group",
+    "tagline": "International and Dutch Football Agency",
+    "slug": "forza-sports-group",
+    "country": "Netherlands",
+    "value": "€300mm",
+    "href": "/football-agency/forza-sports-group/"
+  },
+  {
+    "name": "Leaderbrock Sports Group",
+    "tagline": "Elite Spanish Football Representation",
+    "slug": "leaderbrock-sports-group",
+    "country": "Spain",
+    "value": "€270mm",
+    "href": "/football-agency/leaderbrock-sports-group/"
+  },
+  {
+    "name": "P&P Sport Management",
+    "tagline": "Elite Transfers",
+    "slug": "p-and-p-sport-management",
+    "country": "Monaco",
+    "value": "€295mm",
+    "href": "/football-agency/p-and-p-sport-management/"
+  },
+  {
+    "name": "Footfeel ISM (International Sports Management)",
+    "tagline": "International Sports Management",
+    "slug": "footfeel-ism-international-sports-management",
+    "country": "Spain",
+    "value": "€260mm",
+    "href": "/football-agency/footfeel-ism-international-sports-management/"
+  },
+  {
+    "name": "Niagara Sports Company",
+    "tagline": "Making it real",
+    "slug": "niagara-sports-company",
+    "country": "Spain",
+    "value": "€260mm",
+    "href": "/football-agency/niagara-sports-company/"
+  },
+  {
+    "name": "Nordic Sky Football Agency",
+    "tagline": "Scandinavian Leaders",
+    "slug": "nordic-sky-football-agency",
+    "country": "Sweden",
+    "value": "€255mm",
+    "href": "/football-agency/nordic-sky-football-agency/"
+  },
+  {
+    "name": "ROGON",
+    "tagline": "International Player Agency",
+    "slug": "rogon",
+    "country": "Germany",
+    "value": "€240mm",
+    "href": "/football-agency/rogon/"
+  },
+  {
+    "name": "World Soccer Agency (WSA) - Alessandro Lucci",
+    "tagline": "Elite Italian Representation",
+    "slug": "world-soccer-agency-wsa-alessandro-lucci",
+    "country": "Italy",
+    "value": "€235mm",
+    "href": "/football-agency/world-soccer-agency-wsa-alessandro-lucci/"
+  },
+  {
+    "name": "Boutique Transfers & Management (BTAM)",
+    "tagline": "Boutique Transfers from Denmark",
+    "slug": "boutique-transfers-and-management-btam",
+    "country": "Denmark",
+    "value": "€220mm",
+    "href": "/football-agency/boutique-transfers-and-management-btam/"
+  },
+  {
+    "name": "TMP Soccer",
+    "tagline": "Italian Talent Nexus",
+    "slug": "tmp-soccer",
+    "country": "Italy",
+    "value": "€230mm",
+    "href": "/football-agency/tmp-soccer/"
+  },
+  {
+    "name": "Classico Sports Management",
+    "tagline": "Elite French Representation",
+    "slug": "classico-sports-management",
+    "country": "France",
+    "value": "€255mm",
+    "href": "/football-agency/classico-sports-management/"
+  },
+  {
+    "name": "PLG Agency",
+    "tagline": "Player First Counsel",
+    "slug": "plg-agency",
+    "country": "UK",
+    "value": "€200mm",
+    "href": "/football-agency/plg-agency/"
+  },
+  {
+    "name": "Stirr Associates",
+    "tagline": "The Elite Athletes' CEO",
+    "slug": "stirr-associates",
+    "country": "Belgium",
+    "value": "€190mm",
+    "href": "/football-agency/stirr-associates/"
+  },
+  {
+    "name": "Aneke/Players Management Group",
+    "tagline": "Scandinavian-Africa Bridge",
+    "slug": "aneke-players-management-group",
+    "country": "Norway",
+    "value": "€190mm",
+    "href": "/football-agency/aneke-players-management-group/"
+  },
+  {
+    "name": "GG11 Sports Agency",
+    "tagline": "International Agency from Rome",
+    "slug": "gg11-sports-agency",
+    "country": "Italy",
+    "value": "€180mm",
+    "href": "/football-agency/gg11-sports-agency/"
+  },
+  {
+    "name": "AC Talent Sports & Entertainment",
+    "tagline": "Elite Spanish Representation",
+    "slug": "ac-talent-sports-and-entertainment",
+    "country": "Spain",
+    "value": "€180mm",
+    "href": "/football-agency/ac-talent-sports-and-entertainment/"
+  },
+  {
+    "name": "Carlos Leite Sports",
+    "tagline": "Brazilian Talent Exporters",
+    "slug": "carlos-leite-sports",
+    "country": "Brazil",
+    "value": "€180mm",
+    "href": "/football-agency/carlos-leite-sports/"
+  },
+  {
+    "name": "Bahía Internacional",
+    "tagline": "Madrid Talent Boutique",
+    "slug": "bahia-internacional",
+    "country": "Spain",
+    "value": "€165mm",
+    "href": "/football-agency/bahia-internacional/"
+  },
+  {
+    "name": "Pro Manager Sports & Marketing",
+    "tagline": "Brazil–Europe Talent Bridge",
+    "slug": "pro-manager-sports-and-marketing",
+    "country": "Brazil",
+    "value": "€165mm",
+    "href": "/football-agency/pro-manager-sports-and-marketing/"
+  },
+  {
+    "name": "Elite Consulting",
+    "tagline": "Scandi Talent Specialists",
+    "slug": "elite-consulting",
+    "country": "Denmark",
+    "value": "€160mm",
+    "href": "/football-agency/elite-consulting/"
+  },
+  {
+    "name": "BS Group International",
+    "tagline": "Law-First - Multi-Lingual Representation",
+    "slug": "bs-group-international",
+    "country": "France",
+    "value": "€160mm",
+    "href": "/football-agency/bs-group-international/"
+  },
+  {
+    "name": "Jim Solbakken / Player Solution",
+    "tagline": "Nordic-to-Europe Dealmakers",
+    "slug": "jim-solbakken-player-solution",
+    "country": "Norway",
+    "value": "€155mm",
+    "href": "/football-agency/jim-solbakken-player-solution/"
+  },
+  {
+    "name": "Muy Manero",
+    "tagline": "Dutch Talent & Match Agency",
+    "slug": "muy-manero",
+    "country": "Netherlands",
+    "value": "€155mm",
+    "href": "/football-agency/muy-manero/"
+  },
+  {
+    "name": "Talents Sports - Football Agency",
+    "tagline": "Brazil-to-World Transfers",
+    "slug": "talents-sports-football-agency",
+    "country": "Brazil",
+    "value": "€155mm",
+    "href": "/football-agency/talents-sports-football-agency/"
+  },
+  {
+    "name": "M.A.R.A.T. Football Management",
+    "tagline": "Elite Serie A Specialists",
+    "slug": "marat-football-management",
+    "country": "Italy",
+    "value": "€155mm",
+    "href": "/football-agency/marat-football-management/"
+  },
+  {
+    "name": "Score Futbol - Christian Bragarnik",
+    "tagline": "LatAm Transfer Network",
+    "slug": "score-futbol-christian-bragarnik",
+    "country": "Argentina",
+    "value": "€145mm",
+    "href": "/football-agency/score-futbol-christian-bragarnik/"
+  },
+  {
+    "name": "EMG Mundial Sports Media GmbH",
+    "tagline": "Data-Driven European hub",
+    "slug": "emg-mundial-sports-media-gmbh",
+    "country": "Germany",
+    "value": "€140mm",
+    "href": "/football-agency/emg-mundial-sports-media-gmbh/"
+  },
+  {
+    "name": "IDUB Global - Football Players Agency",
+    "tagline": "Basque Talent Specialists",
+    "slug": "idub-global-football-players-agency",
+    "country": "Spain",
+    "value": "€150mm",
+    "href": "/football-agency/idub-global-football-players-agency/"
+  },
+  {
+    "name": "Two Touch Agency",
+    "tagline": "Players-for-Players Boutique",
+    "slug": "two-touch-agency",
+    "country": "UK",
+    "value": "€130mm",
+    "href": "/football-agency/two-touch-agency/"
+  },
+  {
+    "name": "Interstar Deporte",
+    "tagline": "New-Era Player Care",
+    "slug": "interstar-deporte",
+    "country": "Spain",
+    "value": "€130mm",
+    "href": "/football-agency/interstar-deporte/"
+  },
+  {
+    "name": "Vibra Fútbol",
+    "tagline": "Andes-to-Europe Pipeline",
+    "slug": "vibra-futbol",
+    "country": "Chile",
+    "value": "€128mm",
+    "href": "/football-agency/vibra-futbol/"
+  },
+  {
+    "name": "Keypass AS",
+    "tagline": "Nordic Elite Representation",
+    "slug": "keypass-as",
+    "country": "Norway",
+    "value": "€125mm",
+    "href": "/football-agency/keypass-as/"
+  },
+  {
+    "name": "Pitz Group",
+    "tagline": "Mexico–Europe Channel",
+    "slug": "pitz-group",
+    "country": "Mexico",
+    "value": "€125mm",
+    "href": "/football-agency/pitz-group/"
+  },
+  {
+    "name": "PRO Profil GmbH",
+    "tagline": "International Career Management",
+    "slug": "pro-profil-gmbh",
+    "country": "Germany",
+    "value": "€120mm",
+    "href": "/football-agency/pro-profil-gmbh/"
+  },
+  {
+    "name": "YMU Football/Soccer Group (YMU Management Ltd.)",
+    "tagline": "YMU's Global Football/Soccer Division.",
+    "slug": "ymu-football-soccer-group-ymu-management-ltd",
+    "country": "UK/US",
+    "value": "€120mm",
+    "href": "/football-agency/ymu-football-soccer-group-ymu-management-ltd/"
+  },
+  {
+    "name": "Interplayers",
+    "tagline": "Southern Cone Football Talent Bridge",
+    "slug": "interplayers",
+    "country": "Argentina",
+    "value": "€118mm",
+    "href": "/football-agency/interplayers/"
+  },
+  {
+    "name": "Proeleven S.A.",
+    "tagline": "Iberian Football Career Architects",
+    "slug": "proeleven-sa",
+    "country": "Portugal",
+    "value": "€117mm",
+    "href": "/football-agency/proeleven-sa/"
+  },
+  {
+    "name": "FOKUS – by DHSE & Cracksman",
+    "tagline": "Cross-Border Boutique",
+    "slug": "fokus-by-dhse-and-cracksman",
+    "country": "Germany/France",
+    "value": "€120mm",
+    "href": "/football-agency/fokus-by-dhse-and-cracksman/"
+  },
+  {
+    "name": "ND Sports Management",
+    "tagline": "Paris-to-Elite Pipeline",
+    "slug": "nd-sports-management",
+    "country": "France",
+    "value": "€113mm",
+    "href": "/football-agency/nd-sports-management/"
+  },
+  {
+    "name": "HB Futbol Elite by Hernan Berman",
+    "tagline": "Argentina Talent Hub",
+    "slug": "hb-futbol-elite-by-hernan-berman",
+    "country": "Argentina",
+    "value": "€120mm",
+    "href": "/football-agency/hb-futbol-elite-by-hernan-berman/"
+  },
+  {
+    "name": "Vision4Soccer",
+    "tagline": "Player-First Guidance",
+    "slug": "vision4soccer",
+    "country": "Netherlands",
+    "value": "€120mm",
+    "href": "/football-agency/vision4soccer/"
+  },
+  {
+    "name": "FairSport International",
+    "tagline": "Central-Europe Dealmakers",
+    "slug": "fairsport-international",
+    "country": "Poland/Slovakia",
+    "value": "€113mm",
+    "href": "/football-agency/fairsport-international/"
+  },
+  {
+    "name": "FutureBall Players Agency",
+    "tagline": "Türkiye-to-Europe Conduit",
+    "slug": "futureball-players-agency",
+    "country": "Türkiye",
+    "value": "€110mm",
+    "href": "/football-agency/futureball-players-agency/"
+  },
+  {
+    "name": "World In Motion Football Agency",
+    "tagline": "Independent Football Powerhouse",
+    "slug": "world-in-motion-football-agency",
+    "country": "UK",
+    "value": "€110mm",
+    "href": "/football-agency/world-in-motion-football-agency/"
+  },
+  {
+    "name": "KMB Sports",
+    "tagline": "Argentina-Focused Representation",
+    "slug": "kmb-sports",
+    "country": "UK/Argentina",
+    "value": "€130mm",
+    "href": "/football-agency/kmb-sports/"
+  },
+  {
+    "name": "One Team Football",
+    "tagline": "France-to-Europe Pathway",
+    "slug": "one-team-football",
+    "country": "Monaco",
+    "value": "€108mm",
+    "href": "/football-agency/one-team-football/"
+  },
+  {
+    "name": "MM-Management Players Agency - Michelangelo Minieri",
+    "tagline": "Football Players’ Agency from Rome",
+    "slug": "mm-management-players-agency-michelangelo-minieri",
+    "country": "Italy",
+    "value": "€107mm",
+    "href": "/football-agency/mm-management-players-agency-michelangelo-minieri/"
+  },
+  {
+    "name": "LeaderS (LEAD3RS)",
+    "tagline": "Elite Pathways Football Agency",
+    "slug": "leaders-lead3rs",
+    "country": "UK",
+    "value": "€107mm",
+    "href": "/football-agency/leaders-lead3rs/"
+  },
+  {
+    "name": "SBE Football (SBE Management AG)",
+    "tagline": "360° Swiss Player Care",
+    "slug": "sbe-football-sbe-management-ag",
+    "country": "Switzerland",
+    "value": "€105mm",
+    "href": "/football-agency/sbe-football-sbe-management-ag/"
+  },
+  {
+    "name": "IF Football Agency (Integral Football)",
+    "tagline": "Iberia Talent Bridge",
+    "slug": "if-football-agency-integral-football",
+    "country": "Spain",
+    "value": "€104mm",
+    "href": "/football-agency/if-football-agency-integral-football/"
+  },
+  {
+    "name": "BHM Sports Agency - Blash Hosseini",
+    "tagline": "Nordic Pipeline",
+    "slug": "bhm-sports-agency-blash-hosseini",
+    "country": "Sweden",
+    "value": "€96mm",
+    "href": "/football-agency/bhm-sports-agency-blash-hosseini/"
+  },
+  {
+    "name": "GBG Football (Global Business Group)",
+    "tagline": "Uruguay-to-Europe Pipeline",
+    "slug": "gbg-football-global-business-group",
+    "country": "Uruguay",
+    "value": "€103mm",
+    "href": "/football-agency/gbg-football-global-business-group/"
+  },
+  {
+    "name": "Sferico Sports Management",
+    "tagline": "Iberian Pathways & Beyond",
+    "slug": "sferico-sports-management",
+    "country": "Portugal",
+    "value": "€99mm",
+    "href": "/football-agency/sferico-sports-management/"
+  },
+  {
+    "name": "Footalent SL – Puyol, De la Peña & Sostres",
+    "tagline": "La Masia Focus",
+    "slug": "footalent-sl-puyol-de-la-pena-and-sostres",
+    "country": "Spain",
+    "value": "€100mm",
+    "href": "/football-agency/footalent-sl-puyol-de-la-pena-and-sostres/"
+  },
+  {
+    "name": "EM Sports Consulting",
+    "tagline": "Hungary-to-Elite Pathway",
+    "slug": "em-sports-consulting",
+    "country": "Hungary",
+    "value": "€95mm",
+    "href": "/football-agency/em-sports-consulting/"
+  },
+  {
+    "name": "GEA World (Gea World S.p.A.)",
+    "tagline": "Intelligence in Sports",
+    "slug": "gea-world-gea-world-spa",
+    "country": "Italy",
+    "value": "€95mm",
+    "href": "/football-agency/gea-world-gea-world-spa/"
+  },
+  {
+    "name": "DC GLOBAL SL",
+    "tagline": "Madrid–Buenos Aires Pipeline",
+    "slug": "dc-global-sl",
+    "country": "Spain",
+    "value": "€94mm",
+    "href": "/football-agency/dc-global-sl/"
+  },
+  {
+    "name": "PROSPORT Management",
+    "tagline": "North American Gateway",
+    "slug": "prosport-management",
+    "country": "US",
+    "value": "€100mm",
+    "href": "/football-agency/prosport-management/"
+  },
+  {
+    "name": "Elenko Sports",
+    "tagline": "Global Player Pathways",
+    "slug": "elenko-sports",
+    "country": "Brazil",
+    "value": "€100mm",
+    "href": "/football-agency/elenko-sports/"
+  },
+  {
+    "name": "Smarter Players",
+    "tagline": "Argentine Talent Pipeline",
+    "slug": "smarter-players",
+    "country": "Argentina",
+    "value": "€100mm",
+    "href": "/football-agency/smarter-players/"
+  },
+  {
+    "name": "UDN SPORTS",
+    "tagline": "Japan–Europe Bridge",
+    "slug": "udn-sports",
+    "country": "Japan",
+    "value": "€90mm",
+    "href": "/football-agency/udn-sports/"
+  },
+  {
+    "name": "\"to be\" sportsmanagement",
+    "tagline": "Boutique Bundesliga",
+    "slug": "to-be-sportsmanagement",
+    "country": "Germany",
+    "value": "€100mm",
+    "href": "/football-agency/to-be-sportsmanagement/"
+  },
+  {
+    "name": "Marjan Sisic Players Agency",
+    "tagline": "Balkan Dealmaker",
+    "slug": "marjan-sisic-players-agency",
+    "country": "Croatia",
+    "value": "€90mm",
+    "href": "/football-agency/marjan-sisic-players-agency/"
+  },
+  {
+    "name": "BALLWERK Sports GmbH",
+    "tagline": "Munich Boutique",
+    "slug": "ballwerk-sports-gmbh",
+    "country": "Germany",
+    "value": "€95mm",
+    "href": "/football-agency/ballwerk-sports-gmbh/"
+  },
+  {
+    "name": "Axía Sports Management",
+    "tagline": "Value-First Bridge",
+    "slug": "axia-sports-management",
+    "country": "Canada",
+    "value": "€88mm",
+    "href": "/football-agency/axia-sports-management/"
+  },
+  {
+    "name": "Libera Sports",
+    "tagline": "Promised & Sealed",
+    "slug": "libera-sports",
+    "country": "Belgium",
+    "value": "€87mm",
+    "href": "/football-agency/libera-sports/"
+  },
+  {
+    "name": "LSM – Leading Sport Management (LSM)",
+    "tagline": "Youth-to-Elite Bridge",
+    "slug": "lsm-leading-sport-management-lsm",
+    "country": "France N/A",
+    "value": "",
+    "href": "/football-agency/lsm-leading-sport-management-lsm/"
+  },
+  {
+    "name": "Centre Circle Consulting Ltd.",
+    "tagline": "Boutique Global–Europe Bridge",
+    "slug": "centre-circle-consulting-ltd",
+    "country": "UK",
+    "value": "€85mm",
+    "href": "/football-agency/centre-circle-consulting-ltd/"
+  },
+  {
+    "name": "La Squadra Sports",
+    "tagline": "Paraguay–Europe Bridge",
+    "slug": "la-squadra-sports",
+    "country": "Paraguay",
+    "value": "€90mm",
+    "href": "/football-agency/la-squadra-sports/"
+  },
+  {
+    "name": "Sport Invest",
+    "tagline": "Central Europe Powerhouse",
+    "slug": "sport-invest",
+    "country": "Czechia",
+    "value": "€83mm",
+    "href": "/football-agency/sport-invest/"
+  },
+  {
+    "name": "Nine Group",
+    "tagline": "Scandi–Danish Pipeline",
+    "slug": "nine-group",
+    "country": "Denmark",
+    "value": "€82mm",
+    "href": "/football-agency/nine-group/"
+  },
+  {
+    "name": "Fair Sport Management",
+    "tagline": "Ligue 1 to Global",
+    "slug": "fair-sport-management",
+    "country": "France",
+    "value": "€80mm",
+    "href": "/football-agency/fair-sport-management/"
+  },
+  {
+    "name": "Pro Transfer by Elvis Basanovic",
+    "tagline": "Balkans-to-Elite Springboard",
+    "slug": "pro-transfer-by-elvis-basanovic",
+    "country": "Slovenia",
+    "value": "€80mm",
+    "href": "/football-agency/pro-transfer-by-elvis-basanovic/"
+  },
+  {
+    "name": "Star Makers Agency",
+    "tagline": "Argentina Elite",
+    "slug": "star-makers-agency",
+    "country": "Argentina",
+    "value": "€95mm",
+    "href": "/football-agency/star-makers-agency/"
+  },
+  {
+    "name": "Excellence Sport",
+    "tagline": "Italian Career Management",
+    "slug": "excellence-sport",
+    "country": "Italy",
+    "value": "",
+    "href": "/football-agency/excellence-sport/"
+  },
+  {
+    "name": "Golden Gate Group",
+    "tagline": "London–Accra Pipeline",
+    "slug": "golden-gate-group",
+    "country": "UK",
+    "value": "€78mm",
+    "href": "/football-agency/golden-gate-group/"
+  },
+  {
+    "name": "Prosport Ltd. (Paschalis Tountouris)",
+    "tagline": "Aegean Dealmakers",
+    "slug": "prosport-ltd-paschalis-tountouris",
+    "country": "Greece",
+    "value": "€78mm",
+    "href": "/football-agency/prosport-ltd-paschalis-tountouris/"
+  },
+  {
+    "name": "MAG Global Sports by Martin Ariel Guastadisegno",
+    "tagline": "Argentine Talent Bridge",
+    "slug": "mag-global-sports-by-martin-ariel-guastadisegno",
+    "country": "Argentina",
+    "value": "€85mm",
+    "href": "/football-agency/mag-global-sports-by-martin-ariel-guastadisegno/"
+  },
+  {
+    "name": "Elite Management Agency",
+    "tagline": "Integrity–Quality–Commitment",
+    "slug": "elite-management-agency",
+    "country": "UK",
+    "value": "€76mm",
+    "href": "/football-agency/elite-management-agency/"
+  },
+  {
+    "name": "KANCHA Agency",
+    "tagline": "Quito–Madrid pathway",
+    "slug": "kancha-agency",
+    "country": "Ecuador",
+    "value": "€85mm",
+    "href": "/football-agency/kancha-agency/"
+  },
+  {
+    "name": "JEB Entertainment Agency",
+    "tagline": "Japan–EU Bridge",
+    "slug": "jeb-entertainment-agency",
+    "country": "Japan",
+    "value": "€75mm",
+    "href": "/football-agency/jeb-entertainment-agency/"
+  },
+  {
+    "name": "Elite 19 Sports Management",
+    "tagline": "Paris–Dubai Talent",
+    "slug": "elite-19-sports-management",
+    "country": "France",
+    "value": "€85mm",
+    "href": "/football-agency/elite-19-sports-management/"
+  },
+  {
+    "name": "Claes Agency",
+    "tagline": "Quality-First Boutique",
+    "slug": "claes-agency",
+    "country": "Belgium",
+    "value": "€75mm",
+    "href": "/football-agency/claes-agency/"
+  },
+  {
+    "name": "Panthera Sports",
+    "tagline": "Elite Pathways, Global Reach",
+    "slug": "panthera-sports",
+    "country": "UK",
+    "value": "€74mm",
+    "href": "/football-agency/panthera-sports/"
+  },
+  {
+    "name": "DH Sports Consulting (Dirk Hebel Sportsconsulting)",
+    "tagline": "Cologne-to-Global",
+    "slug": "dh-sports-consulting-dirk-hebel-sportsconsulting",
+    "country": "Germany",
+    "value": "€73mm",
+    "href": "/football-agency/dh-sports-consulting-dirk-hebel-sportsconsulting/"
+  },
+  {
+    "name": "AGN Football",
+    "tagline": "South American Bridge",
+    "slug": "agn-football",
+    "country": "Brazil",
+    "value": "€80mm",
+    "href": "/football-agency/agn-football/"
+  },
+  {
+    "name": "LP Sport Management S.r.l.",
+    "tagline": "Serie A Specialists",
+    "slug": "lp-sport-management-srl",
+    "country": "Italy",
+    "value": "€73mm",
+    "href": "/football-agency/lp-sport-management-srl/"
+  },
+  {
+    "name": "DUPLA, Piqué & Domínguez",
+    "tagline": "Boutique Legal Agency",
+    "slug": "dupla-pique-and-dominguez",
+    "country": "Spain",
+    "value": "€80mm",
+    "href": "/football-agency/dupla-pique-and-dominguez/"
+  },
+  {
+    "name": "Un1que Football",
+    "tagline": "Global Career Management",
+    "slug": "un1que-football",
+    "country": "Brazil",
+    "value": "€80mm",
+    "href": "/football-agency/un1que-football/"
+  },
+  {
+    "name": "Blackskill",
+    "tagline": "Paris Talent Hub",
+    "slug": "blackskill",
+    "country": "France",
+    "value": "€80mm",
+    "href": "/football-agency/blackskill/"
+  },
+  {
+    "name": "Be Loyal by Ginés Carvajal",
+    "tagline": "Madrid Super-Agent",
+    "slug": "be-loyal-by-gines-carvajal",
+    "country": "Spain",
+    "value": "€80mm",
+    "href": "/football-agency/be-loyal-by-gines-carvajal/"
+  },
+  {
+    "name": "FA Sport",
+    "tagline": "Premier League Pipeline",
+    "slug": "fa-sport",
+    "country": "UK",
+    "value": "€72mm",
+    "href": "/football-agency/fa-sport/"
+  },
+  {
+    "name": "11MANGMT (11 MAN Soccer Management)",
+    "tagline": "MENA–Nordic Corridor",
+    "slug": "11mangmt-11-man-soccer-management",
+    "country": "Spain",
+    "value": "€72mm",
+    "href": "/football-agency/11mangmt-11-man-soccer-management/"
+  },
+  {
+    "name": "Players United Management B.V.",
+    "tagline": "Dutch Talent Hub",
+    "slug": "players-united-management-bv",
+    "country": "Netherlands",
+    "value": "€71mm",
+    "href": "/football-agency/players-united-management-bv/"
+  },
+  {
+    "name": "All Iron Sports",
+    "tagline": "Iberian Talent Catalyst",
+    "slug": "all-iron-sports",
+    "country": "Spain",
+    "value": "€70mm",
+    "href": "/football-agency/all-iron-sports/"
+  },
+  {
+    "name": "Key United",
+    "tagline": "Dutch Dealmakers",
+    "slug": "key-united",
+    "country": "Netherlands",
+    "value": "€69mm",
+    "href": "/football-agency/key-united/"
+  },
+  {
+    "name": "International Sport Management (ISM)",
+    "tagline": "Prague Talent Engine",
+    "slug": "international-sport-management-ism",
+    "country": "Czechia",
+    "value": "€69mm",
+    "href": "/football-agency/international-sport-management-ism/"
+  },
+  {
+    "name": "Be The Future Management (BTFM)",
+    "tagline": "Africa–EU Bridge",
+    "slug": "be-the-future-management-btfm",
+    "country": "Belgium",
+    "value": "€69mm",
+    "href": "/football-agency/be-the-future-management-btfm/"
+  },
+  {
+    "name": "Murdock Sports Group",
+    "tagline": "Law-Led Agency",
+    "slug": "murdock-sports-group",
+    "country": "UK",
+    "value": "€67mm",
+    "href": "/football-agency/murdock-sports-group/"
+  },
+  {
+    "name": "Branchini Associati S.p.A.",
+    "tagline": "Elite Brokerage",
+    "slug": "branchini-associati-spa",
+    "country": "Italy",
+    "value": "€65mm",
+    "href": "/football-agency/branchini-associati-spa/"
+  },
+  {
+    "name": "Binary Sports Group",
+    "tagline": "Portugal–Swiss Axis",
+    "slug": "binary-sports-group",
+    "country": "Portugal",
+    "value": "€66mm",
+    "href": "/football-agency/binary-sports-group/"
+  },
+  {
+    "name": "International Sports Office (ISO)",
+    "tagline": "Balkan-to-Elite Bridge",
+    "slug": "international-sports-office-iso",
+    "country": "Serbia",
+    "value": "€70mm",
+    "href": "/football-agency/international-sports-office-iso/"
+  },
+  {
+    "name": "VV Consulting by Vadim Vasilyev",
+    "tagline": "Monaco Transfer Atelier",
+    "slug": "vv-consulting-by-vadim-vasilyev",
+    "country": "Monaco",
+    "value": "€66mm",
+    "href": "/football-agency/vv-consulting-by-vadim-vasilyev/"
+  },
+  {
+    "name": "OmniSports Ltd",
+    "tagline": "Delivery on Trust",
+    "slug": "omnisports-ltd",
+    "country": "UK",
+    "value": "€65mm",
+    "href": "/football-agency/omnisports-ltd/"
+  },
+  {
+    "name": "Eagle Eye Sports Management (Eagle Eye Football)",
+    "tagline": "Paraguayan Talent Gateway",
+    "slug": "eagle-eye-sports-management-eagle-eye-football",
+    "country": "Paraguay",
+    "value": "€64mm",
+    "href": "/football-agency/eagle-eye-sports-management-eagle-eye-football/"
+  },
+  {
+    "name": "CN Sports GmbH",
+    "tagline": "DACH Pathway Hub",
+    "slug": "cn-sports-gmbh",
+    "country": "Germany",
+    "value": "€64mm",
+    "href": "/football-agency/cn-sports-gmbh/"
+  },
+  {
+    "name": "Premium Sports Management (PSM)",
+    "tagline": "France–UK corridor",
+    "slug": "premium-sports-management-psm",
+    "country": "France",
+    "value": "€63mm",
+    "href": "/football-agency/premium-sports-management-psm/"
+  },
+  {
+    "name": "Elite Sports Management MX",
+    "tagline": "Liga MX–MLS Bridge",
+    "slug": "elite-sports-management-mx",
+    "country": "Mexico",
+    "value": "€64mm",
+    "href": "/football-agency/elite-sports-management-mx/"
+  },
+  {
+    "name": "Fabryka Futbolu",
+    "tagline": "Polish Ekstraklasa Exporters",
+    "slug": "fabryka-futbolu",
+    "country": "Poland",
+    "value": "€63mm",
+    "href": "/football-agency/fabryka-futbolu/"
+  },
+  {
+    "name": "Beckster International SARL",
+    "tagline": "Monaco Deal Boutique",
+    "slug": "beckster-international-sarl",
+    "country": "Monaco",
+    "value": "€63mm",
+    "href": "/football-agency/beckster-international-sarl/"
+  },
+  {
+    "name": "ADM Esporte",
+    "tagline": "Brazilian Connector",
+    "slug": "adm-esporte",
+    "country": "Brazil",
+    "value": "€75mm",
+    "href": "/football-agency/adm-esporte/"
+  },
+  {
+    "name": "Team of Future – Gestão de Carreiras no Futebol",
+    "tagline": "Iberian Talent Hub",
+    "slug": "team-of-future-gestao-de-carreiras-no-futebol",
+    "country": "Portugal",
+    "value": "€62mm",
+    "href": "/football-agency/team-of-future-gestao-de-carreiras-no-futebol/"
+  },
+  {
+    "name": "Energy Sports (Energy13)",
+    "tagline": "Brazil-Led Powerhouse",
+    "slug": "energy-sports-energy13",
+    "country": "Brazil",
+    "value": "€62mm",
+    "href": "/football-agency/energy-sports-energy13/"
+  },
+  {
+    "name": "BC Group Agency",
+    "tagline": "Serie A Talent Ladder",
+    "slug": "bc-group-agency",
+    "country": "Italy",
+    "value": "€62mm",
+    "href": "/football-agency/bc-group-agency/"
+  },
+  {
+    "name": "Lucky 13 GmbH by Michael Ballack",
+    "tagline": "Elite Talent Advisory",
+    "slug": "lucky-13-gmbh-by-michael-ballack",
+    "country": "Germany",
+    "value": "€75mm",
+    "href": "/football-agency/lucky-13-gmbh-by-michael-ballack/"
+  },
+  {
+    "name": "High Def (HD)",
+    "tagline": "Elite Talent Stable",
+    "slug": "high-def-hd",
+    "country": "Global",
+    "value": "€61mm",
+    "href": "/football-agency/high-def-hd/"
+  },
+  {
+    "name": "Balance International Group",
+    "tagline": "Iberia–LatAm Bridge",
+    "slug": "balance-international-group",
+    "country": "Spain",
+    "value": "€60mm",
+    "href": "/football-agency/balance-international-group/"
+  },
+  {
+    "name": "Football Mix B.V.",
+    "tagline": "Dutch Talent Hub",
+    "slug": "football-mix-bv",
+    "country": "Netherlands",
+    "value": "€70mm",
+    "href": "/football-agency/football-mix-bv/"
+  },
+  {
+    "name": "JV Sports",
+    "tagline": "Spain–Global Pathway",
+    "slug": "jv-sports",
+    "country": "Spain",
+    "value": "€59mm",
+    "href": "/football-agency/jv-sports/"
+  },
+  {
+    "name": "OTB Sports",
+    "tagline": "Brazil-to-Global Movers",
+    "slug": "otb-sports",
+    "country": "Brazil",
+    "value": "€58mm",
+    "href": "/football-agency/otb-sports/"
+  },
+  {
+    "name": "DODICI Sports Management",
+    "tagline": "Borderless Representation",
+    "slug": "dodici-sports-management",
+    "country": "Argentina",
+    "value": "€58mm",
+    "href": "/football-agency/dodici-sports-management/"
+  },
+  {
+    "name": "Soccertalk GmbH",
+    "tagline": "DACH–Balkan Pipeline",
+    "slug": "soccertalk-gmbh",
+    "country": "Germany",
+    "value": "€58mm",
+    "href": "/football-agency/soccertalk-gmbh/"
+  },
+  {
+    "name": "ONEANDTEN GmbH",
+    "tagline": "Swiss Elite Conduit",
+    "slug": "oneandten-gmbh",
+    "country": "Switzerland",
+    "value": "€57mm",
+    "href": "/football-agency/oneandten-gmbh/"
+  },
+  {
+    "name": "Fidus Sports",
+    "tagline": "Africa to EPL Specialist",
+    "slug": "fidus-sports",
+    "country": "UK",
+    "value": "€60mm",
+    "href": "/football-agency/fidus-sports/"
+  },
+  {
+    "name": "SARCLE Co., Ltd.",
+    "tagline": "Japan–Europe Bridge",
+    "slug": "sarcle-co-ltd",
+    "country": "Japan",
+    "value": "€56mm",
+    "href": "/football-agency/sarcle-co-ltd/"
+  },
+  {
+    "name": "BMG-SPORT",
+    "tagline": "Poland Pathway Engine",
+    "slug": "bmg-sport",
+    "country": "Poland",
+    "value": "€56mm",
+    "href": "/football-agency/bmg-sport/"
+  },
+  {
+    "name": "Signature-ISCM AG",
+    "tagline": "Alpine Talent Architects",
+    "slug": "signature-iscm-ag",
+    "country": "Switzerland",
+    "value": "€55mm",
+    "href": "/football-agency/signature-iscm-ag/"
+  },
+  {
+    "name": "Elevate Football Agency",
+    "tagline": "Brussels Elite Conduit",
+    "slug": "elevate-football-agency",
+    "country": "Belgium",
+    "value": "€55mm",
+    "href": "/football-agency/elevate-football-agency/"
+  },
+  {
+    "name": "INVSPORT",
+    "tagline": "Iberian Intermediaries",
+    "slug": "invsport",
+    "country": "Spain",
+    "value": "€66mm",
+    "href": "/football-agency/invsport/"
+  },
+  {
+    "name": "TPSportManagement",
+    "tagline": "Norway-to-top-flight Bridge",
+    "slug": "tpsportmanagement",
+    "country": "UK",
+    "value": "€68mm",
+    "href": "/football-agency/tpsportmanagement/"
+  },
+  {
+    "name": "Peak Sportsconsulting GmbH",
+    "tagline": "Black Forest Talent Hub",
+    "slug": "peak-sportsconsulting-gmbh",
+    "country": "Germany",
+    "value": "€54mm",
+    "href": "/football-agency/peak-sportsconsulting-gmbh/"
+  },
+  {
+    "name": "Reason Football Investments",
+    "tagline": "Brazil–Russia Dealmakers",
+    "slug": "reason-football-investments",
+    "country": "Brazil",
+    "value": "€52mm",
+    "href": "/football-agency/reason-football-investments/"
+  },
+  {
+    "name": "SSM – Select Sports Management",
+    "tagline": "Balkan-Belgian Brokerage",
+    "slug": "ssm-select-sports-management",
+    "country": "North Macedonia/Belgium",
+    "value": "€65mm",
+    "href": "/football-agency/ssm-select-sports-management/"
+  },
+  {
+    "name": "ATG Sports Management Inc",
+    "tagline": "Canada-to-Europe pathway",
+    "slug": "atg-sports-management-inc",
+    "country": "Canada",
+    "value": "€52mm",
+    "href": "/football-agency/atg-sports-management-inc/"
+  },
+  {
+    "name": "Best of You Sports",
+    "tagline": "Madrid Multi-Market Hub",
+    "slug": "best-of-you-sports",
+    "country": "Spain",
+    "value": "€68mm",
+    "href": "/football-agency/best-of-you-sports/"
+  },
+  {
+    "name": "Universal Sports Japan Inc.",
+    "tagline": "Samurai-to-Europe Bridge",
+    "slug": "universal-sports-japan-inc",
+    "country": "Japan",
+    "value": "€52mm",
+    "href": "/football-agency/universal-sports-japan-inc/"
+  },
+  {
+    "name": "Prolific Sports Group Ltd",
+    "tagline": "Stockport Talent Boutique",
+    "slug": "prolific-sports-group-ltd",
+    "country": "UK",
+    "value": "€52mm",
+    "href": "/football-agency/prolific-sports-group-ltd/"
+  },
+  {
+    "name": "PROMOFUT",
+    "tagline": "Liga MX Kingmakers",
+    "slug": "promofut",
+    "country": "Mexico",
+    "value": "€51mm",
+    "href": "/football-agency/promofut/"
+  },
+  {
+    "name": "AIS Football Agency",
+    "tagline": "Atlantic Talent Conduit",
+    "slug": "ais-football-agency",
+    "country": "Brazil",
+    "value": "€51mm",
+    "href": "/football-agency/ais-football-agency/"
+  },
+  {
+    "name": "VIDA11 Football Agency",
+    "tagline": "DACH–LatAm Corridor",
+    "slug": "vida11-football-agency",
+    "country": "Germany",
+    "value": "€51mm",
+    "href": "/football-agency/vida11-football-agency/"
+  },
+  {
+    "name": "SMI Sports Management International (SMI World)",
+    "tagline": "Teesside Talent Engine",
+    "slug": "smi-sports-management-international-smi-world",
+    "country": "UK",
+    "value": "€51mm",
+    "href": "/football-agency/smi-sports-management-international-smi-world/"
+  },
+  {
+    "name": "Sports Invest UK Ltd",
+    "tagline": "Dealmakers Network",
+    "slug": "sports-invest-uk-ltd",
+    "country": "UK",
+    "value": "€60mm",
+    "href": "/football-agency/sports-invest-uk-ltd/"
+  },
+  {
+    "name": "CMA Group",
+    "tagline": "Nordic Pathway Architects",
+    "slug": "cma-group",
+    "country": "Denmark",
+    "value": "€50mm",
+    "href": "/football-agency/cma-group/"
+  },
+  {
+    "name": "Sports&Life",
+    "tagline": "Spanish Media Powerhouse",
+    "slug": "sportsandlife",
+    "country": "Spain",
+    "value": "€60mm",
+    "href": "/football-agency/sportsandlife/"
+  },
+  {
+    "name": "Goal Management SAS",
+    "tagline": "Colombia Pathway",
+    "slug": "goal-management-sas",
+    "country": "Colombia",
+    "value": "€60mm",
+    "href": "/football-agency/goal-management-sas/"
+  },
+  {
+    "name": "4ComM Career Management",
+    "tagline": "Brazilian Career Management",
+    "slug": "4comm-career-management",
+    "country": "Brazil",
+    "value": "€60mm",
+    "href": "/football-agency/4comm-career-management/"
+  },
+  {
+    "name": "Orangeball Inc.",
+    "tagline": "Korea–Europe Bridge",
+    "slug": "orangeball-inc",
+    "country": "South Korea",
+    "value": "€50mm",
+    "href": "/football-agency/orangeball-inc/"
+  },
+  {
+    "name": "SA33 Sports Group Limited",
+    "tagline": "Celtic-to-Global Movers",
+    "slug": "sa33-sports-group-limited",
+    "country": "UK",
+    "value": "€50mm",
+    "href": "/football-agency/sa33-sports-group-limited/"
+  },
+  {
+    "name": "FMA Sports",
+    "tagline": "Iberia–Bundesliga Pipeline",
+    "slug": "fma-sports",
+    "country": "Portugal",
+    "value": "€47mm",
+    "href": "/football-agency/fma-sports/"
+  },
+  {
+    "name": "Global Soccer Management (GSM)",
+    "tagline": "Scandinavia’s Top Dealmakers",
+    "slug": "global-soccer-management-gsm",
+    "country": "Sweden",
+    "value": "€47mm",
+    "href": "/football-agency/global-soccer-management-gsm/"
+  },
+  {
+    "name": "Global Football Management (GFM)",
+    "tagline": "Lowlands Talent Escalator",
+    "slug": "global-football-management-gfm",
+    "country": "Netherlands",
+    "value": "€46mm",
+    "href": "/football-agency/global-football-management-gfm/"
+  },
+  {
+    "name": "Nehoda Sport a.s.",
+    "tagline": "Prague Talent Stewards",
+    "slug": "nehoda-sport-as",
+    "country": "Czechia",
+    "value": "€44mm",
+    "href": "/football-agency/nehoda-sport-as/"
+  },
+  {
+    "name": "Triple S Sports Management",
+    "tagline": "Elite Representation",
+    "slug": "triple-s-sports-management",
+    "country": "UK",
+    "value": "€58mm",
+    "href": "/football-agency/triple-s-sports-management/"
+  },
+  {
+    "name": "Scoutpush by Dudu Dahan",
+    "tagline": "Israel–Global Bridge",
+    "slug": "scoutpush-by-dudu-dahan",
+    "country": "Israel",
+    "value": "€44mm",
+    "href": "/football-agency/scoutpush-by-dudu-dahan/"
+  },
+  {
+    "name": "Blue Sky Sports",
+    "tagline": "Talent representation",
+    "slug": "blue-sky-sports",
+    "country": "UK",
+    "value": "€56mm",
+    "href": "/football-agency/blue-sky-sports/"
+  },
+  {
+    "name": "Forward Team",
+    "tagline": "Brazilian Boutique Agency",
+    "slug": "forward-team",
+    "country": "Brazil",
+    "value": "€57mm",
+    "href": "/football-agency/forward-team/"
+  },
+  {
+    "name": "Oller Group",
+    "tagline": "Buenos Aires Pipeline",
+    "slug": "oller-group",
+    "country": "Argentina",
+    "value": "€44mm",
+    "href": "/football-agency/oller-group/"
+  },
+  {
+    "name": "Friends & Football International LLC",
+    "tagline": "Serbia’s Elite Conduit",
+    "slug": "friends-and-football-international-llc",
+    "country": "Serbia",
+    "value": "€44mm",
+    "href": "/football-agency/friends-and-football-international-llc/"
+  },
+  {
+    "name": "AKA Global",
+    "tagline": "DACH–Eastern Europe Bridge",
+    "slug": "aka-global",
+    "country": "Germany",
+    "value": "€44mm",
+    "href": "/football-agency/aka-global/"
+  },
+  {
+    "name": "MD Management by Martin Dahlin",
+    "tagline": "Scandinavian Pathways",
+    "slug": "md-management-by-martin-dahlin",
+    "country": "Sweden",
+    "value": "€55mm",
+    "href": "/football-agency/md-management-by-martin-dahlin/"
+  },
+  {
+    "name": "CANTERASPORT",
+    "tagline": "Boutique Player Representation",
+    "slug": "canterasport",
+    "country": "France",
+    "value": "€55mm",
+    "href": "/football-agency/canterasport/"
+  },
+  {
+    "name": "Octagon",
+    "tagline": "North American Powerhouse",
+    "slug": "octagon",
+    "country": "US",
+    "value": "€55mm",
+    "href": "/football-agency/octagon/"
+  },
+  {
+    "name": "Brazil Soccer Sports Management",
+    "tagline": "Brazil-Based Representation",
+    "slug": "brazil-soccer-sports-management",
+    "country": "Brazil",
+    "value": "€60mm",
+    "href": "/football-agency/brazil-soccer-sports-management/"
+  },
+  {
+    "name": "Football Promotions (Scotland) Ltd.",
+    "tagline": "Glasgow Pathway Makers",
+    "slug": "football-promotions-scotland-ltd",
+    "country": "Scotland",
+    "value": "€34mm",
+    "href": "/football-agency/football-promotions-scotland-ltd/"
+  },
+  {
+    "name": "R.G Top Sport Services Football Agency",
+    "tagline": "Tel Aviv Dealmakers",
+    "slug": "rg-top-sport-services-football-agency",
+    "country": "Israel",
+    "value": "€44mm",
+    "href": "/football-agency/rg-top-sport-services-football-agency/"
+  },
+  {
+    "name": "Vigo Global Alliance Sport Services",
+    "tagline": "Data-led Boutique",
+    "slug": "vigo-global-alliance-sport-services",
+    "country": "Italy",
+    "value": "€56mm",
+    "href": "/football-agency/vigo-global-alliance-sport-services/"
+  },
+  {
+    "name": "Football Group LLC",
+    "tagline": "Tashkent Talent Gateway",
+    "slug": "football-group-llc",
+    "country": "Uzbekistan",
+    "value": "€44mm",
+    "href": "/football-agency/football-group-llc/"
+  },
+  {
+    "name": "Admira Partners UK Ltd",
+    "tagline": "South America–Europe Conduit",
+    "slug": "admira-partners-uk-ltd",
+    "country": "UK",
+    "value": "€43mm",
+    "href": "/football-agency/admira-partners-uk-ltd/"
+  },
+  {
+    "name": "JHSEVEN SPORTS COMPANY",
+    "tagline": "Colombian Dealmakers",
+    "slug": "jhseven-sports-company",
+    "country": "Colombia",
+    "value": "€55mm",
+    "href": "/football-agency/jhseven-sports-company/"
+  },
+  {
+    "name": "ProSports Management",
+    "tagline": "CIS Specialists",
+    "slug": "prosports-management",
+    "country": "Russia",
+    "value": "€55mm",
+    "href": "/football-agency/prosports-management/"
+  },
+  {
+    "name": "Carmenta",
+    "tagline": "Paris Boutique Agency",
+    "slug": "carmenta",
+    "country": "France",
+    "value": "€55mm",
+    "href": "/football-agency/carmenta/"
+  },
+  {
+    "name": "SPOCS Sports Consultants GmbH",
+    "tagline": "Global Scouting Powerhouse",
+    "slug": "spocs-sports-consultants-gmbh",
+    "country": "Germany",
+    "value": "€43mm",
+    "href": "/football-agency/spocs-sports-consultants-gmbh/"
+  },
+  {
+    "name": "GLOBAL SPORTS, a.s.",
+    "tagline": "Prague-to-Europe Bridge",
+    "slug": "global-sports-as",
+    "country": "Czechia",
+    "value": "€20mm",
+    "href": "/football-agency/global-sports-as/"
+  },
+  {
+    "name": "Area Sport Team",
+    "tagline": "Madrid–Buenos Aires Pipeline",
+    "slug": "area-sport-team",
+    "country": "Spain",
+    "value": "€42mm",
+    "href": "/football-agency/area-sport-team/"
+  },
+  {
+    "name": "Squadra Management Deportivo (SQUADRA MD)",
+    "tagline": "Argentina Talent Engine",
+    "slug": "squadra-management-deportivo-squadra-md",
+    "country": "Argentina",
+    "value": "€42mm",
+    "href": "/football-agency/squadra-management-deportivo-squadra-md/"
+  },
+  {
+    "name": "Marcio Bittencourt Sports",
+    "tagline": "Brazil-to-Global Placements",
+    "slug": "marcio-bittencourt-sports",
+    "country": "Brazil",
+    "value": "€50mm",
+    "href": "/football-agency/marcio-bittencourt-sports/"
+  },
+  {
+    "name": "E.F.M. International B.V.",
+    "tagline": "Amsterdam Talent Bridge",
+    "slug": "efm-international-bv",
+    "country": "Netherlands",
+    "value": "€47mm",
+    "href": "/football-agency/efm-international-bv/"
+  },
+  {
+    "name": "Remington Ellis Management",
+    "tagline": "Boutique US Representation",
+    "slug": "remington-ellis-management",
+    "country": "US",
+    "value": "€51mm",
+    "href": "/football-agency/remington-ellis-management/"
+  },
+  {
+    "name": "Concept Sport Agency",
+    "tagline": "Paris Talent Boutique",
+    "slug": "concept-sport-agency",
+    "country": "France",
+    "value": "€42mm",
+    "href": "/football-agency/concept-sport-agency/"
+  },
+  {
+    "name": "FÚTBOL-21 PRO Agency",
+    "tagline": "Barcelona–Andorra Conduit",
+    "slug": "futbol-21-pro-agency",
+    "country": "Andorra/Spain",
+    "value": "€42mm",
+    "href": "/football-agency/futbol-21-pro-agency/"
+  },
+  {
+    "name": "OIS - Octagon International Soccer",
+    "tagline": "Athens-to-Premier League Bridge",
+    "slug": "ois-octagon-international-soccer",
+    "country": "Greece",
+    "value": "€42mm",
+    "href": "/football-agency/ois-octagon-international-soccer/"
+  },
+  {
+    "name": "MagicPlayers 21",
+    "tagline": "Player-First Agency",
+    "slug": "magicplayers-21",
+    "country": "Spain",
+    "value": "€47mm",
+    "href": "/football-agency/magicplayers-21/"
+  },
+  {
+    "name": "Japan Sports Promotion (JSP)",
+    "tagline": "Global Pathways",
+    "slug": "japan-sports-promotion-jsp",
+    "country": "Japan",
+    "value": "€50mm",
+    "href": "/football-agency/japan-sports-promotion-jsp/"
+  },
+  {
+    "name": "Proyecta Players",
+    "tagline": "Football Career Strategists",
+    "slug": "proyecta-players",
+    "country": "Argentina",
+    "value": "€52mm",
+    "href": "/football-agency/proyecta-players/"
+  },
+  {
+    "name": "LEFT Sports Agency",
+    "tagline": "São Paulo Dealmakers",
+    "slug": "left-sports-agency",
+    "country": "Brazil",
+    "value": "€42mm",
+    "href": "/football-agency/left-sports-agency/"
+  },
+  {
+    "name": "EL CIEL0 Management",
+    "tagline": "Mexico-to-MLS Nexus",
+    "slug": "el-ciel0-management",
+    "country": "Mexico",
+    "value": "€40mm",
+    "href": "/football-agency/el-ciel0-management/"
+  },
+  {
+    "name": "Toninello Futebol e Carreira (Toninello FC)",
+    "tagline": "Brazilian Boutique Agency",
+    "slug": "toninello-futebol-e-carreira-toninello-fc",
+    "country": "Brazil",
+    "value": "€45mm",
+    "href": "/football-agency/toninello-futebol-e-carreira-toninello-fc/"
+  },
+  {
+    "name": "Assis Representações Profissionais Ltda",
+    "tagline": "Brazil-Europe Pathway",
+    "slug": "assis-representacoes-profissionais-ltda",
+    "country": "Brazil",
+    "value": "€50mm",
+    "href": "/football-agency/assis-representacoes-profissionais-ltda/"
+  },
+  {
+    "name": "Goal Management",
+    "tagline": "Holistic Pathways",
+    "slug": "goal-management",
+    "country": "Spain",
+    "value": "€49mm",
+    "href": "/football-agency/goal-management/"
+  },
+  {
+    "name": "Mickaël Libong (ML Sports)",
+    "tagline": "Paris Prospects Conduit",
+    "slug": "mickael-libong-ml-sports",
+    "country": "France",
+    "value": "€40mm",
+    "href": "/football-agency/mickael-libong-ml-sports/"
+  },
+  {
+    "name": "MB Sports ApS",
+    "tagline": "Odense Talent Pipeline",
+    "slug": "mb-sports-aps",
+    "country": "Denmark",
+    "value": "€39mm",
+    "href": "/football-agency/mb-sports-aps/"
+  },
+  {
+    "name": "VPA Sports International",
+    "tagline": "Adriatic Deal Network",
+    "slug": "vpa-sports-international",
+    "country": "Croatia",
+    "value": "€40mm",
+    "href": "/football-agency/vpa-sports-international/"
+  },
+  {
+    "name": "Trust Football (Trust Sports Consultoria Esportiva)",
+    "tagline": "Brazil-to-Europe Bridge",
+    "slug": "trust-football-trust-sports-consultoria-esportiva",
+    "country": "Brazil",
+    "value": "€48mm",
+    "href": "/football-agency/trust-football-trust-sports-consultoria-esportiva/"
+  },
+  {
+    "name": "FFP Agency",
+    "tagline": "Brazil–EU Bridge",
+    "slug": "ffp-agency",
+    "country": "Brazil",
+    "value": "€39mm",
+    "href": "/football-agency/ffp-agency/"
+  },
+  {
+    "name": "Pedro Aldave Sports Agent",
+    "tagline": "Paraguayan Talent Specialists",
+    "slug": "pedro-aldave-sports-agent",
+    "country": "Paraguay",
+    "value": "€38mm",
+    "href": "/football-agency/pedro-aldave-sports-agent/"
+  },
+  {
+    "name": "BOLA Sports Group",
+    "tagline": "Pan-EU talent Bridge",
+    "slug": "bola-sports-group",
+    "country": "Bosnia-Herzegovina",
+    "value": "€38mm",
+    "href": "/football-agency/bola-sports-group/"
+  },
+  {
+    "name": "AMS Talent Consulting",
+    "tagline": "Francophone Pathway",
+    "slug": "ams-talent-consulting",
+    "country": "France",
+    "value": "€47mm",
+    "href": "/football-agency/ams-talent-consulting/"
+  },
+  {
+    "name": "Tenet Football GmbH",
+    "tagline": "Bundesliga Pathway Specialists",
+    "slug": "tenet-football-gmbh",
+    "country": "Germany",
+    "value": "€37mm",
+    "href": "/football-agency/tenet-football-gmbh/"
+  },
+  {
+    "name": "People In Sport",
+    "tagline": "Nordic Player Agency",
+    "slug": "people-in-sport",
+    "country": "Denmark",
+    "value": "€47mm",
+    "href": "/football-agency/people-in-sport/"
+  },
+  {
+    "name": "Eleven Plus",
+    "tagline": "Belgian Talent Bridge",
+    "slug": "eleven-plus",
+    "country": "Belgium",
+    "value": "€37mm",
+    "href": "/football-agency/eleven-plus/"
+  },
+  {
+    "name": "KL Sportsbase",
+    "tagline": "DACH Development Experts",
+    "slug": "kl-sportsbase",
+    "country": "Germany",
+    "value": "€34mm",
+    "href": "/football-agency/kl-sportsbase/"
+  },
+  {
+    "name": "KDS Football Management",
+    "tagline": "Elite Player Agency",
+    "slug": "kds-football-management",
+    "country": "France",
+    "value": "€40mm",
+    "href": "/football-agency/kds-football-management/"
+  },
+  {
+    "name": "Arena Sport Agency",
+    "tagline": "Balkan Dealmakers",
+    "slug": "arena-sport-agency",
+    "country": "Bosnia and Herzegovina/Croatia",
+    "value": "€40mm",
+    "href": "/football-agency/arena-sport-agency/"
+  },
+  {
+    "name": "New Era Global Sports Management Ltd",
+    "tagline": "UK Player Managers",
+    "slug": "new-era-global-sports-management-ltd",
+    "country": "UK",
+    "value": "€37mm",
+    "href": "/football-agency/new-era-global-sports-management-ltd/"
+  },
+  {
+    "name": "One Team Management",
+    "tagline": "Elite Representation",
+    "slug": "one-team-management",
+    "country": "France",
+    "value": "€47mm",
+    "href": "/football-agency/one-team-management/"
+  },
+  {
+    "name": "FullNinety Sports Management",
+    "tagline": "UK–Australia pathway",
+    "slug": "fullninety-sports-management",
+    "country": "UK",
+    "value": "€36mm",
+    "href": "/football-agency/fullninety-sports-management/"
+  },
+  {
+    "name": "Faro Sports",
+    "tagline": "Uruguay Talent Export",
+    "slug": "faro-sports",
+    "country": "Uruguay",
+    "value": "€35mm",
+    "href": "/football-agency/faro-sports/"
+  },
+  {
+    "name": "Dodici Sports BR",
+    "tagline": "Cross-Border Talent",
+    "slug": "dodici-sports-br",
+    "country": "Brazil",
+    "value": "€45mm",
+    "href": "/football-agency/dodici-sports-br/"
+  },
+  {
+    "name": "PINTEX Sports Agency",
+    "tagline": "Africa Bridge",
+    "slug": "pintex-sports-agency",
+    "country": "UK",
+    "value": "€38mm",
+    "href": "/football-agency/pintex-sports-agency/"
+  },
+  {
+    "name": "K2K Sports & Entertainment Group",
+    "tagline": "Central Europe Powerhouse",
+    "slug": "k2k-sports-and-entertainment-group",
+    "country": "Czechia",
+    "value": "€40mm",
+    "href": "/football-agency/k2k-sports-and-entertainment-group/"
+  },
+  {
+    "name": "Feel soccer GmbH",
+    "tagline": "Boutique EU Pathway",
+    "slug": "feel-soccer-gmbh",
+    "country": "Germany",
+    "value": "€36mm",
+    "href": "/football-agency/feel-soccer-gmbh/"
+  },
+  {
+    "name": "Hexagon Sport Agency",
+    "tagline": "Franco-EU Talent Hub",
+    "slug": "hexagon-sport-agency",
+    "country": "France",
+    "value": "€38mm",
+    "href": "/football-agency/hexagon-sport-agency/"
+  },
+  {
+    "name": "Karl M. Herzog Sportmanagement (KMH Sport)",
+    "tagline": "Family-run DACH Pathway",
+    "slug": "karl-m-herzog-sportmanagement-kmh-sport",
+    "country": "Germany",
+    "value": "€38mm",
+    "href": "/football-agency/karl-m-herzog-sportmanagement-kmh-sport/"
+  },
+  {
+    "name": "Refuel Performance Management (RPM)",
+    "tagline": "Goalkeeper-First Specialists",
+    "slug": "refuel-performance-management-rpm",
+    "country": "UK",
+    "value": "€36mm",
+    "href": "/football-agency/refuel-performance-management-rpm/"
+  },
+  {
+    "name": "CMG Sports",
+    "tagline": "360° Player Care",
+    "slug": "cmg-sports",
+    "country": "UK",
+    "value": "€36mm",
+    "href": "/football-agency/cmg-sports/"
+  },
+  {
+    "name": "Soccer Concept AG",
+    "tagline": "Boutique Management",
+    "slug": "soccer-concept-ag",
+    "country": "Switzerland",
+    "value": "€40mm",
+    "href": "/football-agency/soccer-concept-ag/"
+  },
+  {
+    "name": "Crown Football Talent Ltd",
+    "tagline": "Trust-Driven Management",
+    "slug": "crown-football-talent-ltd",
+    "country": "UK",
+    "value": "€40mm",
+    "href": "/football-agency/crown-football-talent-ltd/"
+  },
+  {
+    "name": "Kemari Football",
+    "tagline": "Paris-to-Global Bridge Football Agency",
+    "slug": "kemari-football",
+    "country": "France",
+    "value": "€35mm",
+    "href": "/football-agency/kemari-football/"
+  },
+  {
+    "name": "StormSportsX",
+    "tagline": "UK-to-Europe Football Dealmakers",
+    "slug": "stormsportsx",
+    "country": "UK",
+    "value": "€35mm",
+    "href": "/football-agency/stormsportsx/"
+  },
+  {
+    "name": "Fernando Hidalgo - Football Agent",
+    "tagline": "Argentina–Spain Conduit",
+    "slug": "fernando-hidalgo-football-agent",
+    "country": "Argentina",
+    "value": "€102mm",
+    "href": "/football-agency/fernando-hidalgo-football-agent/"
+  },
+  {
+    "name": "Latouche Avocats / Paul Latouche (Mandataire Sportif)",
+    "tagline": "Law-Led Boutique Football Agency",
+    "slug": "latouche-avocats-paul-latouche-mandataire-sportif",
+    "country": "France",
+    "value": "€35mm",
+    "href": "/football-agency/latouche-avocats-paul-latouche-mandataire-sportif/"
+  },
+  {
+    "name": "HAGMAYR Sportmanagement GmbH",
+    "tagline": "Alpine Football Talent Gateway",
+    "slug": "hagmayr-sportmanagement-gmbh",
+    "country": "Austria",
+    "value": "€35mm",
+    "href": "/football-agency/hagmayr-sportmanagement-gmbh/"
+  },
+  {
+    "name": "BOIM Football Boutique",
+    "tagline": "Canary Islands Boutique Agency",
+    "slug": "boim-football-boutique",
+    "country": "Spain",
+    "value": "€34mm",
+    "href": "/football-agency/boim-football-boutique/"
+  },
+  {
+    "name": "GreenField Agency",
+    "tagline": "Zagreb-to-Global Movers",
+    "slug": "greenfield-agency",
+    "country": "Croatia",
+    "value": "€34mm",
+    "href": "/football-agency/greenfield-agency/"
+  },
+  {
+    "name": "Stars & Friends International Holding GmbH",
+    "tagline": "Central Europe Powerhouse",
+    "slug": "stars-and-friends-international-holding-gmbh",
+    "country": "Slovakia",
+    "value": "€34mm",
+    "href": "/football-agency/stars-and-friends-international-holding-gmbh/"
+  },
+  {
+    "name": "UJ Football Talent",
+    "tagline": "Brazil–Portugal Bridge",
+    "slug": "uj-football-talent",
+    "country": "Brazil",
+    "value": "€34mm",
+    "href": "/football-agency/uj-football-talent/"
+  },
+  {
+    "name": "Profi-Management Agency",
+    "tagline": "Belgium Goalkeeper Specialists",
+    "slug": "profi-management-agency",
+    "country": "Belgium",
+    "value": "€34mm",
+    "href": "/football-agency/profi-management-agency/"
+  },
+  {
+    "name": "MYG Invest Football",
+    "tagline": "Paris–Nantes Pipeline",
+    "slug": "myg-invest-football",
+    "country": "France",
+    "value": "€34mm",
+    "href": "/football-agency/myg-invest-football/"
+  },
+  {
+    "name": "STV – Soccer Talents Vision",
+    "tagline": "From Football Talents to Legacy",
+    "slug": "stv-soccer-talents-vision",
+    "country": "Portugal",
+    "value": "€34mm",
+    "href": "/football-agency/stv-soccer-talents-vision/"
+  },
+  {
+    "name": "MadeInFootball",
+    "tagline": "Lusophone Dealmakers",
+    "slug": "madeinfootball",
+    "country": "Portugal",
+    "value": "€33mm",
+    "href": "/football-agency/madeinfootball/"
+  },
+  {
+    "name": "Consilium Sports Group",
+    "tagline": "UK–Ireland Pathway Builders",
+    "slug": "consilium-sports-group",
+    "country": "UK",
+    "value": "€33mm",
+    "href": "/football-agency/consilium-sports-group/"
+  },
+  {
+    "name": "Interfootball Management S.L.",
+    "tagline": "Barcelona Full-Service Hub",
+    "slug": "interfootball-management-sl",
+    "country": "Spain",
+    "value": "€33mm",
+    "href": "/football-agency/interfootball-management-sl/"
+  },
+  {
+    "name": "Adriano Sports Assessoria Esportiva by Adriano Spadoto",
+    "tagline": "Brazil–Europe Deal Axis",
+    "slug": "adriano-sports-assessoria-esportiva-by-adriano-spadoto",
+    "country": "Brazil",
+    "value": "€38mm",
+    "href": "/football-agency/adriano-sports-assessoria-esportiva-by-adriano-spadoto/"
+  },
+  {
+    "name": "TM Agency by Tuncay Maldan",
+    "tagline": "Türkiye-Focused Representation",
+    "slug": "tm-agency-by-tuncay-maldan",
+    "country": "Türkiye",
+    "value": "€33mm",
+    "href": "/football-agency/tm-agency-by-tuncay-maldan/"
+  },
+  {
+    "name": "AIM Futbol",
+    "tagline": "LATAM–EURO Bridge",
+    "slug": "aim-futbol",
+    "country": "Chile",
+    "value": "€33mm",
+    "href": "/football-agency/aim-futbol/"
+  },
+  {
+    "name": "S.O.M Football",
+    "tagline": "Paris Talent Bridge",
+    "slug": "som-football",
+    "country": "France",
+    "value": "€33mm",
+    "href": "/football-agency/som-football/"
+  },
+  {
+    "name": "Future Consult",
+    "tagline": "Nordic Talent Pathway",
+    "slug": "future-consult",
+    "country": "Denmark",
+    "value": "€33mm",
+    "href": "/football-agency/future-consult/"
+  },
+  {
+    "name": "BMS Sport Consulting",
+    "tagline": "Goalkeeper Specialists",
+    "slug": "bms-sport-consulting",
+    "country": "Germany",
+    "value": "€33mm",
+    "href": "/football-agency/bms-sport-consulting/"
+  },
+  {
+    "name": "EmartSoccer",
+    "tagline": "Spain-to-Europe Pipeline",
+    "slug": "emartsoccer",
+    "country": "Spain",
+    "value": "€32mm",
+    "href": "/football-agency/emartsoccer/"
+  },
+  {
+    "name": "Mundo Futuro Chile",
+    "tagline": "Chilean Powerhouse",
+    "slug": "mundo-futuro-chile",
+    "country": "Chile",
+    "value": "€32mm",
+    "href": "/football-agency/mundo-futuro-chile/"
+  },
+  {
+    "name": "Free Football Agency",
+    "tagline": "Georgia-to-Europe Bridge",
+    "slug": "free-football-agency",
+    "country": "Georgia",
+    "value": "€32mm",
+    "href": "/football-agency/free-football-agency/"
+  },
+  {
+    "name": "NGA Sport",
+    "tagline": "Next-Gen Pathway",
+    "slug": "nga-sport",
+    "country": "Italy",
+    "value": "€32mm",
+    "href": "/football-agency/nga-sport/"
+  },
+  {
+    "name": "KSM Agency",
+    "tagline": "Sweden-to–Top-Leagues Bridge",
+    "slug": "ksm-agency",
+    "country": "Sewden",
+    "value": "€32mm",
+    "href": "/football-agency/ksm-agency/"
+  },
+  {
+    "name": "Starting XI Player Management (SXI)",
+    "tagline": "Transatlantic Focus",
+    "slug": "starting-xi-player-management-sxi",
+    "country": "US",
+    "value": "€37mm",
+    "href": "/football-agency/starting-xi-player-management-sxi/"
+  },
+  {
+    "name": "ELITE FOOTBALL (Elifootball)",
+    "tagline": "Colombia-to-Europe Conduit",
+    "slug": "elite-football-elifootball",
+    "country": "Colombia",
+    "value": "€26mm",
+    "href": "/football-agency/elite-football-elifootball/"
+  },
+  {
+    "name": "F-F SPORT",
+    "tagline": "Türkiye–EU Dealmakers",
+    "slug": "f-f-sport",
+    "country": "Türkiye",
+    "value": "€32mm",
+    "href": "/football-agency/f-f-sport/"
+  },
+  {
+    "name": "Equipo TMA – Talent Management Associates",
+    "tagline": "Uruguay Export Hub",
+    "slug": "equipo-tma-talent-management-associates",
+    "country": "Uruguay",
+    "value": "€40mm",
+    "href": "/football-agency/equipo-tma-talent-management-associates/"
+  },
+  {
+    "name": "M-Soccermanagement",
+    "tagline": "DACH–Türkiye Talent Bridge",
+    "slug": "m-soccermanagement",
+    "country": "Germany",
+    "value": "€32mm",
+    "href": "/football-agency/m-soccermanagement/"
+  },
+  {
+    "name": "WNRS Sports",
+    "tagline": "Premier League Pathways",
+    "slug": "wnrs-sports",
+    "country": "UK",
+    "value": "€31mm",
+    "href": "/football-agency/wnrs-sports/"
+  },
+  {
+    "name": "Unidos Football Agency",
+    "tagline": "Poland Specialists",
+    "slug": "unidos-football-agency",
+    "country": "Poland",
+    "value": "€35mm",
+    "href": "/football-agency/unidos-football-agency/"
+  },
+  {
+    "name": "BN Zini Marketing & Management (VTN Image)",
+    "tagline": "Brazilian Talent Bridge",
+    "slug": "bn-zini-marketing-and-management-vtn-image",
+    "country": "Brazil",
+    "value": "€40mm",
+    "href": "/football-agency/bn-zini-marketing-and-management-vtn-image/"
+  },
+  {
+    "name": "FGM Uruguay",
+    "tagline": "Montevideo Talent Pipeline",
+    "slug": "fgm-uruguay",
+    "country": "Uruguay",
+    "value": "€31mm",
+    "href": "/football-agency/fgm-uruguay/"
+  },
+  {
+    "name": "Wesport Football",
+    "tagline": "Nordic-to-Europe Ladder",
+    "slug": "wesport-football",
+    "country": "Sweden",
+    "value": "€31mm",
+    "href": "/football-agency/wesport-football/"
+  },
+  {
+    "name": "SP The Agency",
+    "tagline": "Dutch-Led Elite Moves",
+    "slug": "sp-the-agency",
+    "country": "Netherlands",
+    "value": "€31mm",
+    "href": "/football-agency/sp-the-agency/"
+  },
+  {
+    "name": "Boss Talent Sports",
+    "tagline": "Boutique UK agency",
+    "slug": "boss-talent-sports",
+    "country": "UK",
+    "value": "€31mm",
+    "href": "/football-agency/boss-talent-sports/"
+  },
+  {
+    "name": "HEROE Football Management",
+    "tagline": "Japan-to-Europe Bridge",
+    "slug": "heroe-football-management",
+    "country": "Japan",
+    "value": "€30mm",
+    "href": "/football-agency/heroe-football-management/"
+  },
+  {
+    "name": "Global Ases",
+    "tagline": "Basque–Navarra Specialists",
+    "slug": "global-ases",
+    "country": "Spain",
+    "value": "€30mm",
+    "href": "/football-agency/global-ases/"
+  },
+  {
+    "name": "Prodigy Players",
+    "tagline": "Lusophone Talent Network",
+    "slug": "prodigy-players",
+    "country": "Portugal",
+    "value": "€30mm",
+    "href": "/football-agency/prodigy-players/"
+  },
+  {
+    "name": "Image Sport",
+    "tagline": "Ecuadorian Powerhouse Pipeline",
+    "slug": "image-sport",
+    "country": "Ecuador",
+    "value": "€29mm",
+    "href": "/football-agency/image-sport/"
+  },
+  {
+    "name": "DV7 Management",
+    "tagline": "Spain–Americas Bridge",
+    "slug": "dv7-management",
+    "country": "US/Spain",
+    "value": "€29mm",
+    "href": "/football-agency/dv7-management/"
+  },
+  {
+    "name": "KMR Sports Group",
+    "tagline": "Costa Rica–MLS Conduit",
+    "slug": "kmr-sports-group",
+    "country": "Costa Rica",
+    "value": "€29mm",
+    "href": "/football-agency/kmr-sports-group/"
+  },
+  {
+    "name": "Gold Kick",
+    "tagline": "Swiss Talent Stewards",
+    "slug": "gold-kick",
+    "country": "Switzerland",
+    "value": "€29mm",
+    "href": "/football-agency/gold-kick/"
+  },
+  {
+    "name": "fair-sport GmbH",
+    "tagline": "Family-First Representation",
+    "slug": "fair-sport-gmbh",
+    "country": "Germany",
+    "value": "€29mm",
+    "href": "/football-agency/fair-sport-gmbh/"
+  },
+  {
+    "name": "SG Management by Shahar Greenberg",
+    "tagline": "Israeli Talent Pathway",
+    "slug": "sg-management-by-shahar-greenberg",
+    "country": "Israel",
+    "value": "€29mm",
+    "href": "/football-agency/sg-management-by-shahar-greenberg/"
+  },
+  {
+    "name": "Prime Soccer",
+    "tagline": "Global Prime Representation",
+    "slug": "prime-soccer",
+    "country": "Portugal",
+    "value": "€28mm",
+    "href": "/football-agency/prime-soccer/"
+  },
+  {
+    "name": "Quadrans Football Management",
+    "tagline": "Education-Driven Agency",
+    "slug": "quadrans-football-management",
+    "country": "Belgium",
+    "value": "€28mm",
+    "href": "/football-agency/quadrans-football-management/"
+  },
+  {
+    "name": "By and For Sport Management",
+    "tagline": "France–Spain Bridge",
+    "slug": "by-and-for-sport-management",
+    "country": "Spain",
+    "value": "€28mm",
+    "href": "/football-agency/by-and-for-sport-management/"
+  },
+  {
+    "name": "INNfootball",
+    "tagline": "Eastern Europe Hub",
+    "slug": "innfootball",
+    "country": "Poland",
+    "value": "€24mm",
+    "href": "/football-agency/innfootball/"
+  },
+  {
+    "name": "(Oscar) Bentancourt Players",
+    "tagline": "Uruguayan Talent Network",
+    "slug": "oscar-bentancourt-players",
+    "country": "Uruguay",
+    "value": "€28mm",
+    "href": "/football-agency/oscar-bentancourt-players/"
+  },
+  {
+    "name": "SeiSei Football",
+    "tagline": "Boutique Football Management",
+    "slug": "seisei-football",
+    "country": "Netherlands",
+    "value": "€28mm",
+    "href": "/football-agency/seisei-football/"
+  },
+  {
+    "name": "Urufutbol Soccer Management",
+    "tagline": "Montevideo Pathway Specialists",
+    "slug": "urufutbol-soccer-management",
+    "country": "Uruguay",
+    "value": "€27mm",
+    "href": "/football-agency/urufutbol-soccer-management/"
+  },
+  {
+    "name": "ALIK Football Management",
+    "tagline": "Ukrainian Elite Pathways",
+    "slug": "alik-football-management",
+    "country": "Ukraine",
+    "value": "€27mm",
+    "href": "/football-agency/alik-football-management/"
+  },
+  {
+    "name": "US 11 – Ulisses Santos",
+    "tagline": "Portugal Connector",
+    "slug": "us-11-ulisses-santos",
+    "country": "Portugal",
+    "value": "€37mm",
+    "href": "/football-agency/us-11-ulisses-santos/"
+  },
+  {
+    "name": "A.M.A. Sports Agency",
+    "tagline": "Nordic Player Management",
+    "slug": "ama-sports-agency",
+    "country": "",
+    "value": "€35mm",
+    "href": "/football-agency/ama-sports-agency/"
+  },
+  {
+    "name": "FIA Football & Management",
+    "tagline": "Elite Career Management",
+    "slug": "fia-football-and-management",
+    "country": "UAE",
+    "value": "€27mm",
+    "href": "/football-agency/fia-football-and-management/"
+  },
+  {
+    "name": "Soccer11",
+    "tagline": "Balkan Defence Experts",
+    "slug": "soccer11",
+    "country": "Croatia",
+    "value": "€27mm",
+    "href": "/football-agency/soccer11/"
+  },
+  {
+    "name": "Apertura Sports GmbH",
+    "tagline": "Asia–Europe Pathway",
+    "slug": "apertura-sports-gmbh",
+    "country": "Germany",
+    "value": "€27mm",
+    "href": "/football-agency/apertura-sports-gmbh/"
+  },
+  {
+    "name": "Elevenelite Srl",
+    "tagline": "Italian Talent Boutique",
+    "slug": "elevenelite-srl",
+    "country": "Italy",
+    "value": "€27mm",
+    "href": "/football-agency/elevenelite-srl/"
+  },
+  {
+    "name": "MRH Football Agency",
+    "tagline": "Spanish Talent Pathways",
+    "slug": "mrh-football-agency",
+    "country": "Spain",
+    "value": "€27mm",
+    "href": "/football-agency/mrh-football-agency/"
+  },
+  {
+    "name": "Pure Sportsmanagement",
+    "tagline": "Dutch Player Agency",
+    "slug": "pure-sportsmanagement",
+    "country": "Netherlands",
+    "value": "€35mm",
+    "href": "/football-agency/pure-sportsmanagement/"
+  },
+  {
+    "name": "Haspel Sportconsulting",
+    "tagline": "German Midmarket",
+    "slug": "haspel-sportconsulting",
+    "country": "Germany",
+    "value": "€35mm",
+    "href": "/football-agency/haspel-sportconsulting/"
+  },
+  {
+    "name": "Teamgeist Sportmanagement GmbH",
+    "tagline": "Structured Career Guidance",
+    "slug": "teamgeist-sportmanagement-gmbh",
+    "country": "Germany",
+    "value": "€26mm",
+    "href": "/football-agency/teamgeist-sportmanagement-gmbh/"
+  },
+  {
+    "name": "Pro 11 Management",
+    "tagline": "Scandinavian Specialists",
+    "slug": "pro-11-management",
+    "country": "Denmark",
+    "value": "€26mm",
+    "href": "/football-agency/pro-11-management/"
+  },
+  {
+    "name": "Atlasgames (AGM)",
+    "tagline": "Creator-Led Boutique",
+    "slug": "atlasgames-agm",
+    "country": "Germany",
+    "value": "€35mm",
+    "href": "/football-agency/atlasgames-agm/"
+  },
+  {
+    "name": "Dony Management AG",
+    "tagline": "Greek–Serbian Pipeline",
+    "slug": "dony-management-ag",
+    "country": "Switzerland",
+    "value": "€26mm",
+    "href": "/football-agency/dony-management-ag/"
+  },
+  {
+    "name": "PEP Sports Consulting",
+    "tagline": "Scandinavian Elite Focus",
+    "slug": "pep-sports-consulting",
+    "country": "Denmark",
+    "value": "€26mm",
+    "href": "/football-agency/pep-sports-consulting/"
+  },
+  {
+    "name": "MVP Agency",
+    "tagline": "European Talent Network",
+    "slug": "mvp-agency",
+    "country": "Italy",
+    "value": "€26mm",
+    "href": "/football-agency/mvp-agency/"
+  },
+  {
+    "name": "Ambar Northern Holding by Claudio Curti",
+    "tagline": "Latin Talent Gateway",
+    "slug": "ambar-northern-holding-by-claudio-curti",
+    "country": "Spain",
+    "value": "€26mm",
+    "href": "/football-agency/ambar-northern-holding-by-claudio-curti/"
+  },
+  {
+    "name": "Soccer and more Ltd.",
+    "tagline": "Pathway Specialists",
+    "slug": "soccer-and-more-ltd",
+    "country": "Germany",
+    "value": "€26mm",
+    "href": "/football-agency/soccer-and-more-ltd/"
+  },
+  {
+    "name": "ESAM – European Sport Agency Müller",
+    "tagline": "Czech Elite Hub",
+    "slug": "esam-european-sport-agency-muller",
+    "country": "Czechia",
+    "value": "€30mm",
+    "href": "/football-agency/esam-european-sport-agency-muller/"
+  },
+  {
+    "name": "SBSports (Specialized Business Sport)",
+    "tagline": "Brazil–Global Pathways",
+    "slug": "sbsports-specialized-business-sport",
+    "country": "Brazil",
+    "value": "€25mm",
+    "href": "/football-agency/sbsports-specialized-business-sport/"
+  },
+  {
+    "name": "Mesas Sport",
+    "tagline": "Spanish Boutique",
+    "slug": "mesas-sport",
+    "country": "Spain",
+    "value": "€33mm",
+    "href": "/football-agency/mesas-sport/"
+  },
+  {
+    "name": "Insua Group",
+    "tagline": "South America–Europe",
+    "slug": "insua-group",
+    "country": "Argentina",
+    "value": "€25mm",
+    "href": "/football-agency/insua-group/"
+  },
+  {
+    "name": "Eleven Talent Group",
+    "tagline": "Buenos Aires–Barcelona",
+    "slug": "eleven-talent-group",
+    "country": "Spain",
+    "value": "€25mm",
+    "href": "/football-agency/eleven-talent-group/"
+  },
+  {
+    "name": "Match2gether",
+    "tagline": "Munich Talent Boutique",
+    "slug": "match2gether",
+    "country": "Germany",
+    "value": "€25mm",
+    "href": "/football-agency/match2gether/"
+  },
+  {
+    "name": "More than Sport GmbH",
+    "tagline": "Austrian Talent Network",
+    "slug": "more-than-sport-gmbh",
+    "country": "Austria",
+    "value": "€25mm",
+    "href": "/football-agency/more-than-sport-gmbh/"
+  },
+  {
+    "name": "Web Soccer do Brasil",
+    "tagline": "Brazil–Global bridge",
+    "slug": "web-soccer-do-brasil",
+    "country": "Brazil",
+    "value": "€25mm",
+    "href": "/football-agency/web-soccer-do-brasil/"
+  },
+  {
+    "name": "SoccerSoul",
+    "tagline": "Holistic player care",
+    "slug": "soccersoul",
+    "country": "Portugal",
+    "value": "€25mm",
+    "href": "/football-agency/soccersoul/"
+  },
+  {
+    "name": "B360 Sports Agency",
+    "tagline": "Nordic–DACH bridge",
+    "slug": "b360-sports-agency",
+    "country": "Germany",
+    "value": "€25mm",
+    "href": "/football-agency/b360-sports-agency/"
+  },
+  {
+    "name": "Agencia de Fútbol Venezuela",
+    "tagline": "Venezuelan Talent Powerhouse",
+    "slug": "agencia-de-futbol-venezuela",
+    "country": "Venezuela",
+    "value": "€25mm",
+    "href": "/football-agency/agencia-de-futbol-venezuela/"
+  },
+  {
+    "name": "Family Reliance Group",
+    "tagline": "Premier League Focus",
+    "slug": "family-reliance-group",
+    "country": "UK",
+    "value": "€33mm",
+    "href": "/football-agency/family-reliance-group/"
+  },
+  {
+    "name": "Mondo Victory – Sports Management",
+    "tagline": "Portugal Pathway",
+    "slug": "mondo-victory-sports-management",
+    "country": "Portugal",
+    "value": "€33mm",
+    "href": "/football-agency/mondo-victory-sports-management/"
+  },
+  {
+    "name": "GP Soccer and Management",
+    "tagline": "Italian Talent Pathway",
+    "slug": "gp-soccer-and-management",
+    "country": "Italy",
+    "value": "€33mm",
+    "href": "/football-agency/gp-soccer-and-management/"
+  },
+  {
+    "name": "BKS Management DWC LLC",
+    "tagline": "Europe–MENA Pathways",
+    "slug": "bks-management-dwc-llc",
+    "country": "UAE",
+    "value": "€33mm",
+    "href": "/football-agency/bks-management-dwc-llc/"
+  },
+  {
+    "name": "One Players’ Agent by Paolillo & Carnaghi",
+    "tagline": "Italian Pro Management",
+    "slug": "one-players-agent-by-paolillo-and-carnaghi",
+    "country": "Italy",
+    "value": "€33mm",
+    "href": "/football-agency/one-players-agent-by-paolillo-and-carnaghi/"
+  },
+  {
+    "name": "General Sports Worldwide (Football – General Sports Europe)",
+    "tagline": "Global Hybrid Agency",
+    "slug": "general-sports-worldwide-football-general-sports-europe",
+    "country": "UK",
+    "value": "€25mm",
+    "href": "/football-agency/general-sports-worldwide-football-general-sports-europe/"
+  },
+  {
+    "name": "R13 Fussball Agenciamento Esportivo",
+    "tagline": "Brazilian Pathway Specialists",
+    "slug": "r13-fussball-agenciamento-esportivo",
+    "country": "Brazil",
+    "value": "€25mm",
+    "href": "/football-agency/r13-fussball-agenciamento-esportivo/"
+  },
+  {
+    "name": "HWH Sport (Heusler Werthmüller Heitz AG)",
+    "tagline": "Swiss Talent Advisors",
+    "slug": "hwh-sport-heusler-werthmuller-heitz-ag",
+    "country": "Switzerland",
+    "value": "€25mm",
+    "href": "/football-agency/hwh-sport-heusler-werthmuller-heitz-ag/"
+  },
+  {
+    "name": "Part of the Game",
+    "tagline": "Ukraine-Europe Bridge",
+    "slug": "part-of-the-game",
+    "country": "UK/Ukraine",
+    "value": "€32mm",
+    "href": "/football-agency/part-of-the-game/"
+  },
+  {
+    "name": "AXL Agency / E&L Consulting",
+    "tagline": "Belgian Talent Specialists",
+    "slug": "axl-agency-eandl-consulting",
+    "country": "Belgium",
+    "value": "€25mm",
+    "href": "/football-agency/axl-agency-eandl-consulting/"
+  },
+  {
+    "name": "EA Sports Agency",
+    "tagline": "Bulgarian Talent Specialists",
+    "slug": "ea-sports-agency",
+    "country": "Bulgaria",
+    "value": "€24mm",
+    "href": "/football-agency/ea-sports-agency/"
+  },
+  {
+    "name": "Doubled Sports Agency",
+    "tagline": "Global Player Management",
+    "slug": "doubled-sports-agency",
+    "country": "UK",
+    "value": "€24mm",
+    "href": "/football-agency/doubled-sports-agency/"
+  },
+  {
+    "name": "Argentum Sport",
+    "tagline": "Balkan Pathways Specialist",
+    "slug": "argentum-sport",
+    "country": "Croatia",
+    "value": "€28mm",
+    "href": "/football-agency/argentum-sport/"
+  },
+  {
+    "name": "SportCapital Football Agency by Gonzalo Vargas Ripalda",
+    "tagline": "Ecuadorian Talent Specialists",
+    "slug": "sportcapital-football-agency-by-gonzalo-vargas-ripalda",
+    "country": "Ecuador",
+    "value": "€24mm",
+    "href": "/football-agency/sportcapital-football-agency-by-gonzalo-vargas-ripalda/"
+  },
+  {
+    "name": "GEV Sport & Management",
+    "tagline": "Italian Player Agency",
+    "slug": "gev-sport-and-management",
+    "country": "Italy",
+    "value": "€23mm",
+    "href": "/football-agency/gev-sport-and-management/"
+  },
+  {
+    "name": "Top Sport Management",
+    "tagline": "Czech Talent Hub",
+    "slug": "top-sport-management",
+    "country": "Czechia",
+    "value": "€25mm",
+    "href": "/football-agency/top-sport-management/"
+  },
+  {
+    "name": "Full Potential Agency",
+    "tagline": "Scandinavian Player Hub",
+    "slug": "full-potential-agency",
+    "country": "Sweden",
+    "value": "€23mm",
+    "href": "/football-agency/full-potential-agency/"
+  },
+  {
+    "name": "InterLex Sport",
+    "tagline": "Boutique Global Agency",
+    "slug": "interlex-sport",
+    "country": "Spain/UK",
+    "value": "€23mm",
+    "href": "/football-agency/interlex-sport/"
+  },
+  {
+    "name": "Pars International Football Agency – PIFA",
+    "tagline": "Iranian Talent Bridge",
+    "slug": "pars-international-football-agency-pifa",
+    "country": "Iran",
+    "value": "€23mm",
+    "href": "/football-agency/pars-international-football-agency-pifa/"
+  },
+  {
+    "name": "SportBusiness Uruguay SRL",
+    "tagline": "Uruguayan Talent Specialists",
+    "slug": "sportbusiness-uruguay-srl",
+    "country": "Uruguay",
+    "value": "€23mm",
+    "href": "/football-agency/sportbusiness-uruguay-srl/"
+  },
+  {
+    "name": "GROW Talents",
+    "tagline": "Rising Talent Specialists",
+    "slug": "grow-talents",
+    "country": "UK",
+    "value": "€23mm",
+    "href": "/football-agency/grow-talents/"
+  },
+  {
+    "name": "LA Football Consulting",
+    "tagline": "Global Player Management",
+    "slug": "la-football-consulting",
+    "country": "Greece/Brazil",
+    "value": "€22mm",
+    "href": "/football-agency/la-football-consulting/"
+  },
+  {
+    "name": "Avid Sports & Entertainment Group",
+    "tagline": "Family-First Agency",
+    "slug": "avid-sports-and-entertainment-group",
+    "country": "UK",
+    "value": "€22mm",
+    "href": "/football-agency/avid-sports-and-entertainment-group/"
+  },
+  {
+    "name": "Momentum Sports Management",
+    "tagline": "UK Player Specialists",
+    "slug": "momentum-sports-management",
+    "country": "UK",
+    "value": "€22mm",
+    "href": "/football-agency/momentum-sports-management/"
+  },
+  {
+    "name": "FMS Gestão Esportiva (Fabio Mello Sports)",
+    "tagline": "Brazilian Career Architects",
+    "slug": "fms-gestao-esportiva-fabio-mello-sports",
+    "country": "Brazil",
+    "value": "€22mm",
+    "href": "/football-agency/fms-gestao-esportiva-fabio-mello-sports/"
+  },
+  {
+    "name": "Cassius Sports",
+    "tagline": "Modern EFL Specialists",
+    "slug": "cassius-sports",
+    "country": "UK",
+    "value": "€22mm",
+    "href": "/football-agency/cassius-sports/"
+  },
+  {
+    "name": "Rondo Football",
+    "tagline": "Data Driven Agency",
+    "slug": "rondo-football",
+    "country": "Netherlands",
+    "value": "€22mm",
+    "href": "/football-agency/rondo-football/"
+  },
+  {
+    "name": "Tier One Agency",
+    "tagline": "Boutique Elite Representation",
+    "slug": "tier-one-agency",
+    "country": "UK",
+    "value": "€21mm",
+    "href": "/football-agency/tier-one-agency/"
+  },
+  {
+    "name": "BestFoot FM by Michele Fioravanti",
+    "tagline": "Italian–Spanish Network",
+    "slug": "bestfoot-fm-by-michele-fioravanti",
+    "country": "Italy",
+    "value": "€21mm",
+    "href": "/football-agency/bestfoot-fm-by-michele-fioravanti/"
+  },
+  {
+    "name": "11-Football Players",
+    "tagline": "International Polish Agency",
+    "slug": "11-football-players",
+    "country": "UAE/Poland",
+    "value": "€22mm",
+    "href": "/football-agency/11-football-players/"
+  },
+  {
+    "name": "22Eleven Sports",
+    "tagline": "Tax-Focused Boutique",
+    "slug": "22eleven-sports",
+    "country": "Netherlands",
+    "value": "€21mm",
+    "href": "/football-agency/22eleven-sports/"
+  },
+  {
+    "name": "TaP23",
+    "tagline": "Boutique Elite Agency",
+    "slug": "tap23",
+    "country": "UK",
+    "value": "€20mm",
+    "href": "/football-agency/tap23/"
+  },
+  {
+    "name": "Golden Sports Management",
+    "tagline": "Nordic Talent Specialists",
+    "slug": "golden-sports-management",
+    "country": "Norway",
+    "value": "€25mm",
+    "href": "/football-agency/golden-sports-management/"
+  },
+  {
+    "name": "Bundled",
+    "tagline": "Hybrid Football–Esports Agency",
+    "slug": "bundled",
+    "country": "Netherlands",
+    "value": "€20mm",
+    "href": "/football-agency/bundled/"
+  },
+  {
+    "name": "Sportlink Agency",
+    "tagline": "Saudi Talent Hub",
+    "slug": "sportlink-agency",
+    "country": "Saudi Arabia",
+    "value": "€20mm",
+    "href": "/football-agency/sportlink-agency/"
+  },
+  {
+    "name": "Ekxellence Sports",
+    "tagline": "Congolese–Belgian Bridge",
+    "slug": "ekxellence-sports",
+    "country": "Belgium",
+    "value": "€20mm",
+    "href": "/football-agency/ekxellence-sports/"
+  },
+  {
+    "name": "Clever One Agency",
+    "tagline": "Paris Talent Hub",
+    "slug": "clever-one-agency",
+    "country": "France",
+    "value": "€20mm",
+    "href": "/football-agency/clever-one-agency/"
+  },
+  {
+    "name": "HIJAR Sports",
+    "tagline": "Mexican Talent Hub",
+    "slug": "hijar-sports",
+    "country": "Mexico",
+    "value": "€22mm",
+    "href": "/football-agency/hijar-sports/"
+  },
+  {
+    "name": "The Elegant Game (Javier Pastore)",
+    "tagline": "Boutique Elite Argentine Agency",
+    "slug": "the-elegant-game-javier-pastore",
+    "country": "Argentina",
+    "value": "€85mm",
+    "href": "/football-agency/the-elegant-game-javier-pastore/"
+  },
+  {
+    "name": "MLM Sport Group",
+    "tagline": "Prague Talent Hub",
+    "slug": "mlm-sport-group",
+    "country": "Czechia",
+    "value": "€20mm",
+    "href": "/football-agency/mlm-sport-group/"
+  },
+  {
+    "name": "IFM-M - International Football Marketing & Management",
+    "tagline": "Central Europe talent",
+    "slug": "ifm-m-international-football-marketing-and-management",
+    "country": "Czechia",
+    "value": "€25mm",
+    "href": "/football-agency/ifm-m-international-football-marketing-and-management/"
+  },
+  {
+    "name": "SA-Football Agency",
+    "tagline": "Russian Talent Management",
+    "slug": "sa-football-agency",
+    "country": "Russia",
+    "value": "€20mm",
+    "href": "/football-agency/sa-football-agency/"
+  },
+  {
+    "name": "UNIO",
+    "tagline": "East Asia Pathways",
+    "slug": "unio",
+    "country": "Japan",
+    "value": "€20mm",
+    "href": "/football-agency/unio/"
+  },
+  {
+    "name": "Fisher Sport",
+    "tagline": "Global Player Agency",
+    "slug": "fisher-sport",
+    "country": "UK",
+    "value": "€20mm",
+    "href": "/football-agency/fisher-sport/"
+  },
+  {
+    "name": "Leduar Football",
+    "tagline": "South American Specialists",
+    "slug": "leduar-football",
+    "country": "Argentina",
+    "value": "€20mm",
+    "href": "/football-agency/leduar-football/"
+  },
+  {
+    "name": "Love Players - Football Agency",
+    "tagline": "Balkan Talent Specialists",
+    "slug": "love-players-football-agency",
+    "country": "Croatia",
+    "value": "€21mm",
+    "href": "/football-agency/love-players-football-agency/"
+  },
+  {
+    "name": "SPORTSBLOOM",
+    "tagline": "Boutique Iberian Talent",
+    "slug": "sportsbloom",
+    "country": "Portugal",
+    "value": "€19mm",
+    "href": "/football-agency/sportsbloom/"
+  },
+  {
+    "name": "Mir Sport",
+    "tagline": "Emerging Narkets Specialists",
+    "slug": "mir-sport",
+    "country": "UAE",
+    "value": "€19mm",
+    "href": "/football-agency/mir-sport/"
+  },
+  {
+    "name": "Tempo Sports Group",
+    "tagline": "Player-First Scandinavia Hub",
+    "slug": "tempo-sports-group",
+    "country": "Norway",
+    "value": "€19mm",
+    "href": "/football-agency/tempo-sports-group/"
+  },
+  {
+    "name": "BG Sports Management by Boaz Goren",
+    "tagline": "Israeli Talent Gateway",
+    "slug": "bg-sports-management-by-boaz-goren",
+    "country": "Israel",
+    "value": "€19mm",
+    "href": "/football-agency/bg-sports-management-by-boaz-goren/"
+  },
+  {
+    "name": "RELC Sports",
+    "tagline": "Panamanian Talent Bridge",
+    "slug": "relc-sports",
+    "country": "Panama",
+    "value": "€19mm",
+    "href": "/football-agency/relc-sports/"
+  },
+  {
+    "name": "MSports PRO",
+    "tagline": "Balkan Bridge",
+    "slug": "msports-pro",
+    "country": "UAE/Croatia",
+    "value": "€17mm",
+    "href": "/football-agency/msports-pro/"
+  },
+  {
+    "name": "MP Management by Michele Puglisi",
+    "tagline": "Italian talent boutique",
+    "slug": "mp-management-by-michele-puglisi",
+    "country": "Italy",
+    "value": "€19mm",
+    "href": "/football-agency/mp-management-by-michele-puglisi/"
+  },
+  {
+    "name": "SportsMaxi Consultoria Esportiva",
+    "tagline": "Brazil–Europe Pathway",
+    "slug": "sportsmaxi-consultoria-esportiva",
+    "country": "Brazil",
+    "value": "€19mm",
+    "href": "/football-agency/sportsmaxi-consultoria-esportiva/"
+  },
+  {
+    "name": "Total Football Agency (TFA)",
+    "tagline": "Brazil–Europe Bridge",
+    "slug": "total-football-agency-tfa",
+    "country": "Netherlands/Brazil",
+    "value": "€19mm",
+    "href": "/football-agency/total-football-agency-tfa/"
+  },
+  {
+    "name": "CA Sport Management",
+    "tagline": "Swiss–Italian Talent Hub",
+    "slug": "ca-sport-management",
+    "country": "Switzerland / Italy",
+    "value": "€19mm",
+    "href": "/football-agency/ca-sport-management/"
+  },
+  {
+    "name": "BePro Career Agency",
+    "tagline": "Hungarian Talent Pathways",
+    "slug": "bepro-career-agency",
+    "country": "Hungary",
+    "value": "€20mm",
+    "href": "/football-agency/bepro-career-agency/"
+  },
+  {
+    "name": "ML Sports Agency",
+    "tagline": "Buenos Aires Brokers",
+    "slug": "ml-sports-agency",
+    "country": "Argentina",
+    "value": "€20mm",
+    "href": "/football-agency/ml-sports-agency/"
+  },
+  {
+    "name": "DC International Sports Management (DC Sport)",
+    "tagline": "Cross-Border Pathways",
+    "slug": "dc-international-sports-management-dc-sport",
+    "country": "Germany",
+    "value": "€16mm",
+    "href": "/football-agency/dc-international-sports-management-dc-sport/"
+  },
+  {
+    "name": "KAI Football",
+    "tagline": "Cross-Border Deals",
+    "slug": "kai-football",
+    "country": "UK/UAE",
+    "value": "€7mm",
+    "href": "/football-agency/kai-football/"
+  },
+  {
+    "name": "projectFIVE GmbH",
+    "tagline": "Coaches First",
+    "slug": "projectfive-gmbh",
+    "country": "Germany",
+    "value": "€3mm",
+    "href": "/football-agency/projectfive-gmbh/"
+  },
+  {
+    "name": "Maxidel Management",
+    "tagline": "Emerging African Powerhouse",
+    "slug": "maxidel-management",
+    "country": "France/Ivory Coast",
+    "value": "€5mm",
+    "href": "/football-agency/maxidel-management/"
+  }
+]

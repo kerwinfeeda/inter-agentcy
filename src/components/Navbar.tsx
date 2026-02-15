@@ -20,6 +20,7 @@ const navItems: NavItem[] = [
       { href: "/network", label: "Network", desc: "200+ clubs worldwide" },
     ],
   },
+  { href: "/directory", label: "Directory" },
   { href: "/academy", label: "Academy" },
   { href: "/docs", label: "Docs" },
   { href: "/agents", label: "Pricing" },
