@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         background: { DEFAULT: '#0b0b0b', card: '#131419', elevated: '#1a1a1e' },
         accent: { DEFAULT: '#7B8794', light: '#C0C7CE', dark: '#4A5568', steel: '#9AAAB8' },
+        verified: { gold: '#D4A843', blue: '#4A9EDB' },
         success: { DEFAULT: '#4EBE96' },
         danger: { DEFAULT: '#e15e67' },
         foreground: { DEFAULT: '#E6E6E6', muted: '#868F97', dim: '#585858' },

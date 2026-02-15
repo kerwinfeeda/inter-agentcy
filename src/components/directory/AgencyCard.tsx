@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { Shield, MapPin, TrendingUp } from "lucide-react";
+import { MapPin, TrendingUp, Calendar, Users, ArrowRight } from "lucide-react";
+import VerifiedBadge from "./VerifiedBadge";
 
 interface AgencyCardProps {
   name: string;
@@ -7,22 +8,27 @@ interface AgencyCardProps {
   slug: string;
   country: string;
   value: string;
+  founded?: string;
+  hq?: string;
+  playerCount?: number;
 }
 
-export default function AgencyCard({ name, tagline, slug, country, value }: AgencyCardProps) {
+export default function AgencyCard({ name, tagline, slug, country, value, founded, hq, playerCount }: AgencyCardProps) {
   return (
     <Link
       href={`/directory/agencies/${slug}`}
       className="card card-hover p-6 flex flex-col gap-3 group"
     >
       <div className="flex items-start justify-between gap-2">
-        <h3 className="text-foreground font-semibold text-base group-hover:text-white transition-colors leading-tight">
-          {name}
-        </h3>
-        <Shield className="w-4 h-4 text-accent-steel flex-shrink-0 mt-0.5" />
+        <div className="flex items-center gap-2 min-w-0">
+          <h3 className="text-foreground font-semibold text-base group-hover:text-white transition-colors leading-tight truncate">
+            {name}
+          </h3>
+          <VerifiedBadge variant="gold" size="sm" />
+        </div>
       </div>
-      <p className="text-foreground-dim text-sm leading-relaxed">{tagline}</p>
-      <div className="mt-auto flex items-center gap-4 text-xs text-foreground-muted pt-2">
+      <p className="text-foreground-dim text-sm leading-relaxed line-clamp-2">{tagline}</p>
+      <div className="mt-auto flex flex-wrap items-center gap-3 text-xs text-foreground-muted pt-2">
         {country && (
           <span className="flex items-center gap-1">
             <MapPin className="w-3.5 h-3.5" />
@@ -35,6 +41,21 @@ export default function AgencyCard({ name, tagline, slug, country, value }: Agen
             {value}
           </span>
         )}
+        {founded && (
+          <span className="flex items-center gap-1">
+            <Calendar className="w-3.5 h-3.5" />
+            {founded}
+          </span>
+        )}
+        {playerCount && (
+          <span className="flex items-center gap-1">
+            <Users className="w-3.5 h-3.5" />
+            {playerCount}
+          </span>
+        )}
+      </div>
+      <div className="flex items-center gap-1 text-xs text-accent-steel group-hover:text-accent-light transition-colors pt-1">
+        View Profile <ArrowRight className="w-3 h-3" />
       </div>
     </Link>
   );

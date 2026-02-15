@@ -99,6 +99,14 @@
   @apply border-border my-8;
 }
 
+.verified-gold { color: #D4A843; }
+.verified-blue { color: #4A9EDB; }
+.verified-badge { animation: verifiedPulse 2s ease-in-out infinite; }
+@keyframes verifiedPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+
 html {
   scroll-behavior: smooth;
 }
