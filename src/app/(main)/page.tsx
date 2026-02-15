@@ -27,14 +27,15 @@ export default function Home() {
               The Global Football Intermediary Ecosystem
             </div>
             <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
-              Where Football&apos;s{" "}
-              <span className="gradient-text">Professionals</span>{" "}
-              Connect
+              The Representation Network{" "}
+              <span className="gradient-text">Of The Future</span>
             </h1>
-            <p className="text-lg md:text-xl text-foreground-muted leading-relaxed mb-10 max-w-2xl">
-              Two worlds, one platform. Licensed agents and agencies get enterprise tools to scale.
-              Scouts, representatives, and introducers get a path into the industry. Together, they form
-              the most complete football intermediary network on the planet.
+            <p className="text-lg md:text-xl text-foreground-muted leading-relaxed mb-4 max-w-2xl">
+              A global, tech-powered platform uniting licensed agents, scouts, reps, and introducers.
+              FIFA-compliant. Fully connected. Built for the modern game.
+            </p>
+            <p className="text-lg md:text-xl text-white font-medium mb-10">
+              Discover. Represent. Close. <span className="gradient-text">Together.</span>
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link
