@@ -6,15 +6,10 @@ import {
 } from "lucide-react";
 import StatsCounter from "@/components/StatsCounter";
 import FeatureCard from "@/components/FeatureCard";
-
-/* Steel grey palette tokens */
-const steel = {
-  light: "#C0C7CE",
-  mid: "#9AAAB8",
-  base: "#7B8794",
-  dark: "#5A6B7A",
-  darker: "#4A5568",
-};
+import MacBookFrame from "@/components/devices/MacBookFrame";
+import PhoneFrame from "@/components/devices/PhoneFrame";
+import DashboardMockup from "@/components/showcase/DashboardMockup";
+import MobileMockup from "@/components/showcase/MobileMockup";
 
 export default function Home() {
   return (
@@ -55,6 +50,18 @@ export default function Home() {
               >
                 See How It Works
               </Link>
+            </div>
+
+            {/* Hero Device Showcase */}
+            <div className="mt-16 relative">
+              <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+                <div className="w-[600px] h-[400px] bg-[#7B8794]/5 rounded-full blur-3xl" />
+              </div>
+              <div className="max-w-3xl mx-auto relative">
+                <MacBookFrame>
+                  <DashboardMockup />
+                </MacBookFrame>
+              </div>
             </div>
           </div>
         </div>
@@ -180,6 +187,50 @@ export default function Home() {
                 >
                   Explore Roles
                 </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* See It In Action — Mobile */}
+      <section className="py-24 bg-white/[0.02]">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div className="flex justify-center">
+              <div className="relative" style={{ transform: "rotate(-6deg)" }}>
+                <div className="absolute inset-0 flex items-center justify-center pointer-events-none -z-10">
+                  <div className="w-[300px] h-[400px] bg-[#9AAAB8]/5 rounded-full blur-3xl" />
+                </div>
+                <PhoneFrame>
+                  <MobileMockup />
+                </PhoneFrame>
+              </div>
+            </div>
+            <div>
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#7B8794]/10 text-[#9AAAB8] text-sm font-medium mb-4">
+                📱 Mobile-First
+              </div>
+              <h2 className="text-3xl md:text-4xl font-bold mb-4">
+                Your Agency<br />
+                <span className="gradient-text">In Your Pocket.</span>
+              </h2>
+              <p className="text-foreground-muted mb-6 leading-relaxed">
+                Monitor deals, manage players, and stay connected to your network — all from your phone.
+                The Inter Agentcy mobile experience is designed for agents who never stop moving.
+              </p>
+              <div className="space-y-3">
+                {[
+                  "Real-time deal notifications and updates",
+                  "Player portfolio at your fingertips",
+                  "Quick-access compliance checks",
+                  "Network messaging on the go",
+                ].map((item) => (
+                  <div key={item} className="flex items-start gap-3">
+                    <CheckCircle2 className="w-5 h-5 text-[#9AAAB8] mt-0.5 shrink-0" />
+                    <p className="text-sm text-foreground">{item}</p>
+                  </div>
+                ))}
               </div>
             </div>
           </div>
@@ -585,23 +636,13 @@ export default function Home() {
               </Link>
             </div>
 
-            <div className="space-y-4">
-              {[
-                { metric: "2,400+", label: "Verified agents in directory", icon: UserCheck },
-                { metric: "200+", label: "Countries covered", icon: Globe },
-                { metric: "100%", label: "FIFA FFAR 2023 compliant", icon: FileCheck },
-                { metric: "24/7", label: "Deal room & document access", icon: Briefcase },
-              ].map((stat) => (
-                <div key={stat.label} className="card rounded-2xl p-6 flex items-center gap-4">
-                  <div className="w-12 h-12 rounded-xl bg-[#7B8794]/10 flex items-center justify-center shrink-0">
-                    <stat.icon className="w-6 h-6 text-[#9AAAB8]" />
-                  </div>
-                  <div>
-                    <p className="text-2xl font-bold text-white">{stat.metric}</p>
-                    <p className="text-sm text-foreground-muted">{stat.label}</p>
-                  </div>
-                </div>
-              ))}
+            <div className="relative">
+              <div className="absolute inset-0 flex items-center justify-center pointer-events-none -z-10">
+                <div className="w-[500px] h-[350px] bg-[#7B8794]/5 rounded-full blur-3xl" />
+              </div>
+              <MacBookFrame>
+                <DashboardMockup />
+              </MacBookFrame>
             </div>
           </div>
         </div>
