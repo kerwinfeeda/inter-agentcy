@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Shield, Building2, Users, Globe, ArrowRight, ShieldCheck } from "lucide-react";
 import agencies from "@/data/agencies.json";
 import agents from "@/data/agents.json";
+import players from "@/data/players.json";
 import AgencyCard from "@/components/directory/AgencyCard";
 import VerifiedBadge from "@/components/directory/VerifiedBadge";
 
@@ -39,7 +40,7 @@ export default function DirectoryPage() {
           </p>
 
           {/* Stats */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 max-w-2xl mx-auto mb-12">
+          <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 max-w-3xl mx-auto mb-12">
             <div className="text-center">
               <div className="flex items-center justify-center gap-2 mb-1">
                 <Building2 className="w-5 h-5 text-accent-steel" />
@@ -53,6 +54,13 @@ export default function DirectoryPage() {
                 <span className="text-2xl font-bold text-white">{agents.length}</span>
               </div>
               <p className="text-xs text-foreground-dim">Verified Agents</p>
+            </div>
+            <div className="text-center">
+              <div className="flex items-center justify-center gap-2 mb-1">
+                <Users className="w-5 h-5 text-accent-steel" />
+                <span className="text-2xl font-bold text-white">{players.length}</span>
+              </div>
+              <p className="text-xs text-foreground-dim">Players</p>
             </div>
             <div className="text-center">
               <div className="flex items-center justify-center gap-2 mb-1">
@@ -83,6 +91,12 @@ export default function DirectoryPage() {
               className="px-6 py-3 rounded-xl border border-border text-foreground hover:bg-background-card transition-colors font-medium flex items-center gap-2"
             >
               Browse Agents <ArrowRight className="w-4 h-4" />
+            </Link>
+            <Link
+              href="/directory/players"
+              className="px-6 py-3 rounded-xl border border-border text-foreground hover:bg-background-card transition-colors font-medium flex items-center gap-2"
+            >
+              Browse Players <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
         </div>
