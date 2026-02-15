@@ -78,8 +78,8 @@ function normalizeAgency(basic: Record<string, unknown>, enriched?: Record<strin
     Object.assign(agency, { ...parsed, ...Object.fromEntries(Object.entries(agency).filter(([, v]) => v !== undefined)) });
     // Only overwrite if not already set
     for (const [k, v] of Object.entries(parsed)) {
-      if (!(agency as Record<string, unknown>)[k]) {
-        (agency as Record<string, unknown>)[k] = v;
+      if (!(agency as unknown as Record<string, unknown>)[k]) {
+        (agency as unknown as Record<string, unknown>)[k] = v;
       }
     }
   }

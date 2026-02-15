@@ -1,0 +1,552 @@
+FARA0520 Stuart James Richardson Yes 14/05/2028
+FARA2211 Taylor Ricketts-Williams Yes 11/03/2028
+FARA2377 Anna-Maria Riemer No
+FARA1574 Martin Riha Yes 25/02/2028
+FARA0626 Baljit RIHAL No
+FARA2836 Danny Ris No
+FARA0664 Giuseppe Antonio Riso No
+FARA0457 Gianluca Riu Yes 03/07/2027
+FARA0207 Umberto Riva No
+FARA0330 Adam Roberts Yes 26/06/2027
+FARA1774 Josephine Robertson Yes 07/01/2028
+FARA0029 Anton Dale Robinson Yes 20/07/2026
+FARA0789 Nick Robinson Yes 14/08/2026
+FARA2420 Darren Lee Robinson Yes 13/11/2028
+FARA2794 Harun Roble No
+FARA0637 Morgane Roche No
+FARA2621 Patrick Rode No
+FARA1940 Luke Rodgers Yes 05/08/2028
+FARA1993 Sheldon Rodrigues No
+FARA2797 Vitor Rodrigues Saba No
+FARA2841 Carlos Rodriguez No
+FARA1613 MARCELO RODRIGUEZ CARROZZI No
+FARA0398 Kyrre Rodsjosaeter No
+FARA1274 Theodorus Roebbers No
+FARA1459 Leonel Fortunato Roffe No
+FARA1874 Gary Rogers Yes 01/05/2028
+FARA1084 John Rogerson Yes 17/02/2028
+FARA1295 Luis Fernando Rojas Torres No
+FARA0338 Gianluca Romano No
+FARA1128 LUCA RONCHI No
+FARA2491 Laurien Ronchin No
+FARA0870 Simone Rondanini No
+FARA0955 nathan rooney No
+FARA1003 Luke William Rooney No
+FARA2728 Markus Rosenberg No
+FARA0278 Dean Rosenthal Yes 28/11/2028
+FARA1498 Horacio Pablo rossi No
+FARA2367 Alexander Roth No
+FARA1633 Zisis Roufos Yes 27/08/2027
+FARA2245 Benoit ROUGAGNOU No
+FARA2490 James Rowe Yes 13/11/2028
+FARA2182 SCOTT ROWE No
+FARA0679 Martin Charles Rowlands Yes 13/05/2028
+FARA2651 Olivia Rowles No
+FARA0729 Paul Rowley Yes 24/01/2027
+FARA0946 STEPHANE RUBEN No
+FARA0272 Nicholas Rubery Yes 17/04/2027
+FARA1345 Mohammed Ali Rubie Yes 07/02/2028
+FARA0304 Saif Rubie Yes 01/12/2028
+FARA0970 Francisco Javier Rubio Fernandez No
+FARA1011 Federico Ruffo No
+FARA1070 Ilan Ruimy No
+FARA0610 Carlos Ruiz Casillas No
+FARA1509 Henrik Runde No
+FARA2372 Bjorn Runstrom No
+FARA0864 Adrian Alberto Ruocco No
+FARA0717 Luca Russo Yes 31/07/2027
+FARA0103 Giuseppe Russo Yes 03/02/2028
+FARA2833 Jack Ryan No
+FARA0632 Ian Ryder Yes 02/05/2026
+FARA2153 Frederic Ryssen No
+FARA2371 Francois Saadi No
+FARA2020 Gilmore Saaiman No
+FARA1206 PABLO MARTIN SALOMON SABBAG No
+FARA1006 Jacques Sabiti No
+FARA2777 Yakhouba SACKO No
+FARA2333 Mohamed Lamine SADIO No
+FARA1095 Andreas Sadlo No
+FARA2061 Habib Saeed No
+FARA2319 cem sagar No
+FARA1821 Jean-Rony Sainssous No
+FARA1449 Oladele Salami Yes 31/10/2028
+FARA2285 JAMIU SALAU Yes 02/07/2028
+FARA2150 JEROME SALBERT Yes 25/02/2028
+FARA2460 Aamina Saleh No
+FARA1204 Mohammed Salem No
+FARA1329 Francesco Paolo Salerno No
+FARA0462 Mohsen Salimi Tari No
+FARA0967 Jeremy Salley No
+FARA0687 William Salthouse No
+FARA1133 Mark Salton No
+FARA2644 Alonso Sanchez No
+FARA1231 Salvador Sanchez Diaz No
+FARA1515 David Sanchez Gonzalez Yes 14/04/2026
+FARA2442 Ebbe Sand No
+FARA0791 Faruk Sandah Yes 17/04/2027
+FARA1087 Neil Sang Yes 13/12/2027
+FARA2605 Luigi Sangermano No
+FARA2581 Nicolas Sanjuan No
+FARA1380 BRUNO Santos Yes 23/12/2028
+FARA2196 Ulisses Santos No
+FARA2394 Tiago Santos No
+FARA1960 Al-Hafeez Sanusi Yes 16/07/2028
+FARA2516 Oladele Sanyaolu Yes 02/09/2028
+FARA2440 Adedeji Sanyaolu No
+FARA1094 Yalcin Sarica No
+FARA1313 bojan sarkic No
+FARA1035 Catalin Viorel Sarmasan No
+FARA1725 Tomas Sarmiento No
+FARA1595 BRUNO SATIN No
+FARA2330 Gregorio Satte Alam Klauck No
+FARA1775 Rodrigo Saubel Mardini Cantieri No
+FARA0622 GARETH SAUNDERS No
+FARA1825 Alexandra Saundry No
+FARA2008 Tristan Sauzon No
+FARA1784 Paul John Savage No
+FARA0131 Dimitri Savva Yes 02/05/2026
+FARA1933 Savvaki Andreas Savva Yes 16/12/2027
+FARA0827 Neil Saxton No
+FARA2520 Marcello Scanu No
+FARA0722 Matteo Scarpini Yes 22/10/2028
+FARA1883 Benjamin Scarr Yes 05/03/2028
+FARA2756 Gianraffaele Scervino No
+FARA1806 Frederik Christian Schaeffer No
+FARA2233 Michael Schimpelsberger No
+FARA0215 Jakub Schlage No
+FARA1564 Christian Schmid No
+FARA2110 Marcel Schmid No
+FARA2578 Gudrun Zoe Schmid No
+FARA2528 Marc-Patrick Schneider No
+FARA1653 Martin Tim Schoots No
+FARA0898 Sebastiaan Schothorst No
+FARA0067 Frank Schouten No
+FARA2759 Frank Schreier No
+FARA2022 Florian Schroeder No
+FARA0802 Claus Juergen Schwab No
+FARA1745 Jody Scowcroft No
+FARA1803 Fabrizio Scuderi No
+FARA2615 Fabio Miguel Sebastiao Pereira Micolo No
+FARA0749 Olumide Sebiotimo No
+FARA0065 Alessio Secco No
+FARA0036 Nana Sechere Yes 18/06/2027
+FARA0190 Alioune Seck No
+FARA1583 Faisal Saleem Secretary Yes 07/08/2027
+FARA1669 Gareth Jon Seddon Yes 23/10/2027
+FARA0417 Benedict Sefa-Ziorklui Yes 10/10/2028
+FARA0568 Jordan Segal Yes 19/09/2026
+FARA0935 Robert Segal Yes 12/01/2029
+FARA0892 Iliass Segame No
+FARA0180 Keisuke Sekine No
+FARA1622 Rita Sekkat No
+FARA1957 Adam Sells No
+FARA2387 Ismail Otthman Senaici No
+FARA2297 Garikayi Gilbert Sengwe No
+FARA0869 Raymond SENKOWSKI No
+FARA0149 Sergiy Serebrennikov No
+FARA0561 Amr Serrag Eldin No
+FARA0028 Jorge Serralheiro Pires No
+FARA1939 Bruno Serrano Serafim No
+FARA2827 Diego SERRATI SAMANIEGO No
+FARA2410 Thierno Gaye Seydi No
+FARA1290 George Seymour Yes 12/05/2028
+FARA1678 Vadym Shablii No
+FARA1796 Michael Shaiyen No
+FARA1930 Lerom Shalom No
+FARA1852 Mohamed Yama Sharifi No
+FARA0731 Tony Sharkey No
+FARA0816 David Sharpe Yes 11/03/2027
+FARA0861 Kenneth Shepherd No
+FARA1562 Misha Sher No
+FARA0821 William Sherling No
+FARA0508 James Sherry Yes 08/07/2027
+FARA0852 Akshay Shetty No
+FARA1969 Abdi Karim Shidane Yes 25/02/2028
+FARA1103 ROBERT SHIELD No
+FARA0674 Shaun Shields Yes 28/01/2029
+FARA2507 Jheanell Shirley No
+FARA1474 Daniel Olusola Shittu No
+FARA2464 Paul Shon No
+FARA2305 Jimmy Shungu mvula ngembe No
+FARA1311 Assaf Shvartz No
+FARA2426 HERMINA SIASSIA No
+FARA1169 eleftherios sidiropoulos No
+FARA0435 Manuel Ramon Sierra Camacho Yes 15/02/2026
+FARA1154 Liberty Sifuya No
+FARA1864 Gylfi Sigurdsson No
+FARA0811 Ricardo Siljeur Yes 25/09/2027
+FARA0367 Barry Silkman No
+FARA0735 DOKPORO JEAN EMMANUEL SILUE No
+FARA0427 Luis Silva No
+FARA2800 Diogo Silva de Lima No
+FARA1886 Maria Odete Silva Freire Oliveira Yes 14/10/2028
+FARA2214 Luis Miguel Silva Povoa Alves Yes 23/12/2028
+FARA1247 JOSE VICENTE SIMEON PERIS No
+FARA2064 Rasthoem Simons No
+FARA0841 Marjan Sisic No
+FARA1392 Moussa Sissoko No
+FARA2189 Adonis Ndaimana Sithole No
+FARA2117 John Sivebaek No
+FARA1317 Kelly Skeggs No
+FARA0651 James Skelland Yes 03/05/2027
+FARA1045 Matthias Smeets No
+FARA1338 Daniel Smejkal No
+FARA0915 Peter John Smith No
+FARA0087 Scott Smith No
+FARA0197 Ryan Craig Matthew Smith Yes 03/04/2027
+FARA0549 Grant Gordon Smith Yes 10/01/2028
+FARA1068 Phil Smith Yes 27/02/2028
+FARA0418 Chris Smith Yes 29/07/2028
+FARA2657 Anthony Smith Yes 09/12/2028
+FARA0266 Paul Smith Yes 23/12/2028
+FARA0027 Elliott Smith No
+FARA0224 Jon Smith No
+FARA1303 James Smith No
+FARA1337 Jason Smith No
+FARA2451 Michael Smith No
+FARA2823 Christopher Smith No
+FARA2840 Gareth Smith No
+FARA2235 Prince Nwachukwu Zenophas Smythe No
+FARA2771 Oswald Snip No
+FARA1607 Robert Snodgrass Yes 19/09/2027
+FARA0465 Francisco Soares No
+FARA0710 Mayara Cristina Soares dos Santos Yes 10/06/2028
+FARA0285 Thomas Soden Yes 17/05/2027
+FARA1981 Imran Soeleiman No
+FARA1496 Thierry William SOH No
+FARA1557 Jim Solbakken No
+FARA2719 Leon Somo Kessack No
+FARA0667 Jermaine Somuyiwa Yes 03/04/2027
+FARA1058 Lanre Sonde Yes 03/07/2027
+FARA2645 Lixin Song No
+FARA1740 Reza Soorani Yancheshmeh No
+FARA2676 MICHELE SORRISO No
+FARA1922 Thomas Sottie No
+FARA2202 mohamed ali soua No
+FARA1320 Sonia Souid No
+FARA1096 Cheick Oumar Tidiane Soumare Yes 11/10/2027
+FARA0599 Oumar Koliba Soumare No
+FARA0571 Slimane Soussi No
+FARA0849 Lara Southworth No
+FARA1677 Marcelo Souza No
+FARA2118 Abdoulaye SOW No
+FARA2405 Andre Luiz Soy Ribeiro No
+FARA1605 Lucy Spaans No
+FARA0920 Raymond Sparkes No
+FARA1259 Jake Carl Speight Yes 24/05/2026
+FARA1675 Henrique Andre Spetseri da Costa No
+FARA0085 Casper Gronn Spiele Yes 30/06/2026
+FARA2090 Carl Spiller No
+FARA2820 Lodovico Amerigo Spinosi No
+FARA2240 Jurgen Springer No
+FARA0691 Philip Sproson No
+FARA0772 Andrew Squires May No
+FARA0351 Simon Stainrod No
+FARA2290 Konstantinos Stalikas No
+FARA1765 PETER STANFORD Yes 11/03/2028
+FARA0947 Samuel Stapleton Yes 27/02/2026
+FARA1714 Benjamin Statham No
+FARA2586 Callum Steele No
+FARA0533 Kaloyan Stefanov No
+FARA1483 Alfonso STELLITTANO No
+FARA1941 Ovotu Frankie Stephen No
+FARA1717 Romain STEVENON No
+FARA0806 Maikel Stevens No
+FARA2722 Scott Stevenson No
+FARA2725 Iain Stevenson No
+FARA1563 Fabio Stevic No
+FARA0109 Murray Stewart Yes 18/08/2026
+FARA0800 Gordon Stipic-Wipfler No
+FARA2187 Zoran Stojadinovic No
+FARA0644 Jacob Stratton-Morris Yes 24/01/2027
+FARA1648 Holger Strecker No
+FARA0370 Paul Stretford Yes 03/06/2028
+FARA2514 Alexander Strohm No
+FARA0684 Dean Constantine Sturridge Yes 19/08/2028
+FARA1529 Jake Sugar Yes 23/07/2027
+FARA1293 Ryoma Sugawara No
+FARA1531 Sekou Omar Suma No
+FARA2776 Jeff Sundell No
+FARA2808 Raman Sunmonu No
+FARA1411 Zeljko Susa No
+FARA0914 Tobias Sutek No
+FARA0068 Renaldo Sutherland Yes 30/06/2026
+FARA0480 Frankie Jay Sutherland No
+FARA1777 Nikola Sutovic Yes 10/01/2028
+FARA2070 Joseph Sutton Yes 19/03/2028
+FARA0058 Thomas Swan Yes 29/10/2028
+FARA2546 Jack Patten Swan No
+FARA0672 Kevin Sy No
+FARA2469 Anahita Syed No
+FARA1382 vakantie sylla Yes 29/10/2027
+FARA2011 Holly Symonds No
+FARA1500 Rafal Szczypczyk No
+FARA2660 Christian Tadembo Pama No
+FARA0476 Aymen Tahar Yes 11/04/2026
+FARA2697 Ahmed Tahar No
+FARA2095 Gilles Cannavaro TAKAMTE PANGU No
+FARA1909 Taraneh Talai Yes 25/06/2028
+FARA2057 Jacque Talbot No
+FARA1144 Tanal Taleb Yes 16/07/2027
+FARA2701 Mauro Talma No
+FARA0216 Nobuaki Tanabe No
+FARA1441 Morten Tandberg No
+FARA0082 Latchezar Tanev No
+FARA0262 Georgi Tanev No
+FARA2115 Tsvetan Tanev No
+FARA1448 Jihed Taniche No
+FARA2742 Huseyin Firat Tapan No
+FARA2075 John Tarazi Yes 03/02/2028
+FARA2610 Ibrahim Tasci No
+FARA2747 Laurent TASOCAK No
+FARA2792 Diego Tavano No
+FARA0423 Vitale Taverna Yes 22/01/2027
+FARA1804 Andrea Tavian No
+FARA1076 Stephen Tawiah Yes 13/08/2027
+FARA2151 Ryan Taylor Yes 14/02/2028
+FARA0655 Mark Taylor No
+FARA1478 Hamza Tazi No
+FARA1182 YVES GASTON TCHAMADEU Yes 26/06/2027
+FARA1200 Gennaro Giulio Tedeschi No
+FARA1426 Zakarius Teichman No
+FARA0154 Francisco Terreros No
+FARA2055 Ezekiel Kevin Teya Yes 16/01/2028
+FARA0592 Benjamin David Thatcher Yes 17/04/2027
+FARA2321 Pape Ngor THIARE Yes 06/06/2028
+FARA2370 Gunter Thiebaut No
+FARA0779 Carl Thomas Yes 27/04/2026
+FARA0498 Barry Thomas Yes 20/06/2027
+FARA0265 Rhydian Thomas Yes 28/08/2027
+FARA2148 Caelan Thomas Yes 11/08/2028
+FARA2737 Lee Thomas No
+FARA0450 Adam Thompson Yes 28/02/2027
+FARA2069 Andrew Thompson No
+FARA0959 David Thomson Yes 14/11/2027
+FARA0164 William Thornton Yes 29/04/2028
+FARA1027 Daniel Thorogood Yes 16/08/2027
+FARA0283 Alexander Thorpe No
+FARA0700 Jonas Abdelhay Zefrati Thorstensen No
+FARA0439 David Threlfall Yes 14/06/2027
+FARA1304 Robert Richard Threlfall Yes 01/07/2027
+FARA1810 Marco Vittorio Tieghi No
+FARA2044 Edward Tillbrook Yes 02/01/2028
+FARA1340 Christian Timm No
+FARA1224 Iris Adeyemi Todjinou Yes 01/11/2027
+FARA0792 Costas Toffis No
+FARA0923 Freddy Alberic Tohouri No
+FARA1576 Alberto Toldra Arias No
+FARA0247 Guy Tolmarsh Yes 31/07/2027
+FARA2406 manuel jose da silva Tomas No
+FARA0846 Gudlaugur Thor Tomasson No
+FARA1302 Joanna Tongue Yes 16/07/2027
+FARA2135 Paulo Fernando Tonietto Yes 05/03/2028
+FARA1208 Edson Luiz Toninello Junior No
+FARA2409 Hristo Topalov No
+FARA0335 Alvaro Torres Calderon No
+FARA1816 Fouad Toubal No
+FARA1422 Nektarios Toumazos Yes 23/12/2027
+FARA0513 Richard Tounsi Fotso No
+FARA1625 Paschalis Tountouris No
+FARA1105 AMARA TOURE No
+FARA1115 David Traore Yes 05/11/2028
+FARA0556 Aboubakar Traore No
+FARA0218 Berno Trapani No
+FARA2037 Victor Adrian Trejo Hurtado No
+FARA1263 Jac Trenchard Yes 30/12/2027
+FARA0708 Radoslava Trifonova Yes 05/03/2028
+FARA2647 Moises Trillo Lopez No
+FARA0324 Frank Trimboli Yes 31/05/2027
+FARA2380 Pierpaolo Sebastiano Triulzi No
+FARA2653 Lucas Trivelli No
+FARA1672 Darren Trotman Yes 12/05/2028
+FARA1853 Salvatore Trunfio No
+FARA1977 Marios Tsampalas Yes 18/02/2028
+FARA2307 Lindela Tshuma No
+FARA2065 Shogo Tsunoda No
+FARA0092 James Mark Tunnicliffe Yes 02/05/2026
+FARA0850 Eugene Turay No
+FARA2171 Mustapha Turay No
+FARA0169 Isaac Tutumlu Lopez No
+FARA2628 Benjamin Twelves No
+FARA0243 Glen Tweneboah No
+FARA1152 Richard Twine No
+FARA1165 GIANCARLO UDA GONZALEZ No
+FARA0406 Rashid Uddin No
+FARA0752 Avelon Uduku Yes 28/03/2028
+FARA1994 INWE EFEMENA UNUFE No
+FARA0615 Daniel Upton Yes 30/11/2026
+FARA0195 Alexandre Uram No
+FARA0297 Eduardo Uram No
+FARA2667 Diego Uribe No
+FARA2798 Thibaut Urien No
+FARA2562 Michel Urscheler No
+FARA0495 Shree Usher Yes 28/01/2029
+FARA0985 Prosper uwizeye No
+FARA0363 Nico Vaesen No
+FARA1507 JUNIOR PIEGADEU VAKOUM No
+FARA1997 Lucas Valente No
+FARA1083 Federico Valentino No
+FARA1582 Armando Vallejo No
+FARA0467 Nikolaus Vallone No
+FARA2685 Nerijus Valskis No
+FARA1018 Jan van Baal No
+FARA2213 Dirk van Burik No
+FARA0562 Esmee van der Stap No
+FARA0221 Patrick Van Diemen No
+FARA0179 Thijs Van Gent No
+FARA0546 Hendrik Van Ginkel No
+FARA2565 Nathan van Kooperen No
+FARA2523 Patrice van Oostaijen No
+FARA2700 Martin Van Ophuizen No
+FARA2322 Lienke van Santvoort No
+FARA0926 Eliot van Til Yes 27/03/2026
+FARA0006 Kristof Joseph Elly Vandersmissen Yes 20/01/2028
+FARA1710 Cedric Vanrenterghem No
+FARA0241 Imre Varadi No
+FARA0225 Carolina Varela No
+FARA1600 Vadim Vasilyev No
+FARA2537 James Vaughan Yes 09/09/2028
+FARA1973 Nicholas Vaz Gabriel No
+FARA2188 Marcel Veerman No
+FARA1506 Nelson Veiga No
+FARA2141 Lourenco Veiga No
+FARA1394 Gilmar Veloz Filho No
+FARA1443 Thomas Venner Yes 28/08/2027
+FARA2051 Francois Verbeeren No
+FARA2518 ILGAR VERDIKHANOV No
+FARA0123 Angela Verdoes No
+FARA1702 Axel Vergeylen No
+FARA0593 Antony Verinder Yes 13/05/2028
+FARA0391 Paulo Verissimo No
+FARA0589 paolo vernazza Yes 21/02/2026
+FARA2358 Peter Verplancke No
+FARA2067 Thomas Verstraete No
+FARA1276 Javan Vidal Yes 18/06/2028
+FARA2796 Luis Vieira No
+FARA1905 Adriano Vieira Tavares No
+FARA2662 Sven Vierbuchen No
+FARA0634 Claudio Vigorelli No
+FARA1791 Rohan Vij No
+FARA2054 Frederico Jorge Vilela Araujo Pires Cruz No
+FARA2178 Nestor Osvaldo Villar No
+FARA1844 LUIS FELIPE VILLAR DE PABLO Yes 03/02/2028
+FARA0059 Francisco Javier Villaverde Camoiras No
+FARA2762 Dmitry Vinokurov No
+FARA2382 John Viola No
+FARA1561 Harsimran Singh Virdee No
+FARA2690 Salvatore Vito III No
+FARA1093 Niklas Vogeler No
+FARA1857 Mark Volders No
+FARA1747 Fritz Voltmer No
+FARA2484 Rene vom Bruch No
+FARA1560 Jorg Von Appen No
+FARA0210 Cornelis Vos Yes 14/05/2027
+FARA0358 Tim Vrouwe No
+FARA1734 Dejan Vukadinovic No
+FARA0202 Jelena Vukmirica No
+FARA1100 Saad Wadia No
+FARA0220 Gregory Wadsworth Yes 21/05/2027
+FARA0617 Spencer Wadsworth No
+FARA0979 John Wake No
+FARA0378 Martin Thomas Waldron Yes 30/12/2027
+FARA2643 Harvey Walker Yes 19/11/2028
+FARA0712 Darren Walker No
+FARA1779 Stanley Walsh Yes 21/01/2028
+FARA0119 Daniel Walters Yes 01/02/2027
+FARA1205 Raphael Walters Yes 03/06/2028
+FARA0325 Eric Walters Yes 07/01/2029
+FARA1461 Sam Walton No
+FARA2584 Philip Walton No
+FARA0826 Oliver Ward No
+FARA2276 David Wark No
+FARA0326 Matt Warner Yes 04/12/2027
+FARA0099 James Warnock Yes 03/06/2028
+FARA0575 Ayrton Elijah Wassall Yes 05/06/2026
+FARA1838 Ethan Wassall Yes 16/04/2028
+FARA2286 Matt Wasserberg Yes 06/06/2028
+FARA0138 Craig Watson Yes 13/09/2027
+FARA2040 Tony Watson Yes 05/03/2028
+FARA2780 Thomas Watts No
+FARA1108 David Charles Webb No
+FARA0853 Danny Webber Yes 28/01/2029
+FARA1685 Wessel Weezenberg No
+FARA0252 Wayne Welbeck Yes 07/03/2026
+FARA0145 Chris Welbeck No
+FARA0971 James Welch Yes 28/08/2027
+FARA0528 Frank Welfringer No
+FARA0012 Helmuth Wennin No
+FARA0411 Kristofer Wennin No
+FARA0995 Hanna Grete Wenzl No
+FARA2553 Jens Wenzl No
+FARA2356 Tim Werner No
+FARA1532 Fabian Wetter No
+FARA0219 Barry Whelan Yes 23/11/2026
+FARA0020 Stephen Whelan Yes 26/08/2028
+FARA1428 Nicholas Whittle Yes 26/06/2027
+FARA1282 Sten Wieggers No
+FARA0401 Aaron Thomas Wilbraham Yes 14/01/2028
+FARA0688 Daniel Josef Williams Yes 02/10/2026
+FARA1102 Martin Williams Yes 25/03/2027
+FARA0292 Rhys Williams Yes 17/04/2027
+FARA0368 Gary Williams Yes 31/05/2027
+FARA0420 Ricardo Williams Yes 24/07/2027
+FARA1911 Omari Williams Yes 18/02/2028
+FARA1920 Ben Williams Yes 11/03/2028
+FARA1870 Remmie Williams Yes 29/04/2028
+FARA0904 Patrick Williams No
+FARA2501 Hugh Williams No
+FARA1556 Matthew Willock No
+FARA0581 Jack Wilson Yes 21/02/2027
+FARA1755 Daniel Wilson Yes 28/11/2028
+FARA0579 Victor Wilson No
+FARA0720 Marc Wilson No
+FARA2130 Leon Wilson No
+FARA1950 Jayke Winchester Yes 28/01/2028
+FARA0234 Samuel Winstanley Yes 19/03/2027
+FARA1114 Thorsten Wirth No
+FARA0143 Steven Wisdom Yes 09/02/2027
+FARA1415 Henry Dennis Paul Wise Yes 06/10/2028
+FARA0222 Jordan Wise No
+FARA0246 Pim Withaar No
+FARA0569 Gerard Witters No
+FARA0666 Morten Wivestad No
+FARA1849 Nadine Wolters No
+FARA0509 Daniel Wood Yes 21/05/2027
+FARA0250 Steve Wood Yes 11/07/2028
+FARA0381 Thomas Wood Yes 01/12/2028
+FARA0929 Robert Woods Yes 21/01/2028
+FARA2825 Kyle Woolrich No
+FARA0172 Darren Wrack Yes 19/03/2027
+FARA2680 Lihleli Xotyeni No
+FARA1671 Yusuke Yanagida Yes 11/10/2027
+FARA2279 Jung Kyu Yang No
+FARA2626 Djamel Yassaad No
+FARA1730 Iddi Yassin Yes 02/01/2028
+FARA0972 Onur Yelken Yes 17/05/2027
+FARA0843 Eren YILDIRIM No
+FARA2432 DROH YODE No
+FARA2191 HEECHON YOO No
+FARA0572 Lyle Yorks III No
+FARA2525 Timothy Youdeowei No
+FARA2038 ABDOU YOUNES No
+FARA1430 Alexi Yovanoff Yes 21/10/2027
+FARA0529 Pouliquen Yvon No
+FARA0175 Cristian Zaccardo Yes 03/05/2027
+FARA1175 PINHAS ZAHAVI No
+FARA1191 aziz zakani No
+FARA2450 Guillermo Jesus Zamarripa Santiago No
+FARA0881 Gerasimos Zapatinas No
+FARA2083 Sidi Mohamed Zemmour No
+FARA2314 Bowen Zhan No
+FARA1043 Maxim Zhur Yes 01/03/2027
+FARA2669 MAHDI Zidouhia No
+FARA2439 Holger Zimmer No
+FARA0022 Pawel Zimonczyk No
+FARA2786 Luiz Roberto Zini Junior No
+FARA1156 Tarik Zitouni No
+FARA1847 Abderrahmane Zitouni No
+FARA1955 Abdou Rasmane Zongo No
+FARA2712 Mhlonishwa Zulu No
+FARA1865 Hugo Zuniga Yes 08/01/2028
+FARA1617 Sasa Zupan No
+FARA0665 Ondrej Zvara No

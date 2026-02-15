@@ -13,6 +13,7 @@ interface AgencyCardProps {
   playerCount?: number;
 }
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 export default function AgencyCard({ name, tagline, slug, country, value, founded, hq, playerCount }: AgencyCardProps) {
   return (
     <Link

@@ -23,7 +23,7 @@ export default function AgenciesPage() {
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
-    let list = agencies.filter(
+    const list = agencies.filter(
       (a) =>
         a.name.toLowerCase().includes(q) ||
         a.country.toLowerCase().includes(q) ||

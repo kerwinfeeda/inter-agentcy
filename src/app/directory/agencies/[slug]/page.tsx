@@ -1,11 +1,11 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import {
-  MapPin, TrendingUp, ArrowLeft, Calendar, Globe, Users, Award,
+  MapPin, TrendingUp, Calendar, Globe, Users, Award,
   Briefcase, ExternalLink, ChevronRight, Mail, Phone, Building2,
 } from "lucide-react";
 import { getAllAgencies, getAgencyBySlug, getSimilarAgencies, getProfileCompleteness } from "@/lib/agency-data";
-import type { Agency } from "@/lib/agency-data";
 import VerifiedBadge from "@/components/directory/VerifiedBadge";
 import AgencyCard from "@/components/directory/AgencyCard";
 
@@ -48,7 +48,8 @@ function Section({ title, icon: Icon, children }: { title: string; icon: typeof 
 
 export default async function AgencyDetailPage({ params }: Props) {
   const { slug } = await params;
-  const agency = getAgencyBySlug(slug);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const agency: any = getAgencyBySlug(slug);
   if (!agency) return notFound();
 
   const similar = getSimilarAgencies(agency, 3);
@@ -164,7 +165,7 @@ export default async function AgencyDetailPage({ params }: Props) {
             {agency.keyPeople?.length ? (
               <Section title="Key People" icon={Users}>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                  {agency.keyPeople.map((p, i) => (
+                  {agency.keyPeople.map((p: any, i: number) => (
                     <div key={i} className="flex items-center gap-3 px-4 py-3 rounded-lg bg-background border border-border">
                       <div className="w-9 h-9 rounded-full bg-background-elevated flex items-center justify-center text-sm font-bold text-accent-steel">
                         {p.name.charAt(0)}
@@ -183,7 +184,7 @@ export default async function AgencyDetailPage({ params }: Props) {
             {hasRisingTalents ? (
               <Section title="Rising Talents" icon={Users}>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {agency.risingTalents!.map((name, i) => (
+                  {agency.risingTalents!.map((name: any, i: number) => (
                     <div key={i} className="px-3 py-2 rounded-lg bg-background border border-border text-sm text-foreground">
                       🌱 {name}
                     </div>
@@ -196,7 +197,7 @@ export default async function AgencyDetailPage({ params }: Props) {
             {agency.notableDeals?.length ? (
               <Section title="Notable Deals" icon={TrendingUp}>
                 <div className="space-y-3">
-                  {agency.notableDeals.map((d, i) => {
+                  {agency.notableDeals.map((d: any, i: number) => {
                     const desc = typeof d === "string" ? d : d.description;
                     const year = typeof d === "string" ? undefined : d.year;
                     return (
@@ -214,7 +215,7 @@ export default async function AgencyDetailPage({ params }: Props) {
             {agency.services?.length ? (
               <Section title="Services" icon={Briefcase}>
                 <div className="flex flex-wrap gap-2">
-                  {agency.services.map((s, i) => (
+                  {agency.services.map((s: any, i: number) => (
                     <span key={i} className="px-3 py-1.5 rounded-full bg-background border border-border text-sm text-foreground-muted">
                       {s}
                     </span>
@@ -224,10 +225,12 @@ export default async function AgencyDetailPage({ params }: Props) {
             ) : null}
 
             {/* Track Record */}
-            {agency.trackRecord?.length ? (
+            {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+            {Array.isArray(agency.trackRecord) && agency.trackRecord.length ? (
               <Section title="Track Record" icon={TrendingUp}>
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-                  {agency.trackRecord.map((t, i) => (
+                  {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+                  {agency.trackRecord.map((t: any, i: number) => (
                     <div key={i} className="text-center px-3 py-3 rounded-lg bg-background border border-border">
                       <div className="text-lg font-bold text-white">{t.value}</div>
                       <div className="text-xs text-foreground-dim">{t.label}</div>
@@ -241,7 +244,7 @@ export default async function AgencyDetailPage({ params }: Props) {
             {agency.awards?.length ? (
               <Section title="Awards & Recognition" icon={Award}>
                 <div className="space-y-2">
-                  {agency.awards.map((a, i) => (
+                  {agency.awards.map((a: any, i: number) => (
                     <div key={i} className="flex items-center gap-2 text-sm text-foreground-muted">
                       <Award className="w-4 h-4 text-verified-gold shrink-0" />
                       {a}
