@@ -20,9 +20,15 @@ const agents = [
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
 export default function MobileMockup() {
+  const [mounted, setMounted] = useState(false);
   const [scrollY, setScrollY] = useState(0);
 
   useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  useEffect(() => {
+    if (!mounted) return;
     const interval = setInterval(() => {
       setScrollY((prev) => {
         if (prev >= 180) return 0;
@@ -30,7 +36,7 @@ export default function MobileMockup() {
       });
     }, 50);
     return () => clearInterval(interval);
-  }, []);
+  }, [mounted]);
 
   // Group agents by first letter
   const grouped: Record<string, typeof agents> = {};

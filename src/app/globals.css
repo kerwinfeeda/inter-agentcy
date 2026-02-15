@@ -117,16 +117,18 @@
   50% { transform: translateY(-6px); }
 }
 
-.animate-float {
-  animation: float 6s ease-in-out infinite;
-}
+@layer utilities {
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
 
-.animate-float-slow {
-  animation: float-slow 8s ease-in-out infinite;
-}
+  .animate-float-slow {
+    animation: float-slow 8s ease-in-out infinite;
+  }
 
-.device-glow {
-  box-shadow: 0 0 80px 20px rgba(154, 170, 184, 0.08), 0 0 160px 60px rgba(123, 135, 148, 0.04);
+  .device-glow {
+    box-shadow: 0 0 80px 20px rgba(154, 170, 184, 0.08), 0 0 160px 60px rgba(123, 135, 148, 0.04);
+  }
 }
 
 html {

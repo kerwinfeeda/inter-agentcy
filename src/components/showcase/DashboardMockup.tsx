@@ -279,27 +279,34 @@ function DealsView({ animStep }: { animStep: number }) {
 const views = ["Dashboard", "Players", "Deals"];
 
 export default function DashboardMockup() {
+  const [mounted, setMounted] = useState(false);
   const [activeView, setActiveView] = useState(0);
   const [animStep, setAnimStep] = useState(0);
 
+  // Ensure client-side mounting
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
   // Cycle views
   useEffect(() => {
+    if (!mounted) return;
     const viewInterval = setInterval(() => {
       setActiveView((prev) => (prev + 1) % views.length);
-      setAnimStep(0);
     }, 6000);
     return () => clearInterval(viewInterval);
-  }, []);
+  }, [mounted]);
 
   // Stagger animations within each view
   useEffect(() => {
+    if (!mounted) return;
     setAnimStep(0);
-    const steps = [100, 200, 350, 500, 700, 900, 1100, 1300, 1500];
+    const steps = [100, 250, 400, 600, 800, 1000, 1200, 1400, 1600];
     const timers = steps.map((ms, i) =>
       setTimeout(() => setAnimStep(i + 1), ms)
     );
     return () => timers.forEach(clearTimeout);
-  }, [activeView]);
+  }, [activeView, mounted]);
 
   return (
     <div className="flex h-full w-full bg-[#0b0b0d] text-white text-[10px]">

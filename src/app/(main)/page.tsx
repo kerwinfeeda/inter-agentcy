@@ -15,13 +15,13 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="relative min-h-[90vh] flex items-center overflow-hidden">
+      <section className="relative min-h-[90vh] flex items-center overflow-hidden -mt-14 pt-14">
         <div className="absolute inset-0 bg-gradient-to-b from-[#7B8794]/5 via-transparent to-transparent" />
         <div className="absolute top-1/4 -right-40 w-96 h-96 bg-[#7B8794]/5 rounded-full blur-3xl" />
         <div className="absolute bottom-1/4 -left-40 w-96 h-96 bg-[#9AAAB8]/3 rounded-full blur-3xl" />
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-          <div className="max-w-4xl">
+          <div className="text-center">
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full card text-sm text-foreground-muted mb-8">
               <Globe className="w-4 h-4 text-[#9AAAB8]" />
               The Global Football Intermediary Ecosystem
@@ -30,14 +30,14 @@ export default function Home() {
               The Representation Network{" "}
               <span className="gradient-text">Of The Future</span>
             </h1>
-            <p className="text-lg md:text-xl text-foreground-muted leading-relaxed mb-4 max-w-2xl">
+            <p className="text-lg md:text-xl text-foreground-muted leading-relaxed mb-4 max-w-2xl mx-auto">
               A global, tech-powered platform uniting licensed agents, scouts, reps, and introducers.
               FIFA-compliant. Fully connected. Built for the modern game.
             </p>
             <p className="text-lg md:text-xl text-white font-medium mb-10">
               Discover. Represent. Close. <span className="gradient-text">Together.</span>
             </p>
-            <div className="flex flex-col sm:flex-row gap-4">
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
                 href="/join"
                 className="px-8 py-4 gradient-steel-btn text-white font-semibold rounded-xl transition-all flex items-center justify-center gap-2"
@@ -64,12 +64,15 @@ export default function Home() {
                 </MacBookFrame>
               </div>
             </div>
+
+            {/* Stats under laptop */}
+            <div className="mt-12">
+              <StatsCounter />
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Stats */}
-      <StatsCounter />
 
       {/* Two Cohorts Section */}
       <section className="py-24">
