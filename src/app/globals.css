@@ -38,6 +38,67 @@
   }
 }
 
+/* Docs prose styling */
+.docs-prose h1 {
+  @apply text-3xl sm:text-4xl font-bold text-white mb-2 tracking-tight;
+}
+.docs-prose h2 {
+  @apply text-xl sm:text-2xl font-semibold text-white mt-12 mb-4 tracking-tight;
+  scroll-margin-top: 80px;
+}
+.docs-prose h3 {
+  @apply text-lg font-semibold text-foreground mt-8 mb-3;
+  scroll-margin-top: 80px;
+}
+.docs-prose p {
+  @apply text-[15px] text-foreground-muted leading-relaxed mb-4;
+}
+.docs-prose .subtitle {
+  @apply text-lg text-foreground-muted mb-8 leading-relaxed;
+}
+.docs-prose ul {
+  @apply list-disc pl-6 mb-4 space-y-1.5;
+}
+.docs-prose ul li {
+  @apply text-[15px] text-foreground-muted leading-relaxed;
+}
+.docs-prose ol {
+  @apply list-decimal pl-6 mb-4 space-y-1.5;
+}
+.docs-prose ol li {
+  @apply text-[15px] text-foreground-muted leading-relaxed;
+}
+.docs-prose strong {
+  @apply text-foreground font-semibold;
+}
+.docs-prose table {
+  @apply w-full text-sm mb-6 border-collapse;
+}
+.docs-prose thead th {
+  @apply text-left text-xs uppercase tracking-wider text-foreground-dim font-semibold px-4 py-3 border-b border-border bg-background-card;
+}
+.docs-prose tbody td {
+  @apply px-4 py-3 text-foreground-muted border-b border-border;
+}
+.docs-prose tbody tr:hover {
+  @apply bg-white/[0.02];
+}
+.docs-prose code {
+  @apply text-sm bg-background-card px-1.5 py-0.5 rounded text-accent-light;
+}
+.docs-prose pre {
+  @apply bg-background-card border border-border rounded-lg p-4 mb-6 overflow-x-auto;
+}
+.docs-prose pre code {
+  @apply bg-transparent p-0;
+}
+.docs-prose blockquote {
+  @apply border-l-2 border-accent pl-4 my-4 italic text-foreground-dim;
+}
+.docs-prose hr {
+  @apply border-border my-8;
+}
+
 html {
   scroll-behavior: smooth;
 }

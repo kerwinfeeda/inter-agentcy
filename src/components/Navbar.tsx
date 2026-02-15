@@ -21,6 +21,7 @@ const navItems: NavItem[] = [
     ],
   },
   { href: "/academy", label: "Academy" },
+  { href: "/docs", label: "Docs" },
   { href: "/agents", label: "Pricing" },
   {
     label: "Join",
