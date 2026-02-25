@@ -5,6 +5,7 @@ import { Users, Shield, Baby } from "lucide-react";
 import agents from "@/data/agents.json";
 import AgentCard from "@/components/directory/AgentCard";
 import DirectorySearch from "@/components/directory/DirectorySearch";
+import SubmitCTA from "@/components/directory/SubmitCTA";
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 type Agent = (typeof agents)[number] & Record<string, any>;
@@ -171,7 +172,9 @@ export default function AgentsPage() {
           </div>
         )}
 
-        <div className="mt-12 card p-6 text-center">
+        <SubmitCTA type="agent" />
+
+        <div className="mt-8 card p-6 text-center">
           <p className="text-sm text-foreground-dim">
             Agent data sourced from The FA Registered Football Agents List and public records.
             Inter Agentcy verifies all listings.

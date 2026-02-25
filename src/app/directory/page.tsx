@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Shield, Building2, Users, Globe, ArrowRight, ShieldCheck } from "lucide-react";
+import { Shield, Building2, Users, Globe, ArrowRight, ShieldCheck, UserPlus } from "lucide-react";
 import agencies from "@/data/agencies.json";
 import agents from "@/data/agents.json";
 import players from "@/data/players.json";
@@ -144,6 +144,44 @@ export default function DirectoryPage() {
             {featured.map((agency) => (
               <AgencyCard key={agency.slug} {...agency} />
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Submit Profile CTA */}
+      <section className="pb-20 px-6">
+        <div className="max-w-4xl mx-auto">
+          <div className="card p-8 sm:p-12 text-center relative overflow-hidden">
+            <div className="absolute inset-0 bg-gradient-to-br from-accent-steel/10 via-transparent to-accent-light/5 pointer-events-none" />
+            <div className="relative">
+              <UserPlus className="w-10 h-10 text-accent-steel mx-auto mb-4" />
+              <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3">
+                Get Listed in the Directory
+              </h2>
+              <p className="text-foreground-muted max-w-xl mx-auto mb-8">
+                Whether you&apos;re a player, licensed agent, or agency — submit your profile to join
+                the most comprehensive football directory in the industry.
+              </p>
+              <div className="flex flex-wrap justify-center gap-4">
+                <Link
+                  href="/directory/submit"
+                  className="gradient-steel-btn px-8 py-3.5 rounded-xl text-white font-semibold flex items-center gap-2 transition-all text-lg"
+                >
+                  Submit Your Profile <ArrowRight className="w-5 h-5" />
+                </Link>
+              </div>
+              <div className="flex flex-wrap justify-center gap-6 mt-6 text-sm text-foreground-dim">
+                <span className="flex items-center gap-1.5">
+                  <Shield className="w-4 h-4 text-accent-steel" /> Players
+                </span>
+                <span className="flex items-center gap-1.5">
+                  <Users className="w-4 h-4 text-accent-steel" /> Agents
+                </span>
+                <span className="flex items-center gap-1.5">
+                  <Building2 className="w-4 h-4 text-accent-steel" /> Agencies
+                </span>
+              </div>
+            </div>
           </div>
         </div>
       </section>

@@ -5,6 +5,7 @@ import { Building2, ArrowUpDown } from "lucide-react";
 import agencies from "@/data/agencies.json";
 import AgencyCard from "@/components/directory/AgencyCard";
 import DirectorySearch from "@/components/directory/DirectorySearch";
+import SubmitCTA from "@/components/directory/SubmitCTA";
 
 function parseValue(v: string): number {
   if (!v) return 0;
@@ -81,6 +82,8 @@ export default function AgenciesPage() {
             No agencies found matching &quot;{search}&quot;
           </div>
         )}
+
+        <SubmitCTA type="agency" />
       </div>
     </main>
   );
