@@ -67,63 +67,150 @@ const roles = [
     role: "For Licensed Agents",
     icon: Briefcase,
     features: [
-      { name: "Agent CRM", desc: "Player pipeline, contract tracking, deal flow" },
-      { name: "Deal Room", desc: "Structured negotiations, document sharing, compliance" },
-      { name: "Compliance Dashboard", desc: "FIFA FFAR tracking, licence renewal, audit logs" },
-      { name: "Financial Suite", desc: "Commission tracking, invoicing, fee management" },
-      { name: "Network Hub", desc: "Connect with scouts, clubs, reps, other agents" },
+      {
+        name: "Agent CRM",
+        desc: "Player pipeline, contract tracking, deal flow",
+      },
+      {
+        name: "Deal Room",
+        desc: "Structured negotiations, document sharing, compliance",
+      },
+      {
+        name: "Compliance Dashboard",
+        desc: "FIFA FFAR tracking, licence renewal, audit logs",
+      },
+      {
+        name: "Financial Suite",
+        desc: "Commission tracking, invoicing, fee management",
+      },
+      {
+        name: "Network Hub",
+        desc: "Connect with scouts, clubs, reps, other agents",
+      },
     ],
   },
   {
     role: "For Scouts",
     icon: Search,
     features: [
-      { name: "Scouting Dashboard", desc: "Report builder, player tracking, video tagging" },
-      { name: "Talent Pipeline", desc: "From identification to recommendation to agent handoff" },
-      { name: "Match Analysis", desc: "Live scouting at matches with mobile tools" },
-      { name: "Earnings Tracker", desc: "Finder's fee tracking and commission attribution" },
-      { name: "Data Integrations", desc: "Wyscout, StatsBomb, performance analytics" },
+      {
+        name: "Scouting Dashboard",
+        desc: "Report builder, player tracking, video tagging",
+      },
+      {
+        name: "Talent Pipeline",
+        desc: "From identification to recommendation to agent handoff",
+      },
+      {
+        name: "Match Analysis",
+        desc: "Live scouting at matches with mobile tools",
+      },
+      {
+        name: "Earnings Tracker",
+        desc: "Finder's fee tracking and commission attribution",
+      },
+      {
+        name: "Data Integrations",
+        desc: "Wyscout, StatsBomb, performance analytics",
+      },
     ],
   },
   {
     role: "For Reps & Introducers",
     icon: Handshake,
     features: [
-      { name: "Client Management", desc: "Player branding, media, career planning" },
-      { name: "Referral Engine", desc: "Track introductions, earn commissions automatically" },
+      {
+        name: "Client Management",
+        desc: "Player branding, media, career planning",
+      },
+      {
+        name: "Referral Engine",
+        desc: "Track introductions, earn commissions automatically",
+      },
       { name: "Network Mapping", desc: "Visualise your connections and reach" },
-      { name: "Opportunity Feed", desc: "Deals seeking collaborators, clubs seeking talent" },
+      {
+        name: "Opportunity Feed",
+        desc: "Deals seeking collaborators, clubs seeking talent",
+      },
     ],
   },
   {
     role: "For Clubs",
     icon: Building2,
     features: [
-      { name: "Recruitment Dashboard", desc: "Inbound player submissions from verified agents" },
-      { name: "Agent Directory", desc: "Find verified agents for specific markets/positions" },
-      { name: "Transfer Hub", desc: "Manage all intermediary relationships in one place" },
-      { name: "Compliance Ledger", desc: "Full audit trail of agent interactions" },
+      {
+        name: "Recruitment Dashboard",
+        desc: "Inbound player submissions from verified agents",
+      },
+      {
+        name: "Agent Directory",
+        desc: "Find verified agents for specific markets/positions",
+      },
+      {
+        name: "Transfer Hub",
+        desc: "Manage all intermediary relationships in one place",
+      },
+      {
+        name: "Compliance Ledger",
+        desc: "Full audit trail of agent interactions",
+      },
     ],
   },
   {
     role: "For Players",
     icon: Users,
     features: [
-      { name: "Agent Finder", desc: "Search verified agents by specialisation and track record" },
-      { name: "Career Dashboard", desc: "Contracts, earnings, representation timeline" },
-      { name: "Market Value Tracker", desc: "Understand your value in the market" },
-      { name: "Transparency", desc: "See exactly what your agent earns and why" },
+      {
+        name: "Agent Finder",
+        desc: "Search verified agents by specialisation and track record",
+      },
+      {
+        name: "Career Dashboard",
+        desc: "Contracts, earnings, representation timeline",
+      },
+      {
+        name: "Market Value Tracker",
+        desc: "Understand your value in the market",
+      },
+      {
+        name: "Transparency",
+        desc: "See exactly what your agent earns and why",
+      },
     ],
   },
 ];
 
 const joseFeatures = [
-  { icon: Compass, title: "Scouting Copilot", desc: "\"Find me left-backs under 23 from West Africa with Ligue 1 experience\"" },
-  { icon: Scale, title: "Deal Analyst", desc: "Analyse offer terms, compare market rates, flag compliance issues" },
-  { icon: Shield, title: "Compliance Assistant", desc: "Auto-check FIFA FFAR rules, flag risks, prepare documentation" },
-  { icon: LineChart, title: "Market Intelligence", desc: "Transfer trends, fee benchmarks, window analysis" },
-  { icon: FileSearch, title: "Contract Reviewer", desc: "Parse and summarise contract terms, highlight key clauses" },
-  { icon: Route, title: "Network Navigator", desc: "Suggest connections, identify introduction paths, map relationships" },
+  {
+    icon: Compass,
+    title: "Scouting Copilot",
+    desc: '"Find me left-backs under 23 from West Africa with Ligue 1 experience"',
+  },
+  {
+    icon: Scale,
+    title: "Deal Analyst",
+    desc: "Analyse offer terms, compare market rates, flag compliance issues",
+  },
+  {
+    icon: Shield,
+    title: "Compliance Assistant",
+    desc: "Auto-check FIFA FFAR rules, flag risks, prepare documentation",
+  },
+  {
+    icon: LineChart,
+    title: "Market Intelligence",
+    desc: "Transfer trends, fee benchmarks, window analysis",
+  },
+  {
+    icon: FileSearch,
+    title: "Contract Reviewer",
+    desc: "Parse and summarise contract terms, highlight key clauses",
+  },
+  {
+    icon: Route,
+    title: "Network Navigator",
+    desc: "Suggest connections, identify introduction paths, map relationships",
+  },
 ];
 
 const stackItems = [
@@ -158,12 +245,24 @@ const mobileCapabilities = [
 ];
 
 const comparison = [
-  { without: "WhatsApp groups for deals", with: "Structured deal rooms with audit trails" },
-  { without: "Excel for player tracking", with: "AI-powered CRM with analytics" },
-  { without: "Manual compliance checks", with: "Automated FIFA FFAR monitoring" },
+  {
+    without: "WhatsApp groups for deals",
+    with: "Structured deal rooms with audit trails",
+  },
+  {
+    without: "Excel for player tracking",
+    with: "AI-powered CRM with analytics",
+  },
+  {
+    without: "Manual compliance checks",
+    with: "Automated FIFA FFAR monitoring",
+  },
   { without: "Fragmented contacts", with: "Unified stakeholder network" },
   { without: "No data insights", with: "Market intelligence + AI copilot" },
-  { without: "Phone calls and emails", with: "Integrated messaging + notifications" },
+  {
+    without: "Phone calls and emails",
+    with: "Integrated messaging + notifications",
+  },
 ];
 
 /* ─── Page ─── */
@@ -173,7 +272,6 @@ export default function InterOSPage() {
     <main className="min-h-screen">
       {/* ─── Hero ─── */}
       <section className="relative pt-32 pb-20 px-4 overflow-hidden">
-        <div className="absolute inset-0 gradient-steel opacity-10" />
         <div className="relative max-w-7xl mx-auto text-center">
           <h1 className="text-5xl sm:text-7xl font-bold tracking-tight">
             <span className="gradient-text">Inter OS</span>
@@ -187,7 +285,7 @@ export default function InterOSPage() {
           </p>
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
-              href="/join"
+              href="/register"
               className="px-8 py-3.5 gradient-steel-btn text-white font-semibold rounded-lg text-lg transition-all"
             >
               Get Early Access
@@ -231,7 +329,9 @@ export default function InterOSPage() {
                 <div className="w-14 h-14 mx-auto rounded-xl gradient-steel flex items-center justify-center mb-6">
                   <p.icon className="w-7 h-7 text-white" />
                 </div>
-                <h3 className="text-xl font-semibold text-white mb-3">{p.title}</h3>
+                <h3 className="text-xl font-semibold text-white mb-3">
+                  {p.title}
+                </h3>
                 <p className="text-[#7B8794] leading-relaxed">{p.desc}</p>
               </div>
             ))}
@@ -252,7 +352,9 @@ export default function InterOSPage() {
                   <div className="w-12 h-12 rounded-xl gradient-steel flex items-center justify-center">
                     <r.icon className="w-6 h-6 text-white" />
                   </div>
-                  <h3 className="text-2xl font-semibold text-white">{r.role}</h3>
+                  <h3 className="text-2xl font-semibold text-white">
+                    {r.role}
+                  </h3>
                 </div>
                 <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
                   {r.features.map((f) => (
@@ -289,8 +391,12 @@ export default function InterOSPage() {
                 <div className="w-10 h-10 rounded-lg gradient-steel flex items-center justify-center mb-4">
                   <f.icon className="w-5 h-5 text-white" />
                 </div>
-                <h3 className="text-lg font-semibold text-white mb-2">{f.title}</h3>
-                <p className="text-sm text-[#7B8794] leading-relaxed">{f.desc}</p>
+                <h3 className="text-lg font-semibold text-white mb-2">
+                  {f.title}
+                </h3>
+                <p className="text-sm text-[#7B8794] leading-relaxed">
+                  {f.desc}
+                </p>
               </div>
             ))}
           </div>
@@ -314,7 +420,9 @@ export default function InterOSPage() {
                 className="card card-hover p-5 flex flex-col items-center gap-3"
               >
                 <s.icon className="w-6 h-6 text-[#9AAAB8]" />
-                <span className="text-sm font-medium text-[#C0C7CE]">{s.label}</span>
+                <span className="text-sm font-medium text-[#C0C7CE]">
+                  {s.label}
+                </span>
               </div>
             ))}
           </div>
@@ -383,7 +491,7 @@ export default function InterOSPage() {
           </h2>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-10">
             <Link
-              href="/join"
+              href="/register"
               className="px-8 py-3.5 gradient-steel-btn text-white font-semibold rounded-lg text-lg transition-all inline-flex items-center gap-2"
             >
               Join the Network <ArrowRight className="w-5 h-5" />

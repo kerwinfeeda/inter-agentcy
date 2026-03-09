@@ -5,7 +5,6 @@ import { Users } from "lucide-react";
 import players from "@/data/players.json";
 import PlayerCard from "@/components/directory/PlayerCard";
 import DirectorySearch from "@/components/directory/DirectorySearch";
-import SubmitCTA from "@/components/directory/SubmitCTA";
 
 type Player = (typeof players)[number];
 type PositionFilter = "All" | "Forward" | "Midfielder" | "Defender" | "Goalkeeper";
@@ -166,9 +165,7 @@ export default function PlayersPage() {
           </div>
         )}
 
-        <SubmitCTA type="player" />
-
-        <div className="mt-8 card p-6 text-center">
+        <div className="mt-12 card p-6 text-center">
           <p className="text-sm text-foreground-dim">
             Player data sourced from public records and verified industry sources.
             Inter Agentcy verifies all listings.

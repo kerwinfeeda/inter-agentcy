@@ -1,8 +1,23 @@
 import Link from "next/link";
 import {
-  Shield, ArrowRight, Briefcase, Network, FileCheck, TrendingUp,
-  Search, Users, Link2, CheckCircle2, Globe, Handshake, Scale,
-  Building2, UserCheck, Verified, ArrowDownRight, Zap
+  Shield,
+  ArrowRight,
+  Briefcase,
+  Network,
+  FileCheck,
+  TrendingUp,
+  Search,
+  Users,
+  Link2,
+  CheckCircle2,
+  Globe,
+  Handshake,
+  Scale,
+  Building2,
+  UserCheck,
+  Verified,
+  ArrowDownRight,
+  Zap,
 } from "lucide-react";
 import StatsCounter from "@/components/StatsCounter";
 import FeatureCard from "@/components/FeatureCard";
@@ -14,10 +29,10 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="relative min-h-[90vh] flex items-center overflow-hidden -mt-14 pt-14">
-        <div className="absolute inset-0 bg-gradient-to-b from-[#7B8794]/5 via-transparent to-transparent" />
+      <section className="relative min-h-[90vh] flex items-center overflow-hidden pt-20">
+        {/* <div className="absolute inset-0 bg-gradient-to-b from-[#7B8794]/5 via-transparent to-transparent" />
         <div className="absolute top-1/4 -right-40 w-96 h-96 bg-[#7B8794]/5 rounded-full blur-3xl" />
-        <div className="absolute bottom-1/4 -left-40 w-96 h-96 bg-[#9AAAB8]/3 rounded-full blur-3xl" />
+        <div className="absolute bottom-1/4 -left-40 w-96 h-96 bg-[#9AAAB8]/3 rounded-full blur-3xl" /> */}
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center">
@@ -30,15 +45,17 @@ export default function Home() {
               <span className="gradient-text">Of The Future</span>
             </h1>
             <p className="text-lg md:text-xl text-foreground-muted leading-relaxed mb-4 max-w-2xl mx-auto">
-              A global, tech-powered platform uniting licensed agents, scouts, reps, and introducers.
-              FIFA-compliant. Fully connected. Built for the modern game.
+              A global, tech-powered platform uniting licensed agents, scouts,
+              reps, and introducers. FIFA-compliant. Fully connected. Built for
+              the modern game.
             </p>
             <p className="text-lg md:text-xl text-white font-medium mb-10">
-              Discover. Represent. Close. <span className="gradient-text">Together.</span>
+              Discover. Represent. Close.{" "}
+              <span className="gradient-text">Together.</span>
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
-                href="/join"
+                href="/register"
                 className="px-8 py-4 gradient-steel-btn text-white font-semibold rounded-xl transition-all flex items-center justify-center gap-2"
               >
                 Join the Network
@@ -72,7 +89,6 @@ export default function Home() {
         </div>
       </section>
 
-
       {/* Two Cohorts Section */}
       <section className="py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -81,8 +97,9 @@ export default function Home() {
               Two Sides of the <span className="gradient-text">Same Game</span>
             </h2>
             <p className="text-foreground-muted max-w-2xl mx-auto">
-              The football intermediary world has two distinct cohorts — and both need each other.
-              Inter Agentcy serves them separately and connects them together.
+              The football intermediary world has two distinct cohorts — and
+              both need each other. Inter Agentcy serves them separately and
+              connects them together.
             </p>
           </div>
 
@@ -98,24 +115,48 @@ export default function Home() {
                   <Shield className="w-7 h-7 text-white" />
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-white">Agents & Agencies</h3>
-                  <p className="text-[#C0C7CE] text-sm font-medium">FIFA-Licensed · Regulated · Authorised</p>
+                  <h3 className="text-2xl font-bold text-white">
+                    Agents & Agencies
+                  </h3>
+                  <p className="text-[#C0C7CE] text-sm font-medium">
+                    FIFA-Licensed · Regulated · Authorised
+                  </p>
                 </div>
               </div>
 
               <p className="text-foreground-muted mb-6 leading-relaxed">
-                You hold the licence. You execute transfers, negotiate contracts, and represent players at the highest level.
-                Inter Agentcy gives you the infrastructure to do it better, faster, and at scale.
+                You hold the licence. You execute transfers, negotiate
+                contracts, and represent players at the highest level. Inter
+                Agentcy gives you the infrastructure to do it better, faster,
+                and at scale.
               </p>
 
               <div className="space-y-3 mb-8">
                 {[
-                  { icon: Briefcase, text: "Enterprise CRM — manage players, clubs, and deals in one place" },
-                  { icon: FileCheck, text: "Compliance suite — FIFA regulation checks, commission caps, audit trails" },
-                  { icon: Building2, text: "Agency management — multi-agent firms, team dashboards, deal rooms" },
-                  { icon: TrendingUp, text: "Scouting integrations — Wyscout, StatsBomb, player analytics" },
-                  { icon: Verified, text: "Verified directory listing — build trust and visibility globally" },
-                  { icon: Network, text: "Inbound deal flow — scouts, reps, and introducers bring you opportunities" },
+                  {
+                    icon: Briefcase,
+                    text: "Enterprise CRM — manage players, clubs, and deals in one place",
+                  },
+                  {
+                    icon: FileCheck,
+                    text: "Compliance suite — FIFA regulation checks, commission caps, audit trails",
+                  },
+                  {
+                    icon: Building2,
+                    text: "Agency management — multi-agent firms, team dashboards, deal rooms",
+                  },
+                  {
+                    icon: TrendingUp,
+                    text: "Scouting integrations — Wyscout, StatsBomb, player analytics",
+                  },
+                  {
+                    icon: Verified,
+                    text: "Verified directory listing — build trust and visibility globally",
+                  },
+                  {
+                    icon: Network,
+                    text: "Inbound deal flow — scouts, reps, and introducers bring you opportunities",
+                  },
                 ].map((item) => (
                   <div key={item.text} className="flex items-start gap-3">
                     <item.icon className="w-5 h-5 text-[#C0C7CE] mt-0.5 shrink-0" />
@@ -126,7 +167,7 @@ export default function Home() {
 
               <div className="flex flex-col sm:flex-row gap-3">
                 <Link
-                  href="/join?role=agent"
+                  href="/register"
                   className="px-6 py-3 gradient-steel-btn text-white font-semibold rounded-xl transition-all text-center text-sm"
                 >
                   Join as an Agent
@@ -151,24 +192,48 @@ export default function Home() {
                   <Users className="w-7 h-7 text-white" />
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-white">Scouts, Reps & Introducers</h3>
-                  <p className="text-[#9AAAB8] text-sm font-medium">No Licence Required · Training Provided</p>
+                  <h3 className="text-2xl font-bold text-white">
+                    Scouts, Reps & Introducers
+                  </h3>
+                  <p className="text-[#9AAAB8] text-sm font-medium">
+                    No Licence Required · Training Provided
+                  </p>
                 </div>
               </div>
 
               <p className="text-foreground-muted mb-6 leading-relaxed">
-                You don&apos;t need a licence to play a vital role in football. Scouts discover talent, representatives
-                manage careers, and introducers connect the right people. Inter Agentcy gives you the path in.
+                You don&apos;t need a licence to play a vital role in football.
+                Scouts discover talent, representatives manage careers, and
+                introducers connect the right people. Inter Agentcy gives you
+                the path in.
               </p>
 
               <div className="space-y-3 mb-8">
                 {[
-                  { icon: Search, text: "Scouts — find players, write reports, earn finder's fees" },
-                  { icon: Users, text: "Representatives — manage careers, build brands, handle off-pitch life" },
-                  { icon: Link2, text: "Introducers — connect players, clubs, and agents for referral commissions" },
-                  { icon: UserCheck, text: "Get matched with licensed agents who execute the deals you source" },
-                  { icon: Scale, text: "Work compliantly — all transactions route through licensed intermediaries" },
-                  { icon: Zap, text: "Earn from day one — transparent fee splits, tracked and paid automatically" },
+                  {
+                    icon: Search,
+                    text: "Scouts — find players, write reports, earn finder's fees",
+                  },
+                  {
+                    icon: Users,
+                    text: "Representatives — manage careers, build brands, handle off-pitch life",
+                  },
+                  {
+                    icon: Link2,
+                    text: "Introducers — connect players, clubs, and agents for referral commissions",
+                  },
+                  {
+                    icon: UserCheck,
+                    text: "Get matched with licensed agents who execute the deals you source",
+                  },
+                  {
+                    icon: Scale,
+                    text: "Work compliantly — all transactions route through licensed intermediaries",
+                  },
+                  {
+                    icon: Zap,
+                    text: "Earn from day one — transparent fee splits, tracked and paid automatically",
+                  },
                 ].map((item) => (
                   <div key={item.text} className="flex items-start gap-3">
                     <item.icon className="w-5 h-5 text-[#9AAAB8] mt-0.5 shrink-0" />
@@ -179,7 +244,7 @@ export default function Home() {
 
               <div className="flex flex-col sm:flex-row gap-3">
                 <Link
-                  href="/join?role=scout"
+                  href="/register"
                   className="px-6 py-3 bg-[#7B8794] hover:bg-[#5A6B7A] text-white font-semibold rounded-xl transition-all text-center text-sm"
                 >
                   Join as Scout, Rep or Introducer
@@ -200,7 +265,7 @@ export default function Home() {
       <MobileShowcase />
 
       {/* The Convergence — How It All Connects */}
-      <section id="how-it-connects" className="py-24 bg-white/[0.02] scroll-mt-20">
+      <section id="how-it-connects" className="py-24 scroll-mt-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full card text-sm text-foreground-muted mb-4">
@@ -208,11 +273,13 @@ export default function Home() {
               The Ecosystem Effect
             </div>
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Separate Paths, <span className="gradient-text">One Ecosystem</span>
+              Separate Paths,{" "}
+              <span className="gradient-text">One Ecosystem</span>
             </h2>
             <p className="text-foreground-muted max-w-2xl mx-auto">
-              Each cohort is powerful on its own. Together, they create the first truly complete
-              global football intermediary, representation, verification, and networking ecosystem.
+              Each cohort is powerful on its own. Together, they create the
+              first truly complete global football intermediary, representation,
+              verification, and networking ecosystem.
             </p>
           </div>
 
@@ -249,13 +316,21 @@ export default function Home() {
                 },
               ].map((item, i) => (
                 <div key={item.step} className="relative">
-                  <div className={`card rounded-2xl p-6 border ${item.borderColor} h-full`}>
-                    <div className={`w-12 h-12 rounded-xl flex items-center justify-center mb-4 ${item.bgColor}`}>
+                  <div
+                    className={`card rounded-2xl p-6 border ${item.borderColor} h-full`}
+                  >
+                    <div
+                      className={`w-12 h-12 rounded-xl flex items-center justify-center mb-4 ${item.bgColor}`}
+                    >
                       <item.icon className={`w-6 h-6 ${item.textColor}`} />
                     </div>
                     <h3 className="text-lg font-bold mb-2">{item.step}</h3>
-                    <p className="text-foreground-muted text-sm leading-relaxed mb-4">{item.desc}</p>
-                    <span className="text-xs text-foreground-dim">{item.who}</span>
+                    <p className="text-foreground-muted text-sm leading-relaxed mb-4">
+                      {item.desc}
+                    </p>
+                    <span className="text-xs text-foreground-dim">
+                      {item.who}
+                    </span>
                   </div>
                   {i < 2 && (
                     <div className="hidden md:flex absolute -right-3 top-1/2 -translate-y-1/2 z-10">
@@ -291,7 +366,13 @@ export default function Home() {
                 desc: "Transparent fee splits at every stage. Scouts, reps, and introducers earn alongside licensed agents.",
               },
             ].map((p) => (
-              <FeatureCard key={p.title} icon={p.icon} title={p.title} description={p.desc} gradient />
+              <FeatureCard
+                key={p.title}
+                icon={p.icon}
+                title={p.title}
+                description={p.desc}
+                gradient
+              />
             ))}
           </div>
         </div>
@@ -305,28 +386,47 @@ export default function Home() {
               The Flywheel <span className="gradient-text">Effect</span>
             </h2>
             <p className="text-foreground-muted max-w-2xl mx-auto">
-              More participants means more deals, more data, and more value for everyone.
-              This is how the ecosystem compounds.
+              More participants means more deals, more data, and more value for
+              everyone. This is how the ecosystem compounds.
             </p>
           </div>
 
           <div className="max-w-3xl mx-auto">
             <div className="space-y-6">
               {[
-                { from: "Scouts find talent", to: "Agents get inbound deal flow" },
-                { from: "Reps build player brands", to: "Players become more marketable" },
-                { from: "Introducers make connections", to: "Clubs discover new agents and players" },
-                { from: "Agents close deals", to: "Everyone earns — attracting more participants", highlight: true },
+                {
+                  from: "Scouts find talent",
+                  to: "Agents get inbound deal flow",
+                },
+                {
+                  from: "Reps build player brands",
+                  to: "Players become more marketable",
+                },
+                {
+                  from: "Introducers make connections",
+                  to: "Clubs discover new agents and players",
+                },
+                {
+                  from: "Agents close deals",
+                  to: "Everyone earns — attracting more participants",
+                  highlight: true,
+                },
               ].map((flow) => (
                 <div key={flow.from} className="flex items-center gap-4">
                   <div className="flex-1 card rounded-xl p-4 text-right">
-                    <p className="text-sm font-medium text-foreground">{flow.from}</p>
+                    <p className="text-sm font-medium text-foreground">
+                      {flow.from}
+                    </p>
                   </div>
                   <div className="w-10 h-10 rounded-full gradient-steel flex items-center justify-center shrink-0">
                     <ArrowRight className="w-5 h-5 text-white" />
                   </div>
                   <div className="flex-1 card rounded-xl p-4">
-                    <p className={`text-sm font-medium ${flow.highlight ? "text-[#C0C7CE]" : "text-foreground"}`}>{flow.to}</p>
+                    <p
+                      className={`text-sm font-medium ${flow.highlight ? "text-[#C0C7CE]" : "text-foreground"}`}
+                    >
+                      {flow.to}
+                    </p>
                   </div>
                 </div>
               ))}
@@ -345,13 +445,16 @@ export default function Home() {
                 The Inter Agentcy Directory
               </div>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Find the Right Agent.<br />
+                Find the Right Agent.
+                <br />
                 <span className="gradient-text">Verified & Searchable.</span>
               </h2>
               <p className="text-foreground-muted mb-6 leading-relaxed">
-                The largest verified directory of football agents in the world. Every agent is checked against
-                FA and FIFA registries — registration numbers, licence status, and minor authorisation confirmed.
-                Search by name, country, or registration number. Navigate A-Z. Filter by specialisation.
+                The largest verified directory of football agents in the world.
+                Every agent is checked against FA and FIFA registries —
+                registration numbers, licence status, and minor authorisation
+                confirmed. Search by name, country, or registration number.
+                Navigate A-Z. Filter by specialisation.
               </p>
               <div className="space-y-3 mb-8">
                 {[
@@ -388,22 +491,28 @@ export default function Home() {
             <div className="space-y-4">
               <div className="card rounded-2xl p-6 border border-[#9AAAB8]/10">
                 <div className="flex items-center justify-between mb-4">
-                  <h4 className="font-semibold text-white">For Players & Families</h4>
+                  <h4 className="font-semibold text-white">
+                    For Players & Families
+                  </h4>
                   <UserCheck className="w-5 h-5 text-[#9AAAB8]" />
                 </div>
                 <p className="text-sm text-foreground-muted">
-                  Looking for representation? Search verified agents by country and specialisation.
-                  Every agent in our directory is licence-confirmed — so you know who you&apos;re dealing with.
+                  Looking for representation? Search verified agents by country
+                  and specialisation. Every agent in our directory is
+                  licence-confirmed — so you know who you&apos;re dealing with.
                 </p>
               </div>
               <div className="card rounded-2xl p-6 border border-[#9AAAB8]/10">
                 <div className="flex items-center justify-between mb-4">
-                  <h4 className="font-semibold text-white">For Clubs & Sporting Directors</h4>
+                  <h4 className="font-semibold text-white">
+                    For Clubs & Sporting Directors
+                  </h4>
                   <Building2 className="w-5 h-5 text-[#9AAAB8]" />
                 </div>
                 <p className="text-sm text-foreground-muted">
-                  Find agents with access to the players you need. Filter by authorisation, federation,
-                  and network reach. Skip the guesswork — deal with verified professionals.
+                  Find agents with access to the players you need. Filter by
+                  authorisation, federation, and network reach. Skip the
+                  guesswork — deal with verified professionals.
                 </p>
               </div>
               <div className="card rounded-2xl p-6 border border-[#9AAAB8]/10">
@@ -412,8 +521,9 @@ export default function Home() {
                   <Shield className="w-5 h-5 text-[#9AAAB8]" />
                 </div>
                 <p className="text-sm text-foreground-muted">
-                  Claim your profile and make yourself visible. Players, clubs, and collaborators find you
-                  through the directory — it&apos;s your public-facing credential in the ecosystem.
+                  Claim your profile and make yourself visible. Players, clubs,
+                  and collaborators find you through the directory — it&apos;s
+                  your public-facing credential in the ecosystem.
                 </p>
               </div>
             </div>
@@ -428,14 +538,32 @@ export default function Home() {
             <div className="order-2 lg:order-1">
               <div className="grid grid-cols-2 gap-4">
                 {[
-                  { icon: Search, title: "Player Discovery", desc: "Access scout-sourced talent from emerging markets worldwide" },
-                  { icon: Verified, title: "Agent Verification", desc: "Only deal with licence-verified, FIFA-compliant intermediaries" },
-                  { icon: FileCheck, title: "Deal Rooms", desc: "Structured negotiations with audit trails and compliance checks" },
-                  { icon: Network, title: "Network Access", desc: "Connect with agents, scouts, and reps across 200+ countries" },
+                  {
+                    icon: Search,
+                    title: "Player Discovery",
+                    desc: "Access scout-sourced talent from emerging markets worldwide",
+                  },
+                  {
+                    icon: Verified,
+                    title: "Agent Verification",
+                    desc: "Only deal with licence-verified, FIFA-compliant intermediaries",
+                  },
+                  {
+                    icon: FileCheck,
+                    title: "Deal Rooms",
+                    desc: "Structured negotiations with audit trails and compliance checks",
+                  },
+                  {
+                    icon: Network,
+                    title: "Network Access",
+                    desc: "Connect with agents, scouts, and reps across 200+ countries",
+                  },
                 ].map((item) => (
                   <div key={item.title} className="card rounded-2xl p-5">
                     <item.icon className="w-6 h-6 text-[#9AAAB8] mb-3" />
-                    <h4 className="font-semibold text-white text-sm mb-1">{item.title}</h4>
+                    <h4 className="font-semibold text-white text-sm mb-1">
+                      {item.title}
+                    </h4>
                     <p className="text-xs text-foreground-muted">{item.desc}</p>
                   </div>
                 ))}
@@ -448,13 +576,16 @@ export default function Home() {
                 For Clubs
               </div>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Smarter Recruitment.<br />
+                Smarter Recruitment.
+                <br />
                 <span className="gradient-text">Trusted Partners.</span>
               </h2>
               <p className="text-foreground-muted mb-6 leading-relaxed">
-                Clubs waste time dealing with unverified intermediaries and fragmented scouting pipelines.
-                Inter Agentcy gives sporting directors a single platform to discover players, verify agents,
-                and manage inbound approaches — all with FIFA compliance built in.
+                Clubs waste time dealing with unverified intermediaries and
+                fragmented scouting pipelines. Inter Agentcy gives sporting
+                directors a single platform to discover players, verify agents,
+                and manage inbound approaches — all with FIFA compliance built
+                in.
               </p>
               <div className="space-y-3 mb-8">
                 {[
@@ -491,13 +622,15 @@ export default function Home() {
                 For Players
               </div>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Your Career.<br />
+                Your Career.
+                <br />
                 <span className="gradient-text">Your Team. Your Terms.</span>
               </h2>
               <p className="text-foreground-muted mb-6 leading-relaxed">
-                Finding the right representation can change everything. Inter Agentcy helps players
-                connect with verified agents, build a team around their career, and understand
-                exactly who&apos;s working for them — and how much it costs.
+                Finding the right representation can change everything. Inter
+                Agentcy helps players connect with verified agents, build a team
+                around their career, and understand exactly who&apos;s working
+                for them — and how much it costs.
               </p>
               <div className="space-y-3 mb-8">
                 {[
@@ -536,20 +669,27 @@ export default function Home() {
                 <div className="w-16 h-16 rounded-full gradient-steel flex items-center justify-center mx-auto mb-4">
                   <Shield className="w-8 h-8 text-white" />
                 </div>
-                <h4 className="font-bold text-white text-lg mb-2">FIFA Protection</h4>
+                <h4 className="font-bold text-white text-lg mb-2">
+                  FIFA Protection
+                </h4>
                 <p className="text-sm text-foreground-muted max-w-xs mx-auto">
-                  FIFA&apos;s 2023 regulations cap agent fees at 3% of player salary and 10% of transfer fees.
-                  Every agent on Inter Agentcy operates within these rules — automatically enforced.
+                  FIFA&apos;s 2023 regulations cap agent fees at 3% of player
+                  salary and 10% of transfer fees. Every agent on Inter Agentcy
+                  operates within these rules — automatically enforced.
                 </p>
               </div>
               <div className="grid grid-cols-2 gap-4">
                 <div className="card rounded-2xl p-5 text-center">
                   <p className="text-2xl font-bold text-white mb-1">3%</p>
-                  <p className="text-xs text-foreground-muted">Max agent fee on player salary</p>
+                  <p className="text-xs text-foreground-muted">
+                    Max agent fee on player salary
+                  </p>
                 </div>
                 <div className="card rounded-2xl p-5 text-center">
                   <p className="text-2xl font-bold text-white mb-1">10%</p>
-                  <p className="text-xs text-foreground-muted">Max agent fee on transfer fees</p>
+                  <p className="text-xs text-foreground-muted">
+                    Max agent fee on transfer fees
+                  </p>
                 </div>
               </div>
             </div>
@@ -567,12 +707,14 @@ export default function Home() {
                 For Licensed Agents & Agencies
               </div>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Stop Juggling Tools.<br />
+                Stop Juggling Tools.
+                <br />
                 <span className="gradient-text">Scale Your Practice.</span>
               </h2>
               <p className="text-foreground-muted mb-8 leading-relaxed">
-                Most agents run on spreadsheets, WhatsApp, and gut feeling. Inter Agentcy replaces the chaos
-                with a unified platform — CRM, compliance, scouting data, deal rooms, and a verified directory
+                Most agents run on spreadsheets, WhatsApp, and gut feeling.
+                Inter Agentcy replaces the chaos with a unified platform — CRM,
+                compliance, scouting data, deal rooms, and a verified directory
                 that brings opportunities to you.
               </p>
               <div className="space-y-4 mb-8">
@@ -621,8 +763,9 @@ export default function Home() {
                   <h4 className="font-semibold text-white">Scouts</h4>
                 </div>
                 <p className="text-sm text-foreground-muted mb-3">
-                  Discover players, write scouting reports, upload match footage. When your finds get signed,
-                  you earn a finder&apos;s fee — tracked and paid through the platform.
+                  Discover players, write scouting reports, upload match
+                  footage. When your finds get signed, you earn a finder&apos;s
+                  fee — tracked and paid through the platform.
                 </p>
                 <div className="flex items-center gap-2 text-xs text-[#9AAAB8]">
                   <ArrowDownRight className="w-3.5 h-3.5" />
@@ -636,8 +779,9 @@ export default function Home() {
                   <h4 className="font-semibold text-white">Representatives</h4>
                 </div>
                 <p className="text-sm text-foreground-muted mb-3">
-                  Manage player careers end-to-end — brand deals, media, sponsorships, career planning.
-                  Partner with licensed agents when transfer negotiations begin.
+                  Manage player careers end-to-end — brand deals, media,
+                  sponsorships, career planning. Partner with licensed agents
+                  when transfer negotiations begin.
                 </p>
                 <div className="flex items-center gap-2 text-xs text-[#9AAAB8]">
                   <ArrowDownRight className="w-3.5 h-3.5" />
@@ -651,8 +795,9 @@ export default function Home() {
                   <h4 className="font-semibold text-white">Introducers</h4>
                 </div>
                 <p className="text-sm text-foreground-muted mb-3">
-                  You know people. Connect players with agents, agents with clubs, scouts with agencies.
-                  Every successful introduction earns you a referral commission.
+                  You know people. Connect players with agents, agents with
+                  clubs, scouts with agencies. Every successful introduction
+                  earns you a referral commission.
                 </p>
                 <div className="flex items-center gap-2 text-xs text-[#9AAAB8]">
                   <ArrowDownRight className="w-3.5 h-3.5" />
@@ -667,13 +812,17 @@ export default function Home() {
                 For Scouts, Reps & Introducers
               </div>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Your Way Into<br />
-                <span className="gradient-text">Football&apos;s Inner Circle.</span>
+                Your Way Into
+                <br />
+                <span className="gradient-text">
+                  Football&apos;s Inner Circle.
+                </span>
               </h2>
               <p className="text-foreground-muted mb-8 leading-relaxed">
-                The football industry has always been hard to break into. Inter Agentcy changes that.
-                No licence required. No connections needed. We provide the tools, training, and network —
-                you build your career from the ground up.
+                The football industry has always been hard to break into. Inter
+                Agentcy changes that. No licence required. No connections
+                needed. We provide the tools, training, and network — you build
+                your career from the ground up.
               </p>
               <div className="space-y-4 mb-8">
                 {[
@@ -694,7 +843,8 @@ export default function Home() {
                 href="/ecosystem"
                 className="inline-flex items-center gap-2 text-[#C0C7CE] hover:underline text-sm font-medium"
               >
-                See all roles and how they connect <ArrowRight className="w-4 h-4" />
+                See all roles and how they connect{" "}
+                <ArrowRight className="w-4 h-4" />
               </Link>
             </div>
           </div>
@@ -709,7 +859,8 @@ export default function Home() {
               Built on <span className="gradient-text">Trust</span>
             </h2>
             <p className="text-foreground-muted max-w-2xl mx-auto">
-              In an industry where trust is everything, verification isn&apos;t optional — it&apos;s the foundation.
+              In an industry where trust is everything, verification isn&apos;t
+              optional — it&apos;s the foundation.
             </p>
           </div>
 
@@ -736,7 +887,9 @@ export default function Home() {
                   <item.icon className="w-6 h-6 text-[#9AAAB8]" />
                 </div>
                 <h3 className="text-lg font-bold mb-2">{item.title}</h3>
-                <p className="text-foreground-muted text-sm leading-relaxed">{item.desc}</p>
+                <p className="text-foreground-muted text-sm leading-relaxed">
+                  {item.desc}
+                </p>
               </div>
             ))}
           </div>
@@ -753,19 +906,20 @@ export default function Home() {
                 The Ecosystem Is Growing.
               </h2>
               <p className="text-foreground-muted mb-8 max-w-xl mx-auto">
-                Whether you&apos;re a FIFA-licensed agent looking for better tools, or someone
-                who wants to build a career in football — there&apos;s a seat at the table.
+                Whether you&apos;re a FIFA-licensed agent looking for better
+                tools, or someone who wants to build a career in football —
+                there&apos;s a seat at the table.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
-                  href="/join?role=agent"
+                  href="/register"
                   className="inline-flex items-center gap-2 px-8 py-4 gradient-steel-btn text-white font-semibold rounded-xl transition-all"
                 >
                   Join as an Agent
                   <Shield className="w-5 h-5" />
                 </Link>
                 <Link
-                  href="/join?role=scout"
+                  href="/register"
                   className="inline-flex items-center gap-2 px-8 py-4 card card-hover text-white font-semibold rounded-xl transition-all"
                 >
                   Join as Scout, Rep or Introducer

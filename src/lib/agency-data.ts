@@ -11,9 +11,11 @@ try {
 
 export interface Agency {
   name: string;
+  slogan: string;
   tagline: string;
   slug: string;
   country: string;
+  socialLinks: object;
   value: string;
   href: string;
   // Enriched fields
@@ -24,6 +26,7 @@ export interface Agency {
   services?: string[];
   partnerNetwork?: string;
   // Parsed from alsoKnownAs
+  foundationYear?: string;
   founded?: string;
   hq?: string;
   playerCount?: number;
@@ -129,9 +132,9 @@ export function getSimilarAgencies(agency: Agency, count = 3): Agency[] {
 
 export function getProfileCompleteness(agency: Agency): number {
   const fields = [
-    agency.about, agency.founded, agency.hq, agency.website,
+    agency.about, agency.foundationYear, agency.website,agency.slogan,
     agency.keyPeople?.length, agency.services?.length,
-    agency.notableDeals?.length, agency.email, agency.linkedin,
+    agency.notableDeals, agency.email, agency.socialLinks,
   ];
   const filled = fields.filter(Boolean).length;
   return Math.round(((4 + filled) / (4 + fields.length)) * 100);

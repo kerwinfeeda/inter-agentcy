@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import GlobalStyles from "@/styles/GlobalStyles.styles";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -11,16 +12,23 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Inter Agentcy — The Future of Football Representation",
-  description: "Enterprise-grade tools, compliance, and network for independent football agents worldwide.",
+  description:
+    "Enterprise-grade tools, compliance, and network for independent football agents worldwide.",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <html lang="en">
       <body className={`${inter.className} min-h-screen flex flex-col`}>
         <Navbar />
         <main className="flex-1 pt-14">{children}</main>
         <Footer />
+        <GlobalStyles />
+        <div id="modal-root"></div>
       </body>
     </html>
   );

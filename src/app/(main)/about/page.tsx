@@ -2,9 +2,21 @@ import { Target, Users, Globe, Award, Lightbulb, Heart } from "lucide-react";
 import Link from "next/link";
 
 const team = [
-  { name: "Kerwin Alabi", role: "Founder & CEO", bio: "Football industry veteran with a vision to democratize player representation globally." },
-  { name: "Coming Soon", role: "CTO", bio: "We're building our leadership team. Interested? Get in touch." },
-  { name: "Coming Soon", role: "Head of Compliance", bio: "FIFA regulatory expert joining to lead our compliance suite." },
+  {
+    name: "Kerwin Alabi",
+    role: "Founder & CEO",
+    bio: "Football industry veteran with a vision to democratize player representation globally.",
+  },
+  {
+    name: "Coming Soon",
+    role: "CTO",
+    bio: "We're building our leadership team. Interested? Get in touch.",
+  },
+  {
+    name: "Coming Soon",
+    role: "Head of Compliance",
+    bio: "FIFA regulatory expert joining to lead our compliance suite.",
+  },
 ];
 
 const advisors = [
@@ -15,12 +27,42 @@ const advisors = [
 ];
 
 const values = [
-  { icon: Target, title: "Democratize Access", description: "Every aspiring agent deserves enterprise-grade tools, regardless of where they're based." },
-  { icon: Heart, title: "Player First", description: "Better-equipped agents means better outcomes for players. That's our north star." },
-  { icon: Globe, title: "Global by Design", description: "Football is the world's game. Our platform serves agents in every market." },
-  { icon: Award, title: "Integrity Always", description: "Full compliance with FIFA regulations isn't optional — it's foundational." },
-  { icon: Lightbulb, title: "Innovation", description: "We bring tech-forward thinking to an industry still running on handshakes and spreadsheets." },
-  { icon: Users, title: "Community", description: "Independent doesn't mean alone. We're building the strongest agent network in football." },
+  {
+    icon: Target,
+    title: "Democratize Access",
+    description:
+      "Every aspiring agent deserves enterprise-grade tools, regardless of where they're based.",
+  },
+  {
+    icon: Heart,
+    title: "Player First",
+    description:
+      "Better-equipped agents means better outcomes for players. That's our north star.",
+  },
+  {
+    icon: Globe,
+    title: "Global by Design",
+    description:
+      "Football is the world's game. Our platform serves agents in every market.",
+  },
+  {
+    icon: Award,
+    title: "Integrity Always",
+    description:
+      "Full compliance with FIFA regulations isn't optional — it's foundational.",
+  },
+  {
+    icon: Lightbulb,
+    title: "Innovation",
+    description:
+      "We bring tech-forward thinking to an industry still running on handshakes and spreadsheets.",
+  },
+  {
+    icon: Users,
+    title: "Community",
+    description:
+      "Independent doesn't mean alone. We're building the strongest agent network in football.",
+  },
 ];
 
 export default function AboutPage() {
@@ -34,8 +76,9 @@ export default function AboutPage() {
             <span className="gradient-text">Representation</span>
           </h1>
           <p className="text-lg text-foreground-muted leading-relaxed">
-            The football agent industry is a $1.37B market dominated by a handful of super-agencies.
-            We believe independent agents — especially those in emerging markets — deserve the same tools,
+            The football agent industry is a $1.37B market dominated by a
+            handful of super-agencies. We believe independent agents —
+            especially those in emerging markets — deserve the same tools,
             network, and infrastructure. Inter Agentcy levels the playing field.
           </p>
         </div>
@@ -65,7 +108,12 @@ export default function AboutPage() {
             {team.map((t) => (
               <div key={t.name} className="card rounded-2xl p-8 text-center">
                 <div className="w-20 h-20 rounded-full bg-gradient-to-br from-accent to-accent-light mx-auto mb-4 flex items-center justify-center text-2xl font-bold">
-                  {t.name === "Coming Soon" ? "?" : t.name.split(" ").map(n => n[0]).join("")}
+                  {t.name === "Coming Soon"
+                    ? "?"
+                    : t.name
+                        .split(" ")
+                        .map((n) => n[0])
+                        .join("")}
                 </div>
                 <h3 className="text-lg font-bold">{t.name}</h3>
                 <p className="text-accent text-sm mb-3">{t.role}</p>
@@ -100,10 +148,11 @@ export default function AboutPage() {
             <div className="relative z-10">
               <h2 className="text-3xl font-bold mb-4">Join Our Mission</h2>
               <p className="text-foreground-muted mb-8 max-w-xl mx-auto">
-                Whether you&apos;re an agent, a club, or someone who believes in democratizing football — there&apos;s a place for you.
+                Whether you&apos;re an agent, a club, or someone who believes in
+                democratizing football — there&apos;s a place for you.
               </p>
               <Link
-                href="/join"
+                href="/register"
                 className="inline-flex items-center gap-2 px-8 py-4 gradient-steel-btn text-white font-semibold rounded-xl transition-all"
               >
                 Get Involved
